@@ -1,0 +1,32 @@
+/** Basic styling */
+body { 
+    font-family: Helvetica, Arial, sans-serif; 
+   
+    line-height: 1.5; 
+    font-weight: 300; 
+    color:#111; 
+    background-color: #fdfdfd; 
+    width:80%;
+    margin:auto;
+}
+main {
+    font-size:larger;
+}
+/** Links */
+a { color: #2a7ae2; }
+a:visited { color: #1756a9; }
+a:hover { color: #511; }
+
+/** Footer **/
+footer { 
+    font-size:smaller;
+    background-color:papayawhip;
+    border: 2px #111 solid;
+    padding: 1vw;
+    display:flex;
+    justify-content: space-between;
+} 
+ul.social-media-list {
+    list-style: none;
+}
+img#github {width:4vw;}
