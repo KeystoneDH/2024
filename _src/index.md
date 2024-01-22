@@ -14,11 +14,11 @@ Our theme of "play" celebrates experimentation and immersion in the experience o
 Presentations need not address this theme directly, but the conference organizers invite 
 opportunities to play with a newly developing Retro Game and Virtual Augmented Reality labs at Penn State Behrend.
 
-We are delighted welcome our distinguished keynote presenters, Amanda Licastro and Micki Kaufman! 
+We are delighted welcome our distinguished keynote presenters, **Amanda Licastro** and **Micki Kaufman**! 
 Kaufman and Licastro will lead a new kind of immersive keynote event at this year's conference,
 to offer participants an opportunity to explore 
 digital humanities projects designed and developed in virtual / augmented reality. 
-The Keynote event will feature Kaufman's Quantifying Kissinger project: a scholarly archive designed for interactive immersion.
+The Keynote event will feature Kaufman's _Quantifying Kissinger_ project: a scholarly archive designed for interactive immersion.
 
 Participants will have multiple 
 options for experiencing / viewing the immersive events. They may opt 
