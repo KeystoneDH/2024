@@ -10,41 +10,44 @@ body {
     margin:auto;
 }
 /* Header and navbar styling */
-div.top {
-    display: flex;
-    justify-content:space-between;
+header {
+    display:flex;
+}
+div.logo-nav { /* top left: controls vertical space */
+    display:flex;
+    flex-direction:column;
+
 
 }
-
-div.top figure.logo {
+figure.logo {
     display:flex;
- justify-content:space-evenly;
+    justify-content:space-around;
 
 }
 figure.logo img#kdh-logo {
     width:3vw;
     min-width:75px;
     padding-right:2em;
-    padding-bottom:2em;
 }
 figure.logo h1{
-font-size:5vw;
+font-size:4vw;
 
 }
-
+figure.erie-behrend {
+    flex-grow: 1;
+}
 img#erie-behrend {
-    max-width:200px;
-    padding-left:.5em;
-
+    width:100%;
+    max-width:250px;
+    min-width:90px;
 }
 nav {
     background-color:papayawhip;
     border: 2px #111 solid;
 }
 nav ul {
-    width:80%;
     list-style-type: none;
-
+    margin:auto;
 }
 nav ul li {
     font-size: 1.2em;
