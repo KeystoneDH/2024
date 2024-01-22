@@ -1,6 +1,5 @@
 ---
 layout: outer-layout.njk
-title: 2024 Keystone DH
 ---
 
  

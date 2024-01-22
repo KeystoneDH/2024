@@ -5,11 +5,28 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47e8e673-2925-4913-91b2-308fe74cad94" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/test-site.iml" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/_src/_includes/top.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_src/img/BMC_black3-thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_src/img/DHRXAug2012.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_src/img/Lauren_Klein_small.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_src/img/TDH_72dpi3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_src/img/UPenn_logo.svg.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_src/img/chf.jpeg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_src/img/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_src/img/haverford-college.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_src/img/keystonedh-2017.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_src/img/keystonedh-keystone.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_src/img/keystonedh-text.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_src/img/logo-haverford.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_src/img/swarthmore_logo_thumb.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/_src/img/temple-logo.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.eleventy.js" beforeDir="false" afterPath="$PROJECT_DIR$/.eleventy.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/bundle.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bundle.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_src/_includes/footer.html" beforeDir="false" afterPath="$PROJECT_DIR$/_src/_includes/footer.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_src/_includes/outer-layout.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_src/_includes/outer-layout.njk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_src/bundle.css" beforeDir="false" afterPath="$PROJECT_DIR$/_src/bundle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_src/index.md" beforeDir="false" afterPath="$PROJECT_DIR$/_src/index.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +64,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1705873708350</updated>
-      <workItem from="1705873711186" duration="608000" />
+      <workItem from="1705873711186" duration="7162000" />
     </task>
     <servers />
   </component>

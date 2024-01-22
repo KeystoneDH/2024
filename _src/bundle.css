@@ -6,12 +6,47 @@ body {
     font-weight: 300; 
     color:#111; 
     background-color: #fdfdfd; 
-    width:80%;
+    width:90%;
     margin:auto;
 }
+/* Header and navbar styling */
+div.top {
+    margin: auto;
+    display: flex;
+    justify-content: center;
+}
+
+div.top h1{
+    font-size: 2.5em;
+}
+div.top img {
+    width:5vw;
+    min-width: 75px;
+    padding-right:2em;
+
+}
+nav {
+    background-color:papayawhip;
+    font-size: 1.5em;
+    border: 2px #111 solid;
+    margin:auto;
+}
+nav ul {
+    list-style-type: none;
+    display:flex;
+    justify-content: center;
+}
+nav ul li {
+    display:inline;
+    padding-left: .5em;
+    padding-right: .5em;
+}
+
+/* main page content */
 main {
     font-size:larger;
 }
+
 /** Links */
 a { color: #2a7ae2; }
 a:visited { color: #1756a9; }
