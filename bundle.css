@@ -9,9 +9,56 @@ body {
     width:80%;
     margin:auto;
 }
+/* Header and navbar styling */
+div.top {
+    display: flex;
+    justify-content:space-between;
+
+}
+
+div.top figure.logo {
+    display:flex;
+ justify-content:space-evenly;
+
+}
+figure.logo img#kdh-logo {
+    width:3vw;
+    min-width:75px;
+    padding-right:2em;
+    padding-bottom:2em;
+}
+figure.logo h1{
+font-size:5vw;
+
+}
+
+img#erie-behrend {
+    max-width:200px;
+    padding-left:.5em;
+
+}
+nav {
+    background-color:papayawhip;
+    border: 2px #111 solid;
+}
+nav ul {
+    width:80%;
+    list-style-type: none;
+
+}
+nav ul li {
+    font-size: 1.2em;
+    display:inline;
+    padding-left: .5em;
+    padding-right: .5em;
+}
+
+
+/* main page content */
 main {
     font-size:larger;
 }
+
 /** Links */
 a { color: #2a7ae2; }
 a:visited { color: #1756a9; }
