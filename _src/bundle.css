@@ -6,41 +6,53 @@ body {
     font-weight: 300; 
     color:#111; 
     background-color: #fdfdfd; 
-    width:90%;
+    width:80%;
     margin:auto;
 }
 /* Header and navbar styling */
 div.top {
-    margin: auto;
     display: flex;
-    justify-content: center;
+    justify-content:space-between;
+
 }
 
-div.top h1{
-    font-size: 2.5em;
+div.top figure.logo {
+    display:flex;
+ justify-content:space-evenly;
+
 }
-div.top img {
-    width:5vw;
-    min-width: 75px;
+figure.logo img#kdh-logo {
+    width:3vw;
+    min-width:75px;
     padding-right:2em;
+    padding-bottom:2em;
+}
+figure.logo h1{
+font-size:5vw;
+
+}
+
+img#erie-behrend {
+    max-width:200px;
+    padding-left:.5em;
 
 }
 nav {
     background-color:papayawhip;
-    font-size: 1.5em;
     border: 2px #111 solid;
-    margin:auto;
 }
 nav ul {
+    width:80%;
     list-style-type: none;
-    display:flex;
-    justify-content: center;
+
 }
 nav ul li {
+    font-size: 1.2em;
     display:inline;
     padding-left: .5em;
     padding-right: .5em;
 }
+
 
 /* main page content */
 main {

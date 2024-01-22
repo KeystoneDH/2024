@@ -1,12 +1,29 @@
 ---
 layout: outer-layout.njk
+permalink: "index.html"
 ---
 
  
-Keystone DH is a network of institutions and practitioners committed to advancing collaborative scholarship in digital humanities research and pedagogy across the Mid-Atlantic. This year, the Keystone DH conference will be hosted by [DIGIT](https://digit-psb.github.io/DIGIT/)'s DH Lab
+Keystone DH is a network of institutions and practitioners committed to advancing collaborative scholarship in digital humanities research and pedagogy across the Mid-Atlantic. 
+This year, the Keystone DH conference will be hosted by the [DIGIT](https://digit-psb.github.io/DIGIT/) program
 at [Penn State Erie, The Behrend College](https://behrend.psu.edu/) on  <strong>May 20 - 22, 2024</strong>.
 
-This year's conference theme is play: the fun of exploring, designing, gaming and game-making, trying new things without being sure you understand them, or giving serious purposes and scholarly research a playful twist.        
-        
-Watch this space for the Call for Papers, planned workshops, invited speakers, and special events!
+This year's conference theme is <strong>play</strong>: the fun of exploring, gaming, 
+trying new things without being sure you understand them. 
+Our theme of "play" celebrates experimentation and immersion in the experience of digital humanities. 
+Presentations need not address this theme directly, but the conference organizers invite 
+opportunities to play with a newly developing Retro Game and Virtual Augmented Reality labs at Penn State Behrend.
+
+We are delighted welcome our distinguished keynote presenters, Amanda Licastro and Micki Kaufman! 
+Kaufman and Licastro will lead a new kind of immersive keynote event at this year's conference,
+to offer participants an opportunity to explore 
+digital humanities projects designed and developed in virtual / augmented reality. 
+The Keynote event will feature Kaufman's Quantifying Kissinger project: a scholarly archive designed for interactive immersion.
+
+Participants will have multiple 
+options for experiencing / viewing the immersive events. They may opt 
+to try headsets and immerse themselves with guidance in a virtual constructed space, or they may watch the
+virtual world projected on monitors. 
+
+Please watch this space for details on paper / project submissions, workshops, and conference details! 
     
