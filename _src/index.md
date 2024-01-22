@@ -12,7 +12,7 @@ This year's conference theme is <strong>play</strong>: the fun of exploring, gam
 trying new things without being sure you understand them. 
 Our theme of "play" celebrates experimentation and immersion in the experience of digital humanities. 
 Presentations need not address this theme directly, but the conference organizers invite 
-opportunities to play with a newly developing Retro Game and Virtual Augmented Reality labs at Penn State Behrend.
+opportunities to play with the newly developing Retro Game and Virtual Augmented Reality labs at Penn State Behrend.
 
 We are delighted welcome our distinguished keynote presenters, **Amanda Licastro** and **Micki Kaufman**! 
 Kaufman and Licastro will lead a new kind of immersive keynote event at this year's conference,
