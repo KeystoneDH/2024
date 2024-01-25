@@ -18,7 +18,10 @@ We are delighted to welcome our distinguished keynote presenters, **Amanda Licas
 Kaufman and Licastro will lead a new kind of immersive keynote event at this year's conference,
 to offer participants an opportunity to explore 
 digital humanities projects designed and developed in virtual / augmented reality. 
-The Keynote event will feature Kaufman's _Quantifying Kissinger_ project: a scholarly archive designed for interactive immersion.
+* Kaufman will present her "Quantifying Kissinger" project: a scholarly archive designed for 3D abstract interactive immersion via game engine technology.
+* Licastro's presentation, titled "Embracing the Glitch", will address supporting Extended Reality (XR) across the curriculum, and will feature work from her course
+Virtual Bodies, Virtual Worlds) highlighting student projects. 
+
 
 Participants will have multiple 
 options for experiencing / viewing the immersive events. They may opt 
