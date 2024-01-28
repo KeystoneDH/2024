@@ -11,7 +11,7 @@ While we welcome proposals that address our conference theme,
 presentations need not address the theme directly, and may address any aspect of digital humanities broadly conceived. 
 
 ### Details
-We are planning 90-minute panel blocks (as usual for this conference). Proposers may submit proposals for individual ~15-minute presentations or 
+We are planning 90-minute panel blocks (as usual for this conference). You may submit proposals for individual ~15-minute presentations or 
 for fully a formed "roundtable" panel with multiple identified participants. 
 
 As with previous Keystone DH conferences, we welcome a range of proposals, including:
