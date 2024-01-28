@@ -19,10 +19,11 @@ As with previous Keystone DH conferences, we welcome a range of proposals, inclu
 * Presentations on DH pedagogy / research exploring, critiquing, applying, developing generative AI;
 * Progress / methods in developing digital scholarly editions 
 * Roundtable discussions on new directions and potential energies in humanities work digitally practiced;
-* Workshops to share/get advice on projects in progress, which this year may take the form of
+* “Workshopping” to share/get advice on projects in progress, which could take the form of:
   * short immersive installations of 3D projects
-  * interface work for browser exploration of digital scholarship
+  * interface design and development in progress
   * investigations of a method (e.g. data sonification, analyzing/curating/classifying visual arts, natural language processing, network analysis, mapping time and space).
+  * something we haven't thought of here!
 
 ### Use of generative AI language tools:
 Since generative AI is an important and timely area of investigation in digital humanities, we 
