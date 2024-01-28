@@ -1,36 +1,86 @@
 /** Basic styling */
-body { 
-    font-family: Helvetica, Arial, sans-serif; 
-   
+body {
+    font-family: 'Open Sans', sans-serif;
+
+
     line-height: 1.5; 
-    font-weight: 300; 
+
     color:#111; 
-    background-color: #fdfdfd; 
+    background-color: #fdfdfd;
     width:80%;
     margin:auto;
 }
-/* Header and navbar styling */
-header {
-    display:flex;
-}
-div.logo-nav { /* top left: controls vertical space */
-    display:flex;
-    flex-direction:column;
 
+.trapezoid /*MAKE SET SIZE FOR SMALLER SCREENS*/
+{   z-index: -1;
+    position: absolute;
+    right: 0px;
+    top: 0px;
+    opacity: .30;
+    border-bottom: 100vh solid #e6b300 ;/*SHAPE HEIGHT*/
+    border-left: 450px solid transparent;
+    border-right: 0px solid transparent;
+    height: 0;
+    width: 40vw;
+}
+/*@media (max-width: 1650px){
+    .trapezoid {
+        border-bottom: 50vh solid #CCC97F;
+    }
+}*/
+
+/*
+@media (max-width: 800px) {
+  #addedImg {
+    flex-direction: column;
+  }
+}
+
+*/
+
+
+
+
+          /* Header and navbar styling */
+header {
+    position: static;
+    z-index: 1;
+    display:flex;
+    height: 100vh;
+}
+
+
+div.logo-nav { /*MAKE STICKY AND TRANSFORM STICKY*/
+    display:flex;
+    position: sticky;
+    top: 0;
+    flex-direction:column;
+}
+section#title {
+    padding-left: 40px;
+    display: flex;
+    flex-direction: row;
 
 }
 figure.logo {
-    display:flex;
-    justify-content:space-around;
-
+    margin: 0;
+    padding-top: 2%;
 }
 figure.logo img#kdh-logo {
-    width:3vw;
-    min-width:75px;
-    padding-right:2em;
+    position: initial;
+    clip: rect(0px,65px,60px,0px);
+    width:5.5vw;
+    min-width:40px;
+
+
 }
-figure.logo h1{
-font-size:4vw;
+section h1{
+    margin: 0;
+    font-size:7vw;
+    line-height: 1;
+    word-spacing: .1em;
+    width: 50vw;
+    height: revert;
 
 }
 figure.erie-behrend {
@@ -41,9 +91,8 @@ img#erie-behrend {
     max-width:250px;
     min-width:90px;
 }
-nav {
-    background-color:papayawhip;
-    border: 2px #111 solid;
+nav {padding-top: 100px;
+    margin-bottom: 15px;
 }
 nav ul {
     list-style-type: none;
@@ -56,10 +105,17 @@ nav ul li {
     padding-right: .5em;
 }
 
+#behrendHomeLink {
+    margin: 0;
+}
+
 
 /* main page content */
 main {
-    font-size:larger;
+    margin: 0 auto;
+    padding: 10vw;
+
+    font-size: 1.2em;
 }
 
 /** Links */
@@ -68,10 +124,9 @@ a:visited { color: #1756a9; }
 a:hover { color: #511; }
 
 /** Footer **/
-footer { 
-    font-size:smaller;
-    background-color:papayawhip;
-    border: 2px #111 solid;
+footer {
+    font-size:1em;
+    background-color: #ffeeb3;
     padding: 1vw;
     display:flex;
     justify-content: space-between;

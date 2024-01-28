@@ -1,10 +1,9 @@
 ---
-layout: outer-layout.njk
+layout: layouts/main-top.html
 permalink: "index.html"
 ---
 
  
-Keystone DH is a network of institutions and practitioners committed to advancing collaborative scholarship in digital humanities research and pedagogy across the Mid-Atlantic. 
 This year, the Keystone DH conference will be hosted by the [DIGIT](https://digit-psb.github.io/DIGIT/) program
 at [Penn State Erie, The Behrend College](https://behrend.psu.edu/) on  <strong>May 20 - 22, 2024</strong>.
 
