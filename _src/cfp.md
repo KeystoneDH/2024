@@ -3,12 +3,14 @@ layout: outer-layout.njk
 permalink: "cfp.html"
 ---
 
+### Theme
 This year's conference theme is **play**: the fun of exploring, gaming,
 trying new things without being sure you understand them.
-Our theme of "play" celebrates experimentation and immersion in the experience of digital humanities.
+Our theme of “play” celebrates experimentation and immersion in the experience of digital humanities.
 While we welcome proposals that address our conference theme, 
 presentations need not address the theme directly, and may address any aspect of digital humanities broadly conceived. 
 
+### Details
 We are planning 90-minute panel blocks (as usual for this conference). Proposers may submit proposals for individual ~15-minute presentations or 
 for fully a formed "roundtable" panel with multiple identified participants. 
 
@@ -22,8 +24,20 @@ As with previous Keystone DH conferences, we welcome a range of proposals, inclu
   * interface work for browser exploration of digital scholarship
   * investigations of a method (e.g. data sonification, analyzing/curating/classifying visual arts, natural language processing, network analysis, mapping time and space).
 
-We ask for submissions by **March 1**, and plan to respond by March 15. 
-The submission form will be posted here soon!
+### Use of generative AI language tools:
+Since generative AI is an important and timely area of investigation in digital humanities, we 
+are interested in your experiments with it, but we expect our conference participants to take responsibility for authorship of proposals and presentations. 
+We ask that conference applicants and presenters report their use of generative AI language tools, following
+[arXiv's AI policy](https://blog.arxiv.org/2023/01/31/arxiv-announces-new-policy-on-chatgpt-and-similar-tools/).
+
+### Timeline and Submission Form
+* We ask for submissions by **March 1**! 
+* We plan to respond to all submissions by March 15!
+* Conference dates: May 20 - 22, 2024!
+
+Please submit proposals using the Conference Submission Form (coming shortly)!
+
+
 
 
 

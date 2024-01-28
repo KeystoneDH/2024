@@ -8,7 +8,7 @@ The 2024 Keystone DH conference will be hosted by the [DIGIT](https://digit-psb.
 at [Penn State Erie, The Behrend College](https://behrend.psu.edu/) on  <strong>May 20 - 22, 2024</strong>.
 
 Our theme is <strong>play</strong>: the fun of exploring, gaming, trying new things without being sure you understand them.
-Our theme of "play" celebrates experimentation and immersion in the experience of digital humanities. 
+Our theme of “play” celebrates experimentation and immersion in the experience of digital humanities. 
 Presentations need not address this theme directly, but the conference organizers invite 
 opportunities to play with newly developing Retro Game and Virtual Augmented Reality labs at Penn State Behrend. 
 
