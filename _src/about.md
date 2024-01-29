@@ -1,6 +1,7 @@
 ---
-layout: layouts/other-top.html
+layout: "layouts/other-top.html"
 permalink: "about.html"
+title: "about"
 ---
 
 

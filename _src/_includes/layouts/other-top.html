@@ -1,9 +1,9 @@
 ---
-layout: outer-layout.njk
+layout: "outer-layout.njk"
 ---
 
 
-<header><!-- header flexes two containers horizontally. -->
+<header id="othertop"><!-- header flexes two containers horizontally. -->
 
     <div class="logo-nav">
 
@@ -33,3 +33,6 @@ layout: outer-layout.njk
     </figure> -->
 </header>
 
+<main>
+    {{ content }}
+</main>

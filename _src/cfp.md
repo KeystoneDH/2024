@@ -1,6 +1,7 @@
 ---
-layout: layouts/other-top.html
+layout: "layouts/other-top.html"
 permalink: "cfp.html"
+title: "cfp"
 ---
 
 This year's conference theme is **play**: the fun of exploring, gaming,

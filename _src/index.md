@@ -1,5 +1,5 @@
 ---
-layout: layouts/main-top.html
+layout: "layouts/main-top.html"
 permalink: "index.html"
 ---
 

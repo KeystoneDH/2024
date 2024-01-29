@@ -1,7 +1,7 @@
 ---
-layout: outer-layout.njk
+layout: "outer-layout.njk"
+title: "KEYSTONE DH 2024"
 ---
-
 
 
 <header><!-- header flexes two containers horizontally. -->
@@ -28,7 +28,7 @@ layout: outer-layout.njk
             </figure>
             <section>
                 <h1>{{ title }}</h1>
-                <p><a id="behrendHomeLink">Penn State Erie, The Behrend College</a></p>
+                <p><a id="behrendHomeLink" href="https://behrend.psu.edu/" target="_blank" >Penn State Erie, The Behrend College</a></p>
             </section>
         </section>
 
@@ -38,6 +38,10 @@ layout: outer-layout.njk
         <img id="erie-behrend" src="img/Erie-and-Behrend.svg" alt="map highlighting the location of Behrend in Erie County, PA"/>
     </figure> -->
 </header>
+
+<main>
+    {{ content }}
+</main>
 
 
 

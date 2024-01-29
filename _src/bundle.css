@@ -49,6 +49,10 @@ header {
     height: 100vh;
 }
 
+header#othertop {
+    height: 20vh;
+}
+
 
 div.logo-nav { /*MAKE STICKY AND TRANSFORM STICKY*/
     display:flex;
