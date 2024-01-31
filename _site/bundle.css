@@ -1,10 +1,13 @@
 /** Basic styling */
+
+
 body {
     font-family: 'Open Sans', sans-serif;
     line-height: 1.5;
     color:#111; 
     background-color: #fdfdfd;
     width:80%;
+    overflow-x: hidden;
 
 }
 body:not(.footer) {
@@ -73,8 +76,6 @@ header#othertop {
 
 div.logo-nav { /*MAKE STICKY AND TRANSFORM STICKY*/
     display:flex;
-    position: sticky;
-    top: 0;
     flex-direction:column;
     height: fit-content;
 }
@@ -113,9 +114,13 @@ img#erie-behrend {
     max-width:250px;
     min-width:90px;
 }
-nav {padding-top: 100px;
-    margin-bottom: 15px;
+nav {
+    padding-top: 25px;
+    margin: 75px 0 15px 0;
+    /*position: sticky;
+    top: 0;*/
 }
+
 nav ul {
     list-style-type: none;
     margin:auto;
@@ -148,16 +153,12 @@ a:hover { color: #511; }
 /** Footer **/
 footer {
     position: absolute;
-    z-index: -200;
     left: -1vw;
-    margin: auto;
     font-size:1em;
     background-color: #ffeeb3;
     padding-left: 3vw;
-    display:flex;
-    justify-content: space-between;
     width: 100vw;
-    overflow: hidden;
+
 } 
 ul.social-media-list {
     list-style: none;
