@@ -26,7 +26,7 @@ body:not(.footer) {
     height: 0;
     width: 40vw;
 }
-
+/* Under development for something not showing yet */
 .mask img {
     position: absolute;
     z-index: -1;
@@ -38,15 +38,7 @@ body:not(.footer) {
 }
 
 
-.bar /*MAKE SET SIZE FOR SMALLER SCREENS*/
-{   z-index: -100;
-    position: absolute;
-    left: -17%;
-    border-bottom: 10vh solid #ffeeb3 ;/*SHAPE HEIGHT*/
-    height: 0;
-    width: 101vw;
 
-}
 
 /*
 margin: 0;
@@ -93,15 +85,29 @@ div.logo-nav { /*MAKE STICKY AND TRANSFORM STICKY*/
     height: fit-content;
 }
 #intro {
-    padding: 0 50% 0 108px;
+    /*padding: 0 25% 0 108px;*/
+    padding: 0 20vw 1vh 5vw;
     font-size: 1.2em;
-    margin: 50px 0 0 0;
+    margin: 1vw 0 1vw 0;
+    /*max-height:495px;*/
+}
+
+/* main page content */
+main {
+    margin: 0 auto;
+    padding: 5vh 5vw 5vh 5vw;
+    font-size: 1.2em;
 }
 section#title {
     padding-left: 40px;
     display: flex;
     flex-direction: row;
 
+}
+section#other-title {background-color:#ffeeb3;
+    padding-left: 40px;
+    display: flex;
+    flex-direction: row;
 }
 figure.logo {
     margin: 0;
@@ -168,13 +174,6 @@ nav ul li {
 }
 
 
-/* main page content */
-main {
-    margin: 0 auto;
-    padding: 10vw;
-
-    font-size: 1.2em;
-}
 
 /** Links */
 a { color: #2a7ae2; }

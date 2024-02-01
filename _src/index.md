@@ -3,12 +3,6 @@ layout: "layouts/main-top.html"
 permalink: "index.html"
 ---
 
-Presentations need not address this theme directly, but the conference organizers invite 
-opportunities to play with newly developing Retro Game and Virtual Augmented Reality labs at Penn State Behrend. 
-
-Students, early-career and non-traditional scholars, faculty researchers, digital scholarship librarians,
-designers, developers, explorers experimenting with “digital humanities” are all welcome to apply at our [Call for Papers](cfp.html). 
-
 ### Keynotes!
 We are delighted to welcome our distinguished keynote presenters, **Amanda Licastro** and **Micki Kaufman**! 
 Kaufman and Licastro will lead a new kind of immersive keynote event at this year's conference,
