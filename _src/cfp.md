@@ -1,6 +1,7 @@
 ---
-layout: outer-layout.njk
+layout: "layouts/other-top.html"
 permalink: "cfp.html"
+title: "cfp"
 ---
 
 ### Theme

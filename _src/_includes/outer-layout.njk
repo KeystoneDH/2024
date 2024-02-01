@@ -1,22 +1,32 @@
----
-title: Keystone DH 2024
----
 
 <!doctype html>
 <html lang="en-US">
+
   <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width" />
-    <title>{{ title }}</title>
-    <link rel="stylesheet" href="bundle.css">
-    <link rel="shortcut icon" type="image/x-icon" href="./img/favicon.ico?">
+      <meta charset="UTF-8" />
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+      <title>{{ title }}</title>
+      <link rel="stylesheet" href="../bundle.css">
+      <link rel="shortcut icon" type="image/x-icon" href="./img/favicon.ico?">
+      <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap" rel="stylesheet">
+
 
   </head>
     <body>
-    {% include "top.html" %}
-        <main>
-            {{ content | safe }}
-        </main>
-        {% include "footer.html" %}
+        <nav>
+            <ul>
+                <li><a href="index.html">home</a></li>
+                <li><a href="about.html">about</a></li>
+                <li><a href="cfp.html">cfp</a></li>
+                <li>registration</li>
+                <li>schedule</li>
+            </ul>
+        </nav>
+
+        {{ content | safe }}
+
+        {% include  "layouts/footer.html" %}
+
+
     </body>
 </html>
