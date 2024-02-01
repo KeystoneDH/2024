@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet  href="style.css" type="text/css"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="300" height="200">
+
+    <g>
+        <svg width="3000" height="3000" viewBox="0 0 3000 3000" xmlns="http://www.w3.org/2000/svg">
+
+
+            <polygon points="130,0 0,200 250,200 250,0" style="fill:rgb(200,200,200)" />
+
+
+        </svg>
+
+
+    </g>
+</svg>
