@@ -19,12 +19,25 @@ body:not(.footer) {
     position: absolute;
     right: 0px;
     top: 0px;
+    opacity: 0.5;
     border-bottom: 100vh solid #ffeeb3 ;/*SHAPE HEIGHT*/
     border-left: 450px solid transparent;
     border-right: 0px solid transparent;
     height: 0;
     width: 40vw;
 }
+
+.mask img {
+    position: absolute;
+    z-index: -1;
+    height: 100%;
+    width: 100%;
+    object-fit: cover;
+    -webkit-mask-image: url(#mask);
+    mask-image: url(#mask);
+}
+
+
 .bar /*MAKE SET SIZE FOR SMALLER SCREENS*/
 {   z-index: -100;
     position: absolute;
@@ -66,7 +79,7 @@ header {
     position: static;
     z-index: 1;
     display:flex;
-    height: 100vh;
+    height: 75vh;
 }
 
 header#othertop {
@@ -78,6 +91,11 @@ div.logo-nav { /*MAKE STICKY AND TRANSFORM STICKY*/
     display:flex;
     flex-direction:column;
     height: fit-content;
+}
+#intro {
+    padding: 0 50% 0 108px;
+    font-size: 1.2em;
+    margin: 50px 0 0 0;
 }
 section#title {
     padding-left: 40px;
@@ -116,9 +134,23 @@ img#erie-behrend {
 }
 nav {
     padding-top: 25px;
-    margin: 75px 0 15px 0;
+    margin: 75px 0 50px 0;
+    display:flex;
+    flex-direction: row;
+    width: fit-content;
+
     /*position: sticky;
     top: 0;*/
+}
+@media screen and (max-width: 959px)
+.menu.responsive {
+    top: 0;
+    left: 0;
+    right: 0;
+    flex-direction: column;
+    align-items: center;
+    justify-content: flex-start;
+    background-color: rgba(0, 100, 0, .7);
 }
 
 nav ul {
@@ -128,8 +160,7 @@ nav ul {
 nav ul li {
     font-size: 1.2em;
     display:inline;
-    padding-left: .5em;
-    padding-right: .5em;
+    padding: 0 1.5em 0 .5em;
 }
 
 #behrendHomeLink {
