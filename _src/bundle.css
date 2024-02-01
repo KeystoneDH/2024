@@ -149,15 +149,15 @@ nav {
     top: 0;*/
 }
 /*@media screen and (max-width: 959px)*/
-.menu.responsive {
-    top: 0;
-    left: 0;
-    right: 0;
-    flex-direction: column;
-    align-items: center;
-    justify-content: flex-start;
-    background-color: rgba(0, 100, 0, .7);
-}
+/*.menu.responsive {*/
+/*    top: 0;*/
+/*    left: 0;*/
+/*    right: 0;*/
+/*    flex-direction: column;*/
+/*    align-items: center;*/
+/*    justify-content: flex-start;*/
+/*    background-color: rgba(0, 100, 0, .7);*/
+/*}*/
 
 nav ul {
     list-style-type: none;
