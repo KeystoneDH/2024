@@ -71,13 +71,12 @@ header {
     position: static;
     z-index: 1;
     display:flex;
-    height: 75vh;
+
 }
 
 header#othertop {
     height: 20vh;
 }
-
 
 div.logo-nav { /*MAKE STICKY AND TRANSFORM STICKY*/
     display:flex;
@@ -90,6 +89,11 @@ div.logo-nav { /*MAKE STICKY AND TRANSFORM STICKY*/
     font-size: 1.2em;
     margin: 1vw 0 1vw 0;
     /*max-height:495px;*/
+}
+@media screen and (max-width: 750px){
+    #intro {
+        padding: 0 0vw 1vh 5vw;
+    }
 }
 
 /* main page content */
