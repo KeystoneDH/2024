@@ -26,6 +26,7 @@ participating institutions in the region.
 * Rachel Starry, Pitt
 * Annette Vee, Pitt
 
+We are grateful for generous support from the Penn State University Humanities Institute and the School of Humanities & Social Sciences at Penn State Erie, The Behrend College to host this conference.
 
 
 
