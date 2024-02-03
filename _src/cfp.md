@@ -5,11 +5,7 @@ title: "cfp"
 ---
 
 ### Theme
-This year's conference theme is **play**: the fun of exploring, gaming,
-trying new things without being sure you understand them.
-Our theme of “play” celebrates experimentation and immersion in the experience of digital humanities.
-While we welcome proposals that address our conference theme, 
-presentations need not address the theme directly, and may address any aspect of digital humanities broadly conceived. 
+The theme of Keystone DH 2024 is **play**, the serious fun of exploration, experimentation, immersion in digital humanities. While we welcome proposals that address our conference theme, presentations need not address the theme directly, and may address any aspect of digital humanities broadly conceived. 
 
 ### Details
 We are planning 90-minute panel blocks (as usual for this conference). You may submit proposals for individual ~15-minute presentations or 
@@ -17,13 +13,16 @@ for fully a formed "roundtable" panel with multiple identified participants.
 
 As with previous Keystone DH conferences, we welcome a range of proposals, including:
 * Presentations to share digital and public humanities projects;
-* Presentations on DH pedagogy / research exploring, critiquing, applying, developing generative AI;
-* Progress / methods in developing digital scholarly editions 
+* Presentations on digital humanities pedagogy
+* Work on exploring, critiquing, applying, developing generative AI;
+* Methods / progress in developing digital scholarly editions and archives;
+* Curation efforts with digital ephemera;
+* Games, game-making, game-playing in humanities work;
 * Roundtable discussions on new directions and potential energies in humanities work digitally practiced;
 * “Workshopping” to share/get advice on projects in progress, which could take the form of:
-  * short immersive installations of 3D projects
-  * interface design and development in progress
-  * investigations of a method (e.g. data sonification, analyzing/curating/classifying visual arts, natural language processing, network analysis, mapping time and space).
+  * short immersive installations of 3D projects,
+  * interface design and development in progress,
+  * investigations of a method (e.g. data sonification, analyzing/curating/classifying visual arts, natural language processing, network analysis, mapping time and space),
   * something we haven't thought of here!
 
 ### Use of generative AI language tools:
