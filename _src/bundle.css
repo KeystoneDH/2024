@@ -20,12 +20,44 @@ body:not(.footer) {
     right: 0px;
     top: 0px;
     opacity: 0.5;
-    border-bottom: 100vh solid #ffeeb3 ;/*SHAPE HEIGHT*/
+    border-bottom: 50em solid #ffeeb3 ;/*SHAPE HEIGHT*/
     border-left: 450px solid transparent;
     border-right: 0px solid transparent;
     height: 0;
     width: 40vw;
+    transition: height 0.5s;
+
 }
+/*  ***TRAPEZOID SCALING DONT TOUCH*** */
+@media (max-width: 611px){
+    .trapezoid {
+        border-bottom: 55em solid #ffeeb3;
+    }
+}
+@media (max-width: 509px){
+    .trapezoid {
+        border-bottom: 60em solid #ffeeb3;
+    }
+}
+@media (max-width: 453px){
+    .trapezoid {
+        border-bottom: 65em solid #ffeeb3;
+    }
+}
+@media (max-width: 402px){
+    .trapezoid {
+        border-bottom: 70em solid #ffeeb3;
+    }
+}
+@media (max-width: 352px){
+    .trapezoid {
+        border-bottom: 75em solid #ffeeb3;
+    }
+}
+/*  END TRAPEZOID SCALING   */
+
+
+
 /* Under development for something not showing yet */
 .mask img {
     position: absolute;
@@ -38,40 +70,16 @@ body:not(.footer) {
 }
 
 
-
-
-/*
-margin: 0;
-    font-size:7vw;
-    line-height: 1;
-    word-spacing: .1em;
-
-*/
-
-/*@media (max-width: 1650px){
-    .trapezoid {
-        border-bottom: 50vh solid #CCC97F;
-    }
-}*/
-
-/*
-@media (max-width: 800px) {
-  #addedImg {
-    flex-direction: column;
-  }
-}
-
-*/
-
-
-
-
           /* Header and navbar styling */
 header {
+    padding: 0vh 5vw 0vh 5vw;
     position: static;
     z-index: 1;
     display:flex;
+}
 
+header#main-header{
+    margin-bottom: 4em;
 }
 
 header#othertop {
@@ -83,16 +91,22 @@ div.logo-nav { /*MAKE STICKY AND TRANSFORM STICKY*/
     flex-direction:column;
     height: fit-content;
 }
+
 #intro {
     /*padding: 0 25% 0 108px;*/
-    padding: 0 20vw 1vh 5vw;
+    padding: 0 20vw 1vh 0vw;
     font-size: 1.2em;
     margin: 1vw 0 1vw 0;
     /*max-height:495px;*/
 }
-@media screen and (max-width: 750px){
+@media screen and (max-width: 875px){
     #intro {
-        padding: 0 0vw 1vh 5vw;
+        padding: 0 10vw 1vh 0vw;
+    }
+}
+@media screen and (max-width: 805px){
+    #intro {
+        padding: 0 0vw 1vh 0vw;
     }
 }
 
@@ -102,8 +116,9 @@ main {
     padding: 5vh 5vw 5vh 5vw;
     font-size: 1.2em;
 }
+
 section#title {
-    padding-left: 40px;
+
     display: flex;
     flex-direction: row;
 
@@ -143,7 +158,7 @@ img#erie-behrend {
     min-width:90px;
 }
 nav {
-    padding-top: 25px;
+    padding: 0vh 5vw 0vh 5vw;
     margin: 75px 0 50px 0;
     display:flex;
     flex-direction: row;
@@ -165,6 +180,7 @@ nav {
 
 nav ul {
     list-style-type: none;
+    padding-left: 0vw;
     margin:auto;
 }
 nav ul li {
@@ -187,13 +203,14 @@ a:hover { color: #511; }
 /** Footer **/
 footer {
     position: absolute;
-    left: -1vw;
+    left: 0vw;
     font-size:1em;
     background-color: #ffeeb3;
-    padding-left: 3vw;
     width: 100vw;
-
-} 
+}
+footer #content {
+    padding-left: 3vw;
+}
 ul.social-media-list {
     list-style: none;
 }
