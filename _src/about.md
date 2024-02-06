@@ -17,6 +17,7 @@ participating institutions in the region.
 ### Keystone DH 2024 Organizing Committee:
 * Sam Backer, Johns Hopkins
 * Elisa Beshero-Bondar, Penn State Erie
+* Matt Ciszek, Penn State Erie
 * Sean DiLeonardi, Pitt-Greensburg
 * Joel Hunt, Penn State Erie
 * Jennifer Isasi, Penn State
