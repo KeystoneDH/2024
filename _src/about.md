@@ -35,6 +35,7 @@ participating institutions in the region.
 <li>Elisa Beshero-Bondar, Penn State Erie</li>
 <li>Hadleigh Bills, Penn State Erie</li>
 <li>Matt Ciszek, Penn Penn State Erie</li>
+<li>Nathan Hammer</li>
 <li>Kristen Gincott, Penn State Erie</li>
 <li>Joel Hunt, Penn State Erie</li>
 <li>Lauren Liebe, Penn State Erie</li>
