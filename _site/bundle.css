@@ -193,7 +193,13 @@ nav ul li {
     margin: 0;
 }
 
-
+/* About page */
+#organizers {
+    accent-color: #ffeeb3;
+    display: flex;
+    
+}
+#organizers div {margin-left: 2em;}
 
 /** Links */
 a { color: #2a7ae2; }
