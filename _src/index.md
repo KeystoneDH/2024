@@ -1,21 +1,55 @@
 ---
 layout: "layouts/main-top.html"
 permalink: "index.html"
+
 ---
+<!--- Used for Intro --->
+<!--- This year, the Keystone DH conference will be hosted by the <a href="https://digit-psb.github.io/DIGIT/" target="_blank">DIGIT</a> program at
+<a href="https://behrend.psu.edu/" target="_blank">Penn State Erie, The Behrend College</a> on <strong>May 20 - 22, 2024</strong>.
+The conference theme is <strong>play</strong>: the fun of exploring, gaming, and trying
+new things without being sure you understand them. This theme celebrates
+immersive experience and experimentation in digital humanities, especially marked in the adventurous work of
+<a href="#main">our keynote presenters</a>!</p>
+<p>Students, early-career and non-traditional scholars, faculty researchers, digital scholarship librarians,
+designers, developers, explorers experimenting with “digital humanities” are all welcome to apply at our <a href="cfp.html">Call for Papers</a>.
+--->
+
+<!--- Used for Keynotes in main-top.html --->
+<div id="homeText">
 
 ### Keynotes!
-We are delighted to welcome our distinguished keynote presenters, **Amanda Licastro** and **Micki Kaufman**! 
-Kaufman and Licastro will lead a new kind of immersive keynote event at this year's conference,
+
+We are delighted to welcome our distinguished keynote presenters, **Micki Kaufman**, **Amanda Licastro**, and **Jasmine Clark**! 
+Kaufman, Licastro, and Clark will each lead a new immersive style of keynote event,
 to offer participants an opportunity to explore 
 digital humanities projects designed and developed in virtual / augmented reality. 
-* Kaufman will present her "Quantifying Kissinger" project: a scholarly archive designed for 3D abstract interactive immersion via game engine technology.
+
+<div id="keynoteSect">
+<figure class="keynoteImg">
+  <img src="img/mkaufman.jpg" alt="Image of Micki Kaufman"/>
+<figcaption>Micki Kaufman</figcaption>
+</figure>
+<figure class="keynoteImg">
+  <img src="img/AL_6648.jpg" alt="Image of Amanda Licastro"/>
+<figcaption>Amanda Licastro</figcaption>
+</figure>
+<figure class="keynoteImg">
+  <img src="img/JClark.jpg" alt="Image of Jasmine Clark"/>
+<figcaption>Jasmine Clark</figcaption>
+</figure>
+</div>
+
+* Kaufman will present her <q>Quantifying Kissinger</q> project: a scholarly archive designed for 3D abstract interactive immersion via game engine technology.
 * Licastro's presentation, "Embracing the Glitch", will address supporting Extended Reality (XR) across the curriculum, and will feature student work from her course
   (Virtual Bodies, Virtual Worlds).
+* Clark will share the <q>Virtual Bloxson</q>'s educational game to orient students to Black primary source materials. 
 
 Participants will have multiple 
 options for experiencing / viewing the immersive events. They may opt 
 to try headsets and immerse themselves with guidance in a virtual constructed space, or they may watch the
 virtual world projected on monitors.
+
+
 
 ### Accessing the conference
 
@@ -26,4 +60,4 @@ session chair / co-panelists who may be able to facilitate a virtual connection 
 * Hotels are available near campus or on the waterfront in Erie, but most will require transit or be easier with car transport. We'll provide travel guidance on this site!
 * Please [write to the organizers](mailto:contact@keystonedh.network) with questions about access.
 
-    
+</div>
