@@ -3,6 +3,8 @@ layout: "outer-layout.njk"
 title: "KEYSTONE DH 2024"
 ---
 
+<!-- *** Top of Home page -->
+
 
 <header id="main-header"><!-- header flexes two containers horizontally. -->
     <!--<svg width="100vh" height="75vh" viewBox="0 0 3000 3000" xmlns="http://www.w3.org/2000/svg">
@@ -17,10 +19,6 @@ title: "KEYSTONE DH 2024"
     <div class="mask">
         <img src="img/Erie-Bayfront-BicTower-May2023.jpeg" alt="Balloons">
     </div> -->
-
-
-
-
 
     <div class="trapezoid"></div>
 
@@ -55,16 +53,14 @@ title: "KEYSTONE DH 2024"
 
 
 
-
-
     <!-- <figure class="erie-behrend">
         <img id="erie-behrend" src="img/Erie-and-Behrend.svg" alt="map highlighting the location of Behrend in Erie County, PA"/>
     </figure> -->
 </header>
 
-<main id="main">
-    {{ content }}
-</main>
+
+<!-- *** Where I want to `include` home.html -->
+{% include "home.html" %}
 
 
 

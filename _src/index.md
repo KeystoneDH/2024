@@ -1,11 +1,8 @@
 ---
-layout: "layouts/main-top.html"
+layout: "layouts/home.html"
 permalink: "index.html"
 
 ---
-
-
-
 
 
 
