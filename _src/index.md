@@ -27,15 +27,15 @@ digital humanities projects designed and developed in virtual / augmented realit
 <div id="keynoteSect">
 <figure class="keynoteImg">
   <img src="img/mkaufman.jpg" alt="Image of Micki Kaufman"/>
-<ficaption>Micki Kaufman</ficaption>
+<figcaption>Micki Kaufman</figcaption>
 </figure>
 <figure class="keynoteImg">
   <img src="img/AL_6648.jpg" alt="Image of Amanda Licastro"/>
-<ficaption>Amanda Licastro</ficaption>
+<figcaption>Amanda Licastro</figcaption>
 </figure>
 <figure class="keynoteImg">
   <img src="img/JClark.jpg" alt="Image of Jasmine Clark"/>
-<ficaption>Jasmine Clark</ficaption>
+<figcaption>Jasmine Clark</figcaption>
 </figure>
 </div>
 
