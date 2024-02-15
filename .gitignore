@@ -9,4 +9,4 @@ ehthumbs.db
 Thumbs.db
 # Eleventy and Node stuff #
 /node_modules
-.idea
+.idea/

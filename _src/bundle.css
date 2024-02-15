@@ -55,7 +55,7 @@ body:not(.footer) {
 
 /*  ***TRAPEZOID SCALING DONT TOUCH*** */
 @media (max-width: 650px){
-    .Erieimg {
+    #Erieimg {
         height: 100vh;
     }
 }
