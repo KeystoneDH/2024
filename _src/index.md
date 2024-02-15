@@ -19,26 +19,30 @@ designers, developers, explorers experimenting with “digital humanities” are
 
 ### Keynotes!
 
-We are delighted to welcome our distinguished keynote presenters, **Amanda Licastro** and **Micki Kaufman**! 
-Kaufman and Licastro will lead a new kind of immersive keynote event at this year's conference,
+We are delighted to welcome our distinguished keynote presenters, **Micki Kaufman**, **Amanda Licastro**, and **Jasmine Clark**! 
+Kaufman, Licastro, and Clark will each lead a new immersive style of keynote event,
 to offer participants an opportunity to explore 
 digital humanities projects designed and developed in virtual / augmented reality. 
 
 <div id="keynoteSect">
 <figure class="keynoteImg">
   <img src="img/mkaufman.jpg" alt="Image of Micki Kaufman"/>
+<ficaption>Micki Kaufman</ficaption>
 </figure>
 <figure class="keynoteImg">
   <img src="img/AL_6648.jpg" alt="Image of Amanda Licastro"/>
+<ficaption>Amanda Licastro</ficaption>
 </figure>
 <figure class="keynoteImg">
   <img src="img/JClark.jpg" alt="Image of Jasmine Clark"/>
+<ficaption>Jasmine Clark</ficaption>
 </figure>
 </div>
 
-* Kaufman will present her "Quantifying Kissinger" project: a scholarly archive designed for 3D abstract interactive immersion via game engine technology.
+* Kaufman will present her <q>Quantifying Kissinger</q> project: a scholarly archive designed for 3D abstract interactive immersion via game engine technology.
 * Licastro's presentation, "Embracing the Glitch", will address supporting Extended Reality (XR) across the curriculum, and will feature student work from her course
   (Virtual Bodies, Virtual Worlds).
+* Clark will share the <q>Virtual Bloxson</q>'s educational game to orient students to Black primary source materials. 
 
 Participants will have multiple 
 options for experiencing / viewing the immersive events. They may opt 
