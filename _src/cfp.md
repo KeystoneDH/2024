@@ -32,6 +32,7 @@ We ask that conference applicants and presenters report their use of generative 
 [arXiv's AI policy](https://blog.arxiv.org/2023/01/31/arxiv-announces-new-policy-on-chatgpt-and-similar-tools/).
 
 ### Submission Form and Timeline
-* Please send your submissions through **[our Proposal Submission Form](https://forms.gle/pNKMjbZVr6Hz4qwV9)** by Monday **March 1st**. 
+
+* Please send your submissions through **[our Proposal Submission Form](https://forms.gle/pNKMjbZVr6Hz4qwV9)** by Friday, **March 1st**.
 * We plan to respond to all submissions by March 15.
-* Conference dates: Monday - Wednesday May 20 - 22, 2024.
+* Conference dates: Monday, May 20th - Wednesday, May 22nd, 2024.
