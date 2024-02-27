@@ -9,19 +9,40 @@
       <link rel="stylesheet" href="bundle.css">
       <link rel="shortcut icon" type="image/x-icon" href="./img/favicon.ico?">
       <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap" rel="stylesheet">
+      <script src="script.js"></script>
+      <style>
+
+      </style>
 
 
   </head>
     <body>
-        <nav class="menu responsive">
-            <ul>
-                <li><a href="index.html">home</a></li>
+        <div class="dropdown">
+            <button onclick="myFunction()" class="dropbtn"><a href="index.html">home<img src="img/menu.png"/></a></button>
+
+            <ul id="myDropdown" class="dropdown-content">
+
                 <li><a href="about.html">about</a></li>
                 <li><a href="cfp.html">cfp</a></li>
-                <li>registration</li>
-                <li>schedule</li>
+                <li><div class="link">registration</div></li>
+                <li><div class="link">schedule</div></li>
             </ul>
-        </nav>
+        </div>
+
+        <div id="body">
+
+
+
+
+            <nav class="menu">
+                <ul>
+                    <li><a href="index.html">home</a></li>
+                    <li><a href="about.html">about</a></li>
+                    <li><a href="cfp.html">cfp</a></li>
+                    <li>registration</li>
+                    <li>schedule</li>
+                </ul>
+            </nav>
 
         
 
@@ -50,7 +71,29 @@
 </header>
 
 <main>
-    
+    <p>The conference venue and accommodations are all located at the <a href="https://behrend.psu.edu/" target="_blank">Penn State Erie, The Behrend College</a> campus.</p>
+<div id="venue">
+<div>
+<h2>Venue - Reed Union Building, McGarvey Commons??</h2>
+<p>The 2024 Keystone Digital Humanities conference will be hosted on the ground floor of the <strong>Reed Union Building</strong> at Penn State Erie, The Behrend College. The main entrance to the building is off of Reed Lot from Behrend College Drive. Most events will occur on the ground floor of the building in the <strong>McGarvey Commons</strong>.</p>
+<p><strong>Address:</strong> <a href="https://www.google.com/maps/place/Reed+Lot/@42.1200915,-79.983339,20.56z/data=!4m6!3m5!1s0x882d7dbe8be7146b:0x92945f1e7b2d56c0!8m2!3d42.120107!4d-79.9835215!16s%2Fg%2F11fnvk61yv?entry=ttu" target="_blank">4800 College Dr, Erie, PA 16510</a></p>
+</div>
+<div id="campusMap">
+<a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://behrend.psu.edu/files/pdf/62726/2021/11/04/behrend-campus-map-2024-web.pdf" target="_blank"><img src="img/behrendCampus.png" alt="Image of the Behrend campus map"/></a>
+</div>
+</div>
+<h2>Registration</h2>
+<p>Registration forms are not up yet! They will be on <strong>March 15th</strong> though!</p>
+<p><span id="price">Prices</span></p>
+<ul id="regPrice">
+<li>Student/Faculty: $30</li>
+<li>Full-time: $70</li>
+</ul>
+<h2>Transportation</h2>
+<h3>Parking Pass</h3>
+<h3>Public Transportation</h3>
+<h3>Other Options</h3>
+
 </main>
 
         
@@ -105,6 +148,24 @@
 
 </footer>
 
+    <script>
+    function myFunction() {
+      document.getElementById("myDropdown").classList.toggle("show");
+    }
 
+    window.onclick = function(event) {
+      if (!event.target.matches('.dropbtn')) {
+        var dropdowns = document.getElementsByClassName("dropdown-content");
+        var i;
+        for (i = 0; i < dropdowns.length; i++) {
+          var openDropdown = dropdowns[i];
+          if (openDropdown.classList.contains('show')) {
+            openDropdown.classList.remove('show');
+          }
+        }
+      }
+    }
+    </script>
+    </div>
     </body>
 </html>
