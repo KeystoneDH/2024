@@ -46,7 +46,6 @@ body{
 /*    transition: height 0.5s;*/
 /*}*/
 
-
 #Erieimg {
     z-index: -100;
     position: absolute;
@@ -144,7 +143,7 @@ nav {
     background-color: rgb(255, 238, 170);
     color: black;
     padding: 16px;
-    font-size: 1.2em;
+    font-size: 2em;
     border: none;
     cursor: pointer;
     width: 100vw;
