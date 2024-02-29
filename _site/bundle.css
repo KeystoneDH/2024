@@ -46,11 +46,6 @@ body{
 /*    transition: height 0.5s;*/
 /*}*/
 
-@media (max-width: 500px){
-    main p {
-        text-align: justify;
-    }
-}
 
 #Erieimg {
     z-index: -100;
@@ -69,19 +64,24 @@ body{
     }
 }
 
-@media (max-width: 510px){
+@media (max-width: 530px){
     #Erieimg {
         height: 55em;
     }
 }
-@media (max-width: 415px){
+@media (max-width: 445px){
     #Erieimg {
         height: 60em;
     }
 }
-@media (max-width: 350px){
+@media (max-width: 381px){
     #Erieimg {
         height: 65em;
+    }
+}
+@media (max-width: 344px){
+    #Erieimg {
+        height: 70em;
     }
 }
 /*  ************************************END TRAPEZOID SCALING   */
@@ -279,6 +279,17 @@ section#title {
     display: flex;
     flex-direction: row;
 }
+@media (max-width: 650px){
+    section#title{
+        flex-direction: column;
+        align-items: center;
+    }
+}
+@media (max-width: 650px){
+    section#title p{
+        text-align: center;
+    }
+}
 section#other-title {
     background-color:#ffeeb3;
     padding-left: 40px;
@@ -309,11 +320,18 @@ section h1{
         font-size: 120px;
     }
 }
-@media (max-width: 500px){
+@media (max-width: 650px){
     section h1{
-        font-size: 2.3em;
+        font-size: 3em;
+        text-align: center;
+        width: 80vw;
     }
 }
+/*@media (max-width: 500px){*/
+/*    section h1{*/
+/*        font-size: 2.3em;*/
+/*    }*/
+/*}*/
 #homeText h3{
     text-align: center;
     font-size: 2em;

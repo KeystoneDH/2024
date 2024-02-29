@@ -18,7 +18,7 @@ The 2024 Keystone Digital Humanities conference will be hosted on the ground flo
 </div>
 
 <div id="campusMap">
-<a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://behrend.psu.edu/files/pdf/62726/2021/11/04/behrend-campus-map-2024-web.pdf" target="_blank"><img src="img/behrendCampus.png" alt="Image of the Behrend campus map"/></a>
+<a href="https://behrend.psu.edu/files/pdf/62726/2021/11/04/behrend-campus-map-2024-web.pdf" target="_blank"><img src="img/behrendCampus.png" alt="Image of the Behrend campus map"/></a>
 </div>
 
 </div>
@@ -27,7 +27,7 @@ The 2024 Keystone Digital Humanities conference will be hosted on the ground flo
 
 Registration forms are not up yet! They will be on <strong>March 15th</strong> though!
 
-<span id="price">Prices</span>
+<span id="price">Prices (NOT including housing)</span>
 <ul id="regPrice">
 
 <li>Student/Faculty: $30</li>
@@ -37,9 +37,25 @@ Registration forms are not up yet! They will be on <strong>March 15th</strong> t
 
 ## Transportation
 
-### Parking Pass
+### Parking
+
+- list of available parking
+- parking address
+- cost for parking
 
 ### Public Transportation
 
-### Other Options
+There are 
+- list of buses and general routes from Behrend
+- free bus pass??
+- link to live bus location
+- link to general bus information
+
+- Uber information
+- suggest carpooling
+
+## Accommodations
+
+-list of available rooms like dorms and hotel rooms
+-addresses for both
 
