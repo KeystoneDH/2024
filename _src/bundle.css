@@ -48,7 +48,7 @@ body{
 
 @media (max-width: 500px){
     main p {
-        text-align: justify;
+
     }
 }
 
@@ -144,7 +144,7 @@ nav {
     background-color: rgb(255, 238, 170);
     color: black;
     padding: 16px;
-    font-size: 1.2em;
+    font-size: 2em;
     border: none;
     cursor: pointer;
     width: 100vw;

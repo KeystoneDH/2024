@@ -6,6 +6,14 @@
   <component name="ChangeListManager">
     <list default="true" id="47e8e673-2925-4913-91b2-308fe74cad94" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/bundle.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bundle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/cfp.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/cfp.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/registration.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/schedule.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_src/_includes/outer-layout.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_src/_includes/outer-layout.njk" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_src/bundle.css" beforeDir="false" afterPath="$PROJECT_DIR$/_src/bundle.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,25 +26,30 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "customColor": "",
+  "associatedIndex": 3
+}]]></component>
   <component name="ProjectId" id="2bHYwG3FQEit0CBvgyAZfv1C1wO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;last_opened_file_path&quot;: &quot;/Users/eeb4/Documents/GitHub/keystone-dh/2024/_src&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "Savannah",
+    "last_opened_file_path": "/Users/eeb4/Documents/GitHub/keystone-dh/2024/_src",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/_src" />
@@ -102,6 +115,7 @@
       <workItem from="1708039612535" duration="3792000" />
       <workItem from="1708552542525" duration="41000" />
       <workItem from="1708620566416" duration="1754000" />
+      <workItem from="1709221818637" duration="1173000" />
     </task>
     <servers />
   </component>
