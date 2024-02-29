@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47e8e673-2925-4913-91b2-308fe74cad94" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/about.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/about.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/bundle.css" beforeDir="false" afterPath="$PROJECT_DIR$/_site/bundle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/cfp.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/cfp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/registration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/schedule.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_src/_includes/outer-layout.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_src/_includes/outer-layout.njk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_src/bundle.css" beforeDir="false" afterPath="$PROJECT_DIR$/_src/bundle.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_src/registration.md" beforeDir="false" afterPath="$PROJECT_DIR$/_src/registration.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -115,7 +108,7 @@
       <workItem from="1708039612535" duration="3792000" />
       <workItem from="1708552542525" duration="41000" />
       <workItem from="1708620566416" duration="1754000" />
-      <workItem from="1709221818637" duration="1173000" />
+      <workItem from="1709221818637" duration="1793000" />
     </task>
     <servers />
   </component>
