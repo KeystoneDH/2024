@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47e8e673-2925-4913-91b2-308fe74cad94" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/_site/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/registration.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_src/registration.md" beforeDir="false" afterPath="$PROJECT_DIR$/_src/registration.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,10 +18,10 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 3
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 3
+}</component>
   <component name="ProjectId" id="2bHYwG3FQEit0CBvgyAZfv1C1wO" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -33,7 +32,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Savannah",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "/Users/eeb4/Documents/GitHub/keystone-dh/2024/_src",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -108,7 +107,7 @@
       <workItem from="1708039612535" duration="3792000" />
       <workItem from="1708552542525" duration="41000" />
       <workItem from="1708620566416" duration="1754000" />
-      <workItem from="1709221818637" duration="1793000" />
+      <workItem from="1709221818637" duration="2851000" />
     </task>
     <servers />
   </component>

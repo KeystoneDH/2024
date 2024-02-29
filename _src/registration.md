@@ -35,8 +35,8 @@ The registration form is coming soon! Watch this space. Conference registration 
 <li>Full-time rate: $70</li>
 </ul>
 
-We are planning accommodation options on campus, as well as to conference rates to reserve rooms in nearby hotels. 
-We will post more details and separate accommodation booking information soon.
+We are planning accommodation options on campus, as well as conference rates to reserve rooms in nearby hotels. 
+We will post more details and a separate campus accommodation booking form soon.
 
 <!-- ## Transportation
 
