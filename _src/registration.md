@@ -11,7 +11,7 @@ The conference venue and accommodations are all located at the <a href="https://
 
 <!-- ## Venue - Reed Union Building, McGarvey Commons?? -->
 
-We expect that most events for the 2024 Keystone Digital Humanities will be held on the ground floor of the <strong>Reed Union Building</strong> at Penn State Erie, The Behrend College. The main entrance to the building is off of Reed Lot from Behrend College Drive.
+We expect that most events for the 2024 Keystone Digital Humanities will be held in the <strong>Reed Union Building</strong> at Penn State Erie, The Behrend College. The main entrance to the building is off of Reed Lot from Behrend College Drive.
 
 <strong>Address:</strong> <a href="https://www.google.com/maps/place/Reed+Lot/@42.1200915,-79.983339,20.56z/data=!4m6!3m5!1s0x882d7dbe8be7146b:0x92945f1e7b2d56c0!8m2!3d42.120107!4d-79.9835215!16s%2Fg%2F11fnvk61yv?entry=ttu" target="_blank">4800 College Dr, Erie, PA 16510</a>
 
