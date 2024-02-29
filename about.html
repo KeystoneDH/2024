@@ -9,19 +9,40 @@
       <link rel="stylesheet" href="bundle.css">
       <link rel="shortcut icon" type="image/x-icon" href="./img/favicon.ico?">
       <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap" rel="stylesheet">
+      <script src="script.js"></script>
+      <style>
+
+      </style>
 
 
   </head>
     <body>
-        <nav class="menu responsive">
-            <ul>
+        <div class="dropdown">
+            <button onclick="myFunction()" class="dropbtn">☰</button>
+
+            <ul id="myDropdown" class="dropdown-content">
                 <li><a href="index.html">home</a></li>
                 <li><a href="about.html">about</a></li>
                 <li><a href="cfp.html">cfp</a></li>
-                <li>registration</li>
-                <li>schedule</li>
+                <li><a href="registration.html">registration</a></li>
+                <li><div class="link">schedule</div></li>
             </ul>
-        </nav>
+        </div>
+
+        <div id="body">
+
+
+
+
+            <nav class="menu">
+                <ul>
+                    <li><a href="index.html">home</a></li>
+                    <li><a href="about.html">about</a></li>
+                    <li><a href="cfp.html">cfp</a></li>
+                    <li><a href="registration.html">registration</a></li>
+                    <li>schedule</li>
+                </ul>
+            </nav>
 
         
 
@@ -143,6 +164,24 @@ participating institutions in the region.</p>
 
 </footer>
 
+    <script>
+    function myFunction() {
+      document.getElementById("myDropdown").classList.toggle("show");
+    }
 
+    window.onclick = function(event) {
+      if (!event.target.matches('.dropbtn')) {
+        var dropdowns = document.getElementsByClassName("dropdown-content");
+        var i;
+        for (i = 0; i < dropdowns.length; i++) {
+          var openDropdown = dropdowns[i];
+          if (openDropdown.classList.contains('show')) {
+            openDropdown.classList.remove('show');
+          }
+        }
+      }
+    }
+    </script>
+    </div>
     </body>
 </html>

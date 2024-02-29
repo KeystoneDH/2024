@@ -9,19 +9,40 @@
       <link rel="stylesheet" href="bundle.css">
       <link rel="shortcut icon" type="image/x-icon" href="./img/favicon.ico?">
       <link href="https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap" rel="stylesheet">
+      <script src="script.js"></script>
+      <style>
+
+      </style>
 
 
   </head>
     <body>
-        <nav class="menu responsive">
-            <ul>
+        <div class="dropdown">
+            <button onclick="myFunction()" class="dropbtn">☰</button>
+
+            <ul id="myDropdown" class="dropdown-content">
                 <li><a href="index.html">home</a></li>
                 <li><a href="about.html">about</a></li>
                 <li><a href="cfp.html">cfp</a></li>
-                <li>registration</li>
-                <li>schedule</li>
+                <li><a href="registration.html">registration</a></li>
+                <li><div class="link">schedule</div></li>
             </ul>
-        </nav>
+        </div>
+
+        <div id="body">
+
+
+
+
+            <nav class="menu">
+                <ul>
+                    <li><a href="index.html">home</a></li>
+                    <li><a href="about.html">about</a></li>
+                    <li><a href="cfp.html">cfp</a></li>
+                    <li><a href="registration.html">registration</a></li>
+                    <li>schedule</li>
+                </ul>
+            </nav>
 
         
 
@@ -80,9 +101,9 @@ We ask that conference applicants and presenters report their use of generative 
 <a href="https://blog.arxiv.org/2023/01/31/arxiv-announces-new-policy-on-chatgpt-and-similar-tools/">arXiv's AI policy</a>.</p>
 <h3>Submission Form and Timeline</h3>
 <ul>
-<li>Please send your submissions through <strong><a href="https://forms.gle/pNKMjbZVr6Hz4qwV9">our Proposal Submission Form</a></strong> by Friday <strong>March 1</strong>.</li>
+<li>Please send your submissions through <strong><a href="https://forms.gle/pNKMjbZVr6Hz4qwV9">our Proposal Submission Form</a></strong> by Friday, <strong>March 1st</strong>.</li>
 <li>We plan to respond to all submissions by March 15.</li>
-<li>Conference dates: Monday - Wednesday May 20 - 22, 2024.</li>
+<li>Conference dates: Monday, May 20th - Wednesday, May 22nd, 2024.</li>
 </ul>
 
 </main>
@@ -139,6 +160,24 @@ We ask that conference applicants and presenters report their use of generative 
 
 </footer>
 
+    <script>
+    function myFunction() {
+      document.getElementById("myDropdown").classList.toggle("show");
+    }
 
+    window.onclick = function(event) {
+      if (!event.target.matches('.dropbtn')) {
+        var dropdowns = document.getElementsByClassName("dropdown-content");
+        var i;
+        for (i = 0; i < dropdowns.length; i++) {
+          var openDropdown = dropdowns[i];
+          if (openDropdown.classList.contains('show')) {
+            openDropdown.classList.remove('show');
+          }
+        }
+      }
+    }
+    </script>
+    </div>
     </body>
 </html>
