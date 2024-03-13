@@ -248,9 +248,9 @@ div.logo-nav {
         padding: 0 0vw 1vh 0vw;
     }
 }
-@media (max-width: 615px) {
+@media (max-width: 650px) {
     #intro{
-        font-size: 1.1em;
+        font-size: .8em;
     }
 }
 /* *******************************END Header and navbar styling */
@@ -265,15 +265,17 @@ main {
 main ul li {
     margin-bottom: 10px;
 }
-@media (max-width: 615px) {
+@media (max-width: 650px) {
     main{
         padding: 5vh 0vw 5vh 0vw;
-        font-size: 1.1em;
+        font-size: .8em;
     }
     main ul {
         padding-left: 20px;
     }
+
 }
+
 section#title {
     display: flex;
     flex-direction: row;
