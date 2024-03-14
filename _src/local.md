@@ -27,8 +27,13 @@ Erie's Art Museum is the perfect place to experience remarkable art pieces from 
 <li>Sun: 1:00PM-6:00PM</li>
 </ul>
 
-<img src="img/erieArtMuseum.jpg" alt="Erie Art Museum"/>
+<figure class="loc"><img src="img/erieArtMuseum.jpg" alt="Erie Art Museum"/>
+<figcaption>Erie Art Museum</figcaption>
+</figure>
+<figure class="loc">
 <img src="img/erieArtMuseumStuff.jpg" alt="Inside the Erie Art Museum"/>
+<figcaption>Inside the Erie Art Museum</figcaption>
+</figure>
 
 ## Food
 
@@ -36,7 +41,7 @@ Erie's Art Museum is the perfect place to experience remarkable art pieces from 
 
 <strong>Website:</strong> <a href="https://sarasandsallys.com/" target="_blank">https://sarasandsallys.com/</a>
 
-<strong>Phone:</strong> (814) 833-1957
+<strong>Phone:</strong> (814) 833-1957'
 
 <strong>Address:</strong> <a href="https://www.google.com/maps/place/Sara's+Restaurant/@42.1123065,-80.1555349,17z/data=!4m15!1m8!3m7!1s0x88327f6de5b42479:0xb638bbb8f5da29ec!2sSara's+Restaurant!8m2!3d42.112558!4d-80.155184!10e5!16s%2Fg%2F1v9t_kdb!3m5!1s0x88327f6de5b42479:0xb638bbb8f5da29ec!8m2!3d42.112558!4d-80.155184!16s%2Fg%2F1v9t_kdb?entry=ttu" target="_blank">25 Peninsula Dr, Erie, PA 16505</a>
 
@@ -47,8 +52,14 @@ Erie's Art Museum is the perfect place to experience remarkable art pieces from 
 
 Hungry and looking for a place to eat? Try Sara's, located next to Presque Isle State Park. With lovely outdoor seating, you can enjoy the (hopefully) warm weather while trying on their tasty milkshakes or ice cream!
 
-<img src="img/sarasExterior.jpg" alt="Sara's outdoor seating"/>
-<img src="img/sarasInterior.jpg" alt="Sara's indoor"/>
+<figure class="loc">
+<img src="img/sarasExterior.jpg" class="loc" alt="Sara's outdoor seating"/>
+<figcaption>Sara’s outdoor seating</figcaption>
+</figure>
+<figure class="loc">
+<img src="img/sarasInterior.jpg" class="loc" alt="Sara's indoor"/>
+<figcaption>Indoors at Sara’s</figcaption>
+</figure>
 
 ### <a href="https://www.stanganellis.com/">Stanganelli’s Italian Food</a>
 
@@ -67,13 +78,21 @@ Ever heard of Erie's iconic Pepperoni Balls? Their claim to fame comes from Stan
 <li>Sat: 11:00AM-4:00PM</li>
 </ul>
 
+<figure class="loc">
 <img src="img/stanganellisLogo.png" alt="Stanganelli's logo"/>
+</figure>
+<figure class="loc">
 <img src="img/stanganellisPepperoniBalls.jpg" alt="Stanganelli's pepperoni balls"/>
+</figure>
 
 ### <a href="https://romolochocolates.com/">Romolo Chocolates</a>
 
 Romolo Chocolates is the perfect place to add to your to-do list. For over 28 years, they have been making their delicious deserts to satisfy every person's sweet tooth. Be sure to try their famous and uniquely crafted Sponge Candy, which continues to be a fan favorite of Erieites and tourists alike!
 
+<figure class="loc">
+<img src="img/romolosSpongeCandy.jpg" alt="Romolo's iconic sponge candy"/>
+<figcaption>Wondering what even is “sponge candy“? Here's a cross-section!</figcaption>
+</figure>
 <strong>Website:</strong> <a href="https://romolochocolates.com/" target="_blank">https://romolochocolates.com/</a>
 
 <strong>Phone:</strong> 814-452-1933
@@ -86,14 +105,15 @@ Romolo Chocolates is the perfect place to add to your to-do list. For over 28 ye
 <li>Sat: 9:00AM-8:00PM</li>
 <li>Sun: 10:00AM-5:00PM</li>
 </ul>
-
+<figure class="loc">
 <img src="img/romoloStorefront.jpg" alt="Romolo's Store Front"/>
-<img src="img/romolosSpongeCandy.jpg" alt="Romolo's iconic sponge candy"/>
+</figure>
 
 ### <a href="https://www.smithhotdogs.com/">Smith's Hot Dogs</a>
 
 Although there is no specific restaurant in Erie with this, Smith's hot dogs are Erie's favorite! From Smith Provision Co., Inc., their skillfully crafted weiners, sausages, deli meats, bacon and hams have been a staple in Erie culture for four generations. You can buy these at most restaurants that serve hot dogs or grocery store!
 
+<figure class="loc">
 <img src="img/smithsProducts.png" alt="Smith's foods"/>
-
+</figure>
 
