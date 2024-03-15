@@ -33,6 +33,6 @@ We ask that conference applicants and presenters report their use of generative 
 
 ### Submission Form and Timeline
 
-* Please send your submissions through **[our Proposal Submission Form](https://forms.gle/pNKMjbZVr6Hz4qwV9)** by Friday, **March 1st**.
-* We plan to respond to all submissions by March 15.
+* Please send your submissions through **[our Proposal Submission Form](https://forms.gle/pNKMjbZVr6Hz4qwV9)** by Friday, ~~March 1st~~ **March 8**.
+* We plan to respond to all submissions by ~~March 15~~ March 22.
 * Conference dates: Monday, May 20th - Wednesday, May 22nd, 2024.

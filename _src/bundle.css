@@ -32,6 +32,9 @@ body{
     margin:auto;
 }
 
+/*STRIKETHROUGH text in <s> */
+s {text-decoration:line-through; text-decoration-thickness:3px;}
+
 /*.trapezoid !*MAKE SET SIZE FOR SMALLER SCREENS*!*/
 /*{   z-index: -1;*/
 /*    position: absolute;*/
@@ -46,11 +49,6 @@ body{
 /*    transition: height 0.5s;*/
 /*}*/
 
-@media (max-width: 500px){
-    main p {
-
-    }
-}
 
 #Erieimg {
     z-index: -100;
@@ -69,19 +67,24 @@ body{
     }
 }
 
-@media (max-width: 510px){
+@media (max-width: 530px){
     #Erieimg {
         height: 55em;
     }
 }
-@media (max-width: 415px){
+@media (max-width: 445px){
     #Erieimg {
         height: 60em;
     }
 }
-@media (max-width: 350px){
+@media (max-width: 381px){
     #Erieimg {
         height: 65em;
+    }
+}
+@media (max-width: 344px){
+    #Erieimg {
+        height: 70em;
     }
 }
 /*  ************************************END TRAPEZOID SCALING   */
@@ -249,9 +252,9 @@ div.logo-nav {
         padding: 0 0vw 1vh 0vw;
     }
 }
-@media (max-width: 615px) {
+@media (max-width: 650px) {
     #intro{
-        font-size: 1.1em;
+        font-size: .8em;
     }
 }
 /* *******************************END Header and navbar styling */
@@ -266,18 +269,31 @@ main {
 main ul li {
     margin-bottom: 10px;
 }
-@media (max-width: 615px) {
+@media (max-width: 650px) {
     main{
         padding: 5vh 0vw 5vh 0vw;
-        font-size: 1.1em;
+        font-size: .8em;
     }
     main ul {
         padding-left: 20px;
     }
+
 }
+
 section#title {
     display: flex;
     flex-direction: row;
+}
+@media (max-width: 650px){
+    section#title{
+        flex-direction: column;
+        align-items: center;
+    }
+}
+@media (max-width: 650px){
+    section#title p{
+        text-align: center;
+    }
 }
 section#other-title {
     background-color:#ffeeb3;
@@ -309,11 +325,18 @@ section h1{
         font-size: 120px;
     }
 }
-@media (max-width: 500px){
+@media (max-width: 650px){
     section h1{
-        font-size: 2.3em;
+        font-size: 3em;
+        text-align: center;
+        width: 80vw;
     }
 }
+/*@media (max-width: 500px){*/
+/*    section h1{*/
+/*        font-size: 2.3em;*/
+/*    }*/
+/*}*/
 #homeText h3{
     text-align: center;
     font-size: 2em;
