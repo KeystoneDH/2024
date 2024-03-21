@@ -291,16 +291,25 @@ section#title {
     }
 }
 @media (max-width: 650px){
-    section#title p{
+    section#title, section#other-title p{
         text-align: center;
     }
 }
+
+
 section#other-title {
     background-color:#ffeeb3;
     padding-left: 40px;
     display: flex;
     flex-direction: row;
 }
+@media (max-width: 650px){
+    section#other-title{
+        flex-direction: column;
+        align-items: center;
+    }
+}
+/**/
 figure.logo {
     margin: 0;
     padding-top: 2%;
