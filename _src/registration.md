@@ -23,7 +23,7 @@ The main entrance to the building is off of Reed Lot from Behrend College Drive.
 
 </div>
 
-## <a href="https://forms.bd.psu.edu/keystone-dh-registration" target="_blank">Registration</a>
+## Registration
 
 <a href="https://forms.bd.psu.edu/keystone-dh-registration" target="_blank">Register here</a> to attend the Keystone DH 2024 Conference May 20 - 22, 2024
 
@@ -49,7 +49,9 @@ The rate offered is <strong>$79.99 per room, per night</strong>. This rate is di
 ### On Campus Housing
 We are working on blocking a select number of residential hall rooms here on campus as another housing option for our guests. Watch this section for any changes.
 
-<br/>
+The suites will be in Senate Hall.
+
+For room <a href="https://liveon.psu.edu/behrend/housing/senat-hall">Specifications</a>.
 
 ## Transportation
 
