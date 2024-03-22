@@ -5,7 +5,7 @@ title: "while in erie"
 ---
 
 
-Wondering what to do during your visit? Here is your one stop shop to all things you have to do and/or try during your time in Erie, Pennsylvania!
+Want to explore the area during your visit? Here is your one stop shop to all things you have to do and/or try during your time in Erie, Pennsylvania!
 
 ## Places
 
@@ -21,10 +21,10 @@ Erie's Art Museum is the perfect place to experience remarkable art pieces from 
 
 <strong>Hours:</strong>
 <ul>
-<li>Mon-Tue: Closed</li>
-<li>Wed-Fri: 11:00AM-6:00PM</li>
 <li>Sat: 10:00AM-5:00PM</li>
 <li>Sun: 1:00PM-6:00PM</li>
+<li>Mon-Tue: Closed</li>
+<li>Wed-Fri: 11:00AM-6:00PM</li>
 </ul>
 
 <figure class="loc"><img src="img/erieArtMuseum.jpg" alt="Erie Art Museum"/>
@@ -33,6 +33,14 @@ Erie's Art Museum is the perfect place to experience remarkable art pieces from 
 <figure class="loc">
 <img src="img/erieArtMuseumStuff.jpg" alt="Inside the Erie Art Museum"/>
 <figcaption>Inside the Erie Art Museum</figcaption>
+</figure>
+
+### The Waterfront and Presque Isle
+Visit the lakefront in downtown Erie, and make a trip out on the peninsula of Presque Isle! 
+Check out [these 15 recommended activities at Presque Isle](https://uncoveringpa.com/things-to-do-presque-isle-state-park-erie-pa) from travel site *Uncovering PA*.
+
+<figure class="loc"><img src="img/presque-isle-aerial.jpg" alt="aerial view of Presque Isle on Lake Erie"/>
+<figcaption>aerial view of Presque Isle jutting onto Lake Erie. Photo by Ken Winters, U.S. Army Corps of Engineers Digital Visual Library.</figcaption>
 </figure>
 
 ## Food
