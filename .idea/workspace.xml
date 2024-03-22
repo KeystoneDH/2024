@@ -4,12 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="47e8e673-2925-4913-91b2-308fe74cad94" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/cfp.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/cfp.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_src/bundle.css" beforeDir="false" afterPath="$PROJECT_DIR$/_src/bundle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_src/cfp.md" beforeDir="false" afterPath="$PROJECT_DIR$/_src/cfp.md" afterDir="false" />
-    </list>
+    <list default="true" id="47e8e673-2925-4913-91b2-308fe74cad94" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -35,8 +30,8 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "last_opened_file_path": "/Users/eeb4/Documents/GitHub/keystone-dh/2024/_src",
+    "git-widget-placeholder": "Savannah",
+    "last_opened_file_path": "C:/Users/savan/Documents/github/keystone",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -111,6 +106,7 @@
       <workItem from="1708552542525" duration="41000" />
       <workItem from="1708620566416" duration="1754000" />
       <workItem from="1709221818637" duration="8138000" />
+      <workItem from="1711030701930" duration="26000" />
     </task>
     <servers />
   </component>

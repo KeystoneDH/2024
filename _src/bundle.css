@@ -50,12 +50,6 @@ s {text-decoration:line-through; text-decoration-thickness:3px;}
 /*}*/
 
 
-@media (max-width: 500px){
-    main p {
-
-    }
-}
-
 #Erieimg {
     z-index: -100;
     position: absolute;
@@ -73,19 +67,24 @@ s {text-decoration:line-through; text-decoration-thickness:3px;}
     }
 }
 
-@media (max-width: 510px){
+@media (max-width: 530px){
     #Erieimg {
         height: 55em;
     }
 }
-@media (max-width: 415px){
+@media (max-width: 445px){
     #Erieimg {
         height: 60em;
     }
 }
-@media (max-width: 350px){
+@media (max-width: 381px){
     #Erieimg {
         height: 65em;
+    }
+}
+@media (max-width: 344px){
+    #Erieimg {
+        height: 70em;
     }
 }
 /*  ************************************END TRAPEZOID SCALING   */
@@ -155,7 +154,7 @@ nav {
 }
 
 .dropbtn:hover {
-    background-color: rgb(255, 227, 128);
+    background-color: rgb(255, 255, 255);
 }
 
 .dropdown {
@@ -181,7 +180,7 @@ padding-left: 10px;}
 .dropdown-content {
     display: none;
     position: absolute;
-    background-color: rgb(255, 238, 179, 0.8);
+    background-color: rgb(255, 255, 255, 0.95);
     width: 100vw;
     overflow: auto;
     box-shadow: 0px 8px 56px 0px rgba(0,0,0,0.2);
@@ -253,9 +252,9 @@ div.logo-nav {
         padding: 0 0vw 1vh 0vw;
     }
 }
-@media (max-width: 615px) {
+@media (max-width: 650px) {
     #intro{
-        font-size: 1.1em;
+        font-size: .8em;
     }
 }
 /* *******************************END Header and navbar styling */
@@ -270,25 +269,47 @@ main {
 main ul li {
     margin-bottom: 10px;
 }
-@media (max-width: 615px) {
+@media (max-width: 650px) {
     main{
         padding: 5vh 0vw 5vh 0vw;
-        font-size: 1.1em;
+        font-size: .8em;
     }
     main ul {
         padding-left: 20px;
     }
+
 }
+
 section#title {
     display: flex;
     flex-direction: row;
 }
+@media (max-width: 650px){
+    section#title{
+        flex-direction: column;
+        align-items: center;
+    }
+}
+@media (max-width: 650px){
+    section#title, section#other-title p{
+        text-align: center;
+    }
+}
+
+
 section#other-title {
     background-color:#ffeeb3;
     padding-left: 40px;
     display: flex;
     flex-direction: row;
 }
+@media (max-width: 650px){
+    section#other-title{
+        flex-direction: column;
+        align-items: center;
+    }
+}
+/**/
 figure.logo {
     margin: 0;
     padding-top: 2%;
@@ -313,11 +334,18 @@ section h1{
         font-size: 120px;
     }
 }
-@media (max-width: 500px){
+@media (max-width: 650px){
     section h1{
-        font-size: 2.3em;
+        font-size: 3em;
+        text-align: center;
+        width: 80vw;
     }
 }
+/*@media (max-width: 500px){*/
+/*    section h1{*/
+/*        font-size: 2.3em;*/
+/*    }*/
+/*}*/
 #homeText h3{
     text-align: center;
     font-size: 2em;
@@ -388,7 +416,7 @@ section h1{
 
 
 
-/** *********************************Registraion page **/
+/** *********************************Registration page **/
 #price {
     margin: 0;
     font-weight: bold;
@@ -402,10 +430,35 @@ section h1{
     flex-direction: row;
 }
 #campusMap img{
+    width: 90%;
     max-width: 400px;
 }
-/** *********************************End Registraion page **/
+/** *********************************End Registration page **/
 
+/** *********Local Attractions Page *********** **/
+/** *********Local Attractions Page *********** **/
+figure.loc {
+    width:50%;
+    padding:5px;
+}
+
+figure.loc figcaption{
+    font-style: italic;
+    font-size:smaller;
+}
+
+figure.loc img {
+    max-width:80%;
+    width:700px;
+}
+
+
+
+/** *********END Local Attractions Page *********** **/
+
+
+
+/** *********END Local Attractions Page *********** **/
 /** *********************************Footer **/
 footer {
     position: absolute;

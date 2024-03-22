@@ -3,12 +3,17 @@ layout: "layouts/other-top.html"
 permalink: "cfp.html"
 title: "cfp"
 ---
+### Submission Form and Timeline
+
+* Thank you for your submissions! Our proposal submission form is now closed and the conference organizing committee is deliberating!
+* We plan to respond to all submissions by March 25.
+* Conference dates: Monday, May 20th - Wednesday, May 22nd, 2024.
 
 ### Theme
 The theme of Keystone DH 2024 is **play**, the serious fun of exploration, experimentation, immersion in digital humanities. While we welcome proposals that address our conference theme, presentations need not address the theme directly, and may address any aspect of digital humanities broadly conceived. 
 
 ### Details
-We are planning 90-minute panel blocks (as usual for this conference). You may submit proposals for individual ~15-minute presentations or 
+We are planning 90-minute panel blocks (as usual for this conference). We are considering proposals for individual ~15-minute presentations or 
 for fully a formed "roundtable" panel with multiple identified participants. 
 
 As with previous Keystone DH conferences, we welcome a range of proposals, including:
@@ -31,8 +36,3 @@ are interested in your experiments with it, but we expect our conference partici
 We ask that conference applicants and presenters report their use of generative AI language tools, following
 [arXiv's AI policy](https://blog.arxiv.org/2023/01/31/arxiv-announces-new-policy-on-chatgpt-and-similar-tools/).
 
-### Submission Form and Timeline
-
-* Please send your submissions through **[our Proposal Submission Form](https://forms.gle/pNKMjbZVr6Hz4qwV9)** by Friday, ~~March 1st~~ **March 8**.
-* We plan to respond to all submissions by ~~March 15~~ March 22.
-* Conference dates: Monday, May 20th - Wednesday, May 22nd, 2024.
