@@ -6,7 +6,7 @@ title: "cfp"
 ### Submission Form and Timeline
 
 * Thank you for your submissions! Our proposal submission form is now closed and the conference organizing committee is deliberating!
-* We plan to respond to all submissions by March 25.
+* We plan to respond to all submissions by the end of the day on Tuesday March 25. (If you have not heard from us yet, we will be in contact with a decision very soon!)
 * Conference dates: Monday, May 20th - Wednesday, May 22nd, 2024.
 
 ### Theme
