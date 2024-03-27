@@ -10,8 +10,9 @@ The conference theme is <strong>play</strong>: the fun of exploring, gaming, and
 new things without being sure you understand them. This theme celebrates
 immersive experience and experimentation in digital humanities, especially marked in the adventurous work of
 <a href="#homeText">our keynote presenters</a>!</p>
+<p>Thank you for your submissions! The <a href="cfp.html">call for papers</a> is now closed, and we are planning the schedule, to be posted soon.</p>
 <p>Students, early-career and non-traditional scholars, faculty researchers, digital scholarship librarians,
-designers, developers, explorers experimenting with “digital humanities” are all welcome to apply at our <a href="cfp.html">Call for Papers</a>.
+designers, developers, explorers experimenting with “digital humanities” are all welcome to register and attend.</p>
 --->
 
 <!--- Used for Keynotes in main-top.html --->
