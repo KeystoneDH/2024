@@ -5,8 +5,9 @@ title: "cfp"
 ---
 ### Submission Form and Timeline
 
-* Thank you for your submissions! Our proposal submission form is now closed and the conference organizing committee is deliberating!
-* We plan to respond to all submissions by the end of the day on Tuesday March 26. (If you have not heard from us yet, we will be in contact with a decision very soon!)
+* Thank you for your submissions! Our proposal submission form is now closed and we have begun preparing the schedule of presentations.
+* **All submitters should now have received notification** of the organizing committee's decision. 
+* **If you submitted a proposal and did not hear from us** please be in touch with the organizers at [contact@keystonedh.network](contact@keystonedh.network).
 * Conference dates: Monday, May 20th - Wednesday, May 22nd, 2024.
 
 ### Theme
