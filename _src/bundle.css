@@ -61,30 +61,31 @@ s {text-decoration:line-through; text-decoration-thickness:3px;}
 }
 
 /*  ********************************TRAPEZOID SCALING DONT TOUCH*** */
-@media (max-width: 630px){
-    #Erieimg {
-        height: 50em;
-    }
-}
-
-@media (max-width: 530px){
+@media (max-width: 1054px){
     #Erieimg {
         height: 55em;
     }
 }
+@media (max-width: 650px){
+    #Erieimg {
+        height: 35em;
+    }
+}
+
+@media (max-width: 562px){
+    #Erieimg {
+        height: 40em;
+    }
+}
 @media (max-width: 445px){
     #Erieimg {
-        height: 60em;
+        height: 45em;
     }
 }
-@media (max-width: 381px){
-    #Erieimg {
-        height: 65em;
-    }
-}
+
 @media (max-width: 344px){
     #Erieimg {
-        height: 70em;
+        height: 50em;
     }
 }
 /*  ************************************END TRAPEZOID SCALING   */
@@ -153,9 +154,12 @@ nav {
     width: 100vw;
 }
 
-.dropbtn:hover {
-    background-color: rgb(255, 255, 255);
-}
+/*.dropbtn:hover {*/
+/*    background-color: rgb(255, 255, 255);*/
+/*}*/
+/*.dropbtn:active, :visited {*/
+/*    background-color: rgb(255, 238, 170);*/
+/*}*/
 
 .dropdown {
     padding: 0vh;
@@ -220,6 +224,7 @@ nav ul {
     list-style-type: none;
     padding-left: 0vw;
     margin:auto;
+    background-color: #ffeeb3;
 }
 nav ul li {
     font-size: 1.2em;
@@ -307,6 +312,7 @@ section#other-title {
     section#other-title{
         flex-direction: column;
         align-items: center;
+        padding-left: 0px;
     }
 }
 /**/
