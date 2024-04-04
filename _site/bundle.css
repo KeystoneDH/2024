@@ -1,3 +1,11 @@
+:root{
+    --headFont: "DM Sans", sans-serif;
+    --everythingFont: 'Open Sans', sans-serif;
+    --goldColor: #FFCD00;
+}
+
+
+
 /** Basic styling */
 html{width: 100%;
     height: 100%;
@@ -12,7 +20,7 @@ html{width: 100%;
 body{
     overflow-x: hidden;
     margin:0;
-    font-family: 'Open Sans', sans-serif;
+    font-family: var(--everythingFont);
     line-height: 1.5;
     color:#111;
 }
@@ -57,15 +65,17 @@ s {text-decoration:line-through; text-decoration-thickness:3px;}
     top: 0px;
     background-repeat: no-repeat;
     background-position-x: right;
-    height: 50em;
+    height: 52em;
 }
 
 /*  ********************************TRAPEZOID SCALING DONT TOUCH*** */
-@media (max-width: 1054px){
+@media (max-width: 1145px){
     #Erieimg {
         height: 55em;
     }
 }
+
+
 @media (max-width: 650px){
     #Erieimg {
         height: 35em;
@@ -328,6 +338,7 @@ figure.logo img#kdh-logo {
     max-width: 100px;
 }
 section h1{
+    font-family: var(--headFont);
     margin: 0;
     font-size:7vw;
     line-height: 1;
