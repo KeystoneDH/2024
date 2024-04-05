@@ -1,7 +1,7 @@
 ---
 layout: "layouts/other-top.html"
 permalink: "registration.html"
-title: "register|travel"
+title: "register | travel"
 
 ---
 
@@ -95,13 +95,16 @@ Lodging in campus dormitory suites in Senat Hall. For room information and layou
     * Add a single charge of $15 for linen service ($200 total).
     * Add one additional charge of $15 to change linens each day. ($215 total)
 
+<a href="https://forms.bd.psu.edu/keystone-dh-housing" target="_blank">Book your stay at Senat!</a>
+
+
 
 ### Cobblestone Hotel
 The Cobblestone Hotel in Harborcreek (across the road from the Penn State Behrend campus) has blocked off a limited number of rooms for an arrival of May 19, 2024, and departure date of May 22, 2024. These rooms are available to be reserved by conference presenters or attendees.
 
 The rate offered is <strong>$79.99 per room, per night</strong>. This rate is discounted for the event. The total will be <strong>$239.97 for 3 nights, excluding taxes & fees</strong>.
 
-<!-- ebb: UNCOMMENT REGISTRATION FORM WHEN READY <a href="https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbe.synxis.com%2F%3FHotel%3D68874%26Chain%3D7721%26arrive%3D2024-05-19%26depart%3D2024-05-22%26adult%3D1%26child%3D0%26group%3DKEYSTONE24&data=05%7C02%7Csrr5618%40psu.edu%7Cce4b629a44b24d8400ea08dc437b6aea%7C7cf48d453ddb4389a9c1c115526eb52e%7C0%7C0%7C638459444553320973%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=7OCFDWSdLheEAEelOOv94PVK6UJak00ZvfkvxfOtyz4%3D&reserved=0" target="_blank">Register here</a> for a room at the Cobblestone Hotel. -->
+<a href="https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fbe.synxis.com%2F%3FHotel%3D68874%26Chain%3D7721%26arrive%3D2024-05-19%26depart%3D2024-05-22%26adult%3D1%26child%3D0%26group%3DKEYSTONE24&data=05%7C02%7Csrr5618%40psu.edu%7Cce4b629a44b24d8400ea08dc437b6aea%7C7cf48d453ddb4389a9c1c115526eb52e%7C0%7C0%7C638459444553320973%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C0%7C%7C%7C&sdata=7OCFDWSdLheEAEelOOv94PVK6UJak00ZvfkvxfOtyz4%3D&reserved=0" target="_blank">Book your stay at the Cobblestone Hotel!</a>
 
 
 ### Parking on Campus

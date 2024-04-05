@@ -67,39 +67,93 @@ s {text-decoration:line-through; text-decoration-thickness:3px;}
     background-position-x: right;
     height: 52em;
 }
+@media (min-width: 1880px){
+    #Erieimg {
+        padding-right: 20vw;
+    }
+}
 
 /*  ********************************TRAPEZOID SCALING DONT TOUCH*** */
-@media (max-width: 1145px){
+
+@media (min-width: 1334px){
+    #Erieimg {
+        height: 55em;
+    }
+}
+@media (max-width: 1334px){
     #Erieimg {
         height: 55em;
     }
 }
 
+@media (max-width: 1090px){
+    #Erieimg {
+        height: 60em;
+    }
+}
+
+@media (max-width: 805px){
+    #Erieimg {
+        height: 55em;
+    }
+}
 
 @media (max-width: 650px){
     #Erieimg {
-        height: 35em;
+        height: 38em;
     }
 }
 
-@media (max-width: 562px){
-    #Erieimg {
-        height: 40em;
-    }
-}
-@media (max-width: 445px){
+@media (max-width: 545px){
     #Erieimg {
         height: 45em;
+    }
+}
+@media (max-width: 420px){
+    #Erieimg {
+        height: 50em;
     }
 }
 
 @media (max-width: 344px){
     #Erieimg {
-        height: 50em;
+        height: 55em;
     }
 }
 /*  ************************************END TRAPEZOID SCALING   */
 
+
+/** *********************************Footer **/
+footer {
+    position: absolute;
+    left: 0vw;
+    font-size:1em;
+    background-color: #ffeeb3;
+    width: 100vw;
+}
+footer #content {
+    padding-left: 3vw;
+}
+.footer-info{
+    padding-top: 20px;
+}
+.footer-info p{
+    margin: 5px;
+}
+ul.social-media-list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+.social-media-list img {
+    min-width: 30px;
+    max-width: 40px;
+    width:3vw;
+    padding: 0 10px
+}
+/** *********************************END Footer **/
 
 /* *******************************Header and navbar styling */
 /** Links */
@@ -113,6 +167,8 @@ header {
     position: static;
     z-index: 1;
     display:flex;
+    margin: 0 auto;
+    max-width: 1000px;
 }
 
 header#main-header{
@@ -127,6 +183,7 @@ header#othertop {
     padding:0;
 
 }
+
 @media (min-height: 970px), (max-width: 1580px) {
     header#othertop {
         height: 15vh;
@@ -142,10 +199,14 @@ header#othertop {
         height: 5vh;
     }
 }
-
+@media(max-width: 408px) {
+    header#othertop {
+        height: revert;
+    }
+}
 nav {
     padding: 0vh 5vw 0vh 5vw;
-    margin: 75px 0 50px 0;
+    margin: 75px auto 50px auto;
     position: relative;
     display:flex;
     flex-direction: row;
@@ -153,6 +214,19 @@ nav {
 
     /*position: sticky;
     top: 0;*/
+}
+
+@media (min-width: 1000px){
+    nav{
+        width: 1000px
+    }
+
+}
+@media (max-width: 1246px){
+    nav{
+        margin: 75px 0 50px 0;
+    }
+
 }
 .dropbtn {
     background-color: rgb(255, 238, 170);
@@ -228,7 +302,7 @@ padding-left: 10px;}
 nav ul {
     list-style-type: none;
     padding-left: 0vw;
-    margin:auto;
+
 }
 #myDropdown {
     list-style-type: none;
@@ -245,7 +319,6 @@ div.logo-nav {
     display:flex;
     flex-direction:column;
     height: fit-content;
-
     width: 100%;
 }
 
@@ -256,6 +329,16 @@ div.logo-nav {
     font-size: 1.2em;
     margin: 1vw 0 1vw 0;
     /*max-height:495px;*/
+}
+@media screen and (min-width: 1441px){
+    #intro {
+        padding: 0 10vw 1vh 0vw;
+    }
+}
+@media screen and (min-width: 2441px){
+    #intro {
+        padding: 0 0vw 1vh 0vw;
+    }
 }
 @media screen and (max-width: 875px){
     #intro {
@@ -285,7 +368,7 @@ main ul li {
     margin-bottom: 10px;
 }
 @media (max-width: 650px) {
-    main{
+    main, footer{
         padding: 5vh 0vw 5vh 0vw;
         font-size: .8em;
     }
@@ -345,6 +428,7 @@ section h1{
     word-spacing: .1em;
     width: 50vw;
     height: revert;
+    max-width: 1000px;
 }
 @media only screen and (min-width: 1650px) {
     section h1{
@@ -476,34 +560,3 @@ figure.loc img {
 
 
 /** *********END Local Attractions Page *********** **/
-/** *********************************Footer **/
-footer {
-    position: absolute;
-    left: 0vw;
-    font-size:1em;
-    background-color: #ffeeb3;
-    width: 100vw;
-}
-footer #content {
-    padding-left: 3vw;
-}
-.footer-info{
-    padding-top: 20px;
-}
-.footer-info p{
-    margin: 5px;
-}
-ul.social-media-list {
-    list-style: none;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-
-}
-.social-media-list img {
-    min-width: 30px;
-    max-width: 40px;
-    width:3vw;
-    padding: 0 10px
-}
-/** *********************************END Footer **/
