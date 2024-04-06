@@ -536,7 +536,7 @@ section h1{
 }
 /** *********************************End Registration page **/
 
-/** *********Local Attractions Page *********** **/
+
 /** *********Local Attractions Page *********** **/
 figure.loc {
     width:50%;
@@ -557,6 +557,13 @@ figure.loc img {
 
 /** *********END Local Attractions Page *********** **/
 
+/*********************Abstract Page**/
+p:has(.affil) {
+    font-size: 0.8em;
 
+}
+p:has(.affil, i.name) {
+    margin: 0;
+}
+/*********************END Abstract Page**/
 
-/** *********END Local Attractions Page *********** **/
