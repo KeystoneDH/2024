@@ -58,7 +58,7 @@ s {text-decoration:line-through; text-decoration-thickness:3px;}
 /*}*/
 
 
-#Erieimg {
+#Erieimg, #YellowTrap {
     z-index: -100;
     position: absolute;
     right: 0px;
@@ -68,55 +68,75 @@ s {text-decoration:line-through; text-decoration-thickness:3px;}
     height: 52em;
 }
 @media (min-width: 1880px){
-    #Erieimg {
+    #Erieimg, #YellowTrap {
         padding-right: 20vw;
+    }
+}
+@media (min-width: 1880px){
+    #Erieimg {
+        opacity: 1;
     }
 }
 
 /*  ********************************TRAPEZOID SCALING DONT TOUCH*** */
 
 @media (min-width: 1334px){
-    #Erieimg {
+    #Erieimg, #YellowTrap {
         height: 55em;
     }
 }
 @media (max-width: 1334px){
-    #Erieimg {
-        height: 55em;
+    #Erieimg{
+        opacity: 1;
     }
 }
-
+/********************************/
 @media (max-width: 1090px){
-    #Erieimg {
+    #Erieimg, #YellowTrap {
         height: 60em;
     }
 }
-
-@media (max-width: 805px){
+@media (max-width: 1090px){
     #Erieimg {
+        opacity: 0.8;
+    }
+}
+/********************************/
+@media (max-width: 805px){
+    #Erieimg, #YellowTrap {
         height: 55em;
     }
 }
-
-@media (max-width: 650px){
+@media (max-width: 805px){
     #Erieimg {
+        opacity: 0.6;
+    }
+}
+/*****************************/
+@media (max-width: 650px){
+    #Erieimg, #YellowTrap {
         height: 38em;
     }
 }
-
-@media (max-width: 545px){
+@media (max-width: 650px){
     #Erieimg {
+        opacity: 0;
+    }
+}
+/*****************************/
+@media (max-width: 545px){
+    #Erieimg, #YellowTrap {
         height: 45em;
     }
 }
 @media (max-width: 420px){
-    #Erieimg {
+    #Erieimg, #YellowTrap {
         height: 50em;
     }
 }
 
 @media (max-width: 344px){
-    #Erieimg {
+    #Erieimg, #YellowTrap {
         height: 55em;
     }
 }
@@ -229,7 +249,7 @@ nav {
 
 }
 .dropbtn {
-    background-color: rgb(255, 238, 170);
+    background-color: rgb(255, 227, 128);
     color: black;
     padding: 16px;
     font-size: 2em;
@@ -283,8 +303,7 @@ padding-left: 10px;}
     display: block;
     text-align: center;
     font-size: 1.2em;
-    border-bottom: solid;
-    border-width: 1px;
+
 }
 
 /***** DELETE .link WHEN ALL NAV LINKS WORK *****/
