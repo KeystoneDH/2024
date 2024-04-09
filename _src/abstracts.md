@@ -1,7 +1,7 @@
 ---
 layout: "layouts/other-top.html"
-permalink: "abstract.html"
-title: "abstract"
+permalink: "abstracts.html"
+title: "abstracts"
 
 ---
 
