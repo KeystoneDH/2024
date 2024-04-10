@@ -121,7 +121,7 @@ References:
 
 <div id="IWP-3">
 
-### Gaming Multilinguality with Student Teams: the unfolding story of Tower of Babel: HathiTrust Edition
+### Gaming Multilinguality with Student Teams: The unfolding story of Tower of Babel: HathiTrust Edition
 
 <i class="name">Ali Bolcakan and Christi Merrill</i>
 
