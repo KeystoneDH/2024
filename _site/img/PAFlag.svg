@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg id="Keystone Flag" width="1500" height="900" version="1.1" xmlns="http://www.w3.org/2000/svg">
+ <path id="hoist" d="m0 0h750v900h-750z" fill="#0a3161"/>
+ <path id="fly" d="m750 0h750v900h-750z" fill="#046a38"/>
+ <path id="keystone" d="m1e3 0-62.5 225h187.5l-187.5 675h-375l-187.5-675h187.5l-62.5-225z" fill="#ffcd00"/>
+</svg>

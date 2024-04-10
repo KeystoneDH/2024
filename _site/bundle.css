@@ -1,3 +1,11 @@
+:root{
+    --headFont: "DM Sans", sans-serif;
+    --everythingFont: 'Open Sans', sans-serif;
+    --goldColor: #FFCD00;
+}
+
+
+
 /** Basic styling */
 html{width: 100%;
     height: 100%;
@@ -12,7 +20,7 @@ html{width: 100%;
 body{
     overflow-x: hidden;
     margin:0;
-    font-family: 'Open Sans', sans-serif;
+    font-family: var(--everythingFont);
     line-height: 1.5;
     color:#111;
 }
@@ -50,45 +58,122 @@ s {text-decoration:line-through; text-decoration-thickness:3px;}
 /*}*/
 
 
-#Erieimg {
+#Erieimg, #YellowTrap {
     z-index: -100;
     position: absolute;
     right: 0px;
     top: 0px;
     background-repeat: no-repeat;
     background-position-x: right;
-    height: 50em;
+    height: 52em;
+}
+@media (min-width: 1880px){
+    #Erieimg, #YellowTrap {
+        padding-right: 20vw;
+    }
+}
+@media (min-width: 1880px){
+    #Erieimg {
+        opacity: 1;
+    }
 }
 
 /*  ********************************TRAPEZOID SCALING DONT TOUCH*** */
-@media (max-width: 630px){
+
+@media (min-width: 1334px){
+    #Erieimg, #YellowTrap {
+        height: 55em;
+    }
+}
+@media (max-width: 1334px){
+    #Erieimg{
+        opacity: 1;
+    }
+}
+/********************************/
+@media (max-width: 1090px){
+    #Erieimg, #YellowTrap {
+        height: 60em;
+    }
+}
+@media (max-width: 1090px){
     #Erieimg {
+        opacity: 0.8;
+    }
+}
+/********************************/
+@media (max-width: 805px){
+    #Erieimg, #YellowTrap {
+        height: 55em;
+    }
+}
+@media (max-width: 805px){
+    #Erieimg {
+        opacity: 0.6;
+    }
+}
+/*****************************/
+@media (max-width: 650px){
+    #Erieimg, #YellowTrap {
+        height: 38em;
+    }
+}
+@media (max-width: 650px){
+    #Erieimg {
+        opacity: 0;
+    }
+}
+/*****************************/
+@media (max-width: 545px){
+    #Erieimg, #YellowTrap {
+        height: 45em;
+    }
+}
+@media (max-width: 420px){
+    #Erieimg, #YellowTrap {
         height: 50em;
     }
 }
 
-@media (max-width: 530px){
-    #Erieimg {
-        height: 55em;
-    }
-}
-@media (max-width: 445px){
-    #Erieimg {
-        height: 60em;
-    }
-}
-@media (max-width: 381px){
-    #Erieimg {
-        height: 65em;
-    }
-}
 @media (max-width: 344px){
-    #Erieimg {
-        height: 70em;
+    #Erieimg, #YellowTrap {
+        height: 55em;
     }
 }
 /*  ************************************END TRAPEZOID SCALING   */
 
+
+/** *********************************Footer **/
+footer {
+    position: absolute;
+    left: 0vw;
+    font-size:1em;
+    background-color: #ffeeb3;
+    width: 100vw;
+}
+footer #content {
+    padding-left: 3vw;
+}
+.footer-info{
+    padding-top: 20px;
+}
+.footer-info p{
+    margin: 5px;
+}
+ul.social-media-list {
+    list-style: none;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+
+}
+.social-media-list img {
+    min-width: 30px;
+    max-width: 40px;
+    width:3vw;
+    padding: 0 10px
+}
+/** *********************************END Footer **/
 
 /* *******************************Header and navbar styling */
 /** Links */
@@ -102,6 +187,8 @@ header {
     position: static;
     z-index: 1;
     display:flex;
+    margin: 0 auto;
+    max-width: 1000px;
 }
 
 header#main-header{
@@ -116,6 +203,7 @@ header#othertop {
     padding:0;
 
 }
+
 @media (min-height: 970px), (max-width: 1580px) {
     header#othertop {
         height: 15vh;
@@ -131,10 +219,14 @@ header#othertop {
         height: 5vh;
     }
 }
-
+@media(max-width: 408px) {
+    header#othertop {
+        height: revert;
+    }
+}
 nav {
     padding: 0vh 5vw 0vh 5vw;
-    margin: 75px 0 50px 0;
+    margin: 75px auto 50px auto;
     position: relative;
     display:flex;
     flex-direction: row;
@@ -143,8 +235,21 @@ nav {
     /*position: sticky;
     top: 0;*/
 }
+
+@media (min-width: 1000px){
+    nav{
+        width: 1000px
+    }
+
+}
+@media (max-width: 1246px){
+    nav{
+        margin: 75px 0 50px 0;
+    }
+
+}
 .dropbtn {
-    background-color: rgb(255, 238, 170);
+    background-color: rgb(255, 227, 128);
     color: black;
     padding: 16px;
     font-size: 2em;
@@ -153,9 +258,12 @@ nav {
     width: 100vw;
 }
 
-.dropbtn:hover {
-    background-color: rgb(255, 255, 255);
-}
+/*.dropbtn:hover {*/
+/*    background-color: rgb(255, 255, 255);*/
+/*}*/
+/*.dropbtn:active, :visited {*/
+/*    background-color: rgb(255, 238, 170);*/
+/*}*/
 
 .dropdown {
     padding: 0vh;
@@ -195,8 +303,7 @@ padding-left: 10px;}
     display: block;
     text-align: center;
     font-size: 1.2em;
-    border-bottom: solid;
-    border-width: 1px;
+
 }
 
 /***** DELETE .link WHEN ALL NAV LINKS WORK *****/
@@ -214,12 +321,13 @@ padding-left: 10px;}
 nav ul {
     list-style-type: none;
     padding-left: 0vw;
-    margin:auto;
+
 }
 #myDropdown {
     list-style-type: none;
     padding-left: 0vw;
     margin:auto;
+    background-color: #ffeeb3;
 }
 nav ul li {
     font-size: 1.2em;
@@ -230,7 +338,6 @@ div.logo-nav {
     display:flex;
     flex-direction:column;
     height: fit-content;
-
     width: 100%;
 }
 
@@ -241,6 +348,16 @@ div.logo-nav {
     font-size: 1.2em;
     margin: 1vw 0 1vw 0;
     /*max-height:495px;*/
+}
+@media screen and (min-width: 1441px){
+    #intro {
+        padding: 0 10vw 1vh 0vw;
+    }
+}
+@media screen and (min-width: 2441px){
+    #intro {
+        padding: 0 0vw 1vh 0vw;
+    }
 }
 @media screen and (max-width: 875px){
     #intro {
@@ -270,7 +387,7 @@ main ul li {
     margin-bottom: 10px;
 }
 @media (max-width: 650px) {
-    main{
+    main, footer{
         padding: 5vh 0vw 5vh 0vw;
         font-size: .8em;
     }
@@ -307,6 +424,7 @@ section#other-title {
     section#other-title{
         flex-direction: column;
         align-items: center;
+        padding-left: 0px;
     }
 }
 /**/
@@ -322,12 +440,14 @@ figure.logo img#kdh-logo {
     max-width: 100px;
 }
 section h1{
+    font-family: var(--headFont);
     margin: 0;
     font-size:7vw;
     line-height: 1;
     word-spacing: .1em;
     width: 50vw;
     height: revert;
+    max-width: 1000px;
 }
 @media only screen and (min-width: 1650px) {
     section h1{
@@ -435,7 +555,7 @@ section h1{
 }
 /** *********************************End Registration page **/
 
-/** *********Local Attractions Page *********** **/
+
 /** *********Local Attractions Page *********** **/
 figure.loc {
     width:50%;
@@ -456,37 +576,13 @@ figure.loc img {
 
 /** *********END Local Attractions Page *********** **/
 
-
-
-/** *********END Local Attractions Page *********** **/
-/** *********************************Footer **/
-footer {
-    position: absolute;
-    left: 0vw;
-    font-size:1em;
-    background-color: #ffeeb3;
-    width: 100vw;
-}
-footer #content {
-    padding-left: 3vw;
-}
-.footer-info{
-    padding-top: 20px;
-}
-.footer-info p{
-    margin: 5px;
-}
-ul.social-media-list {
-    list-style: none;
-    display: flex;
-    flex-direction: row;
-    align-items: center;
+/*********************Abstract Page**/
+p:has(.affil) {
+    font-size: 0.8em;
 
 }
-.social-media-list img {
-    min-width: 30px;
-    max-width: 40px;
-    width:3vw;
-    padding: 0 10px
+p:has(.affil, i.name) {
+    margin: 0;
 }
-/** *********************************END Footer **/
+/*********************END Abstract Page**/
+
