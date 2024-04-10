@@ -1,7 +1,7 @@
 ---
 layout: "layouts/other-top.html"
 permalink: "registration.html"
-title: "register | travel"
+title: "register|travel"
 
 ---
 
