@@ -121,7 +121,7 @@ References:
 
 <div id="IWP-3">
 
-### Tower of Babel, HathiTrust Edition: An Educational Digital Game
+### Gaming Multilinguality with Student Teams: the unfolding story of Tower of Babel: HathiTrust Edition
 
 <i class="name">Ali Bolcakan and Christi Merrill</i>
 
