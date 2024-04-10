@@ -436,7 +436,7 @@ In this classroom, VR is not held up as a necessary or desired future, but as a 
 
 <div id="IP-13">
 
-### MUD, Metroid, and Mortal Kombat: Pedagogical Approaches to Video Game History
+### MUD, *Metroid*, and *Mortal Kombat*: Pedagogical Approaches to Video Game History
 
 <i class="name">Lauren Liebe</i>
 
