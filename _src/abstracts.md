@@ -6,13 +6,11 @@ title: "abstracts"
 ---
 
 <ul>
-<li><a>Workshops</a></li>
-<li><a>Panel Presentations</a></li>
-<li><a>Other</a></li>
-
+<li><a href="#workshops">Workshops</a></li>
+<li><a href="#papers">Panel Presentations</a></li>
 </ul>
 
-## Workshops
+<h2 id="workshops">Workshops</h2>
 
 <div id="OTHER-4">
 
@@ -50,7 +48,7 @@ We will conclude by sharing our OER zine, which workshop attendees may use to ad
 
 </div>
 
-## Panel Presentations
+<h2 id="papers">Panel Presentations</h2>
 
 <div id="IP-9">
 
