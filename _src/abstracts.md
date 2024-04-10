@@ -277,7 +277,7 @@ The game's visual style aims to be reminiscent of older games. Its mechanical sy
 
 <div id="IWP-5">
 
-### “The New Testament”: An Animation in Development
+### "Time Weaving": A work in progress talk about algorithmic interpolation and generative animation
 
 <i class="name">Tommy Hartung</i>
 
@@ -436,7 +436,7 @@ In this classroom, VR is not held up as a necessary or desired future, but as a 
 
 <div id="IP-13">
 
-### Contextualizing Retro Games for Students
+### MUD, Metroid, and Mortal Kombat: Pedagogical Approaches to Video Game History
 
 <i class="name">Lauren Liebe</i>
 
