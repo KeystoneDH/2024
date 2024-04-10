@@ -80,10 +80,10 @@ The main entrance to the building is off of Reed Lot from Behrend College Drive.
 
 
 ## Lodging
-The local organizers are working out two different options for housing, and will be posting links so that you can book accommodations shortly! This information may help with budgeting travel to the conference. We expect arrivals on Sunday May 19 and checkout/departures on Wednesday May 22, so all costs below are budgeted for a stay of three nights.
+We expect arrivals on Sunday May 19 and checkout/departures on Wednesday May 22, so all costs below are budgeted for a stay of three nights. 
 
 ### On-Campus Housing
-Lodging in campus dormitory suites in Senat Hall. For room information and layout, please see <a href="https://liveon.psu.edu/behrend/housing/senat-hall">Specifications</a>. There will be two housing options:
+Lodging in campus dormitory suites in Senat Hall. For room information and layout, please see <a href="https://liveon.psu.edu/behrend/housing/senat-hall">Specifications</a>. There are two housing options:
 
 1. A room in a private suite and bathroom:
    * $65 per night ($195 total for three nights).
@@ -95,14 +95,14 @@ Lodging in campus dormitory suites in Senat Hall. For room information and layou
    * Add a single charge of $15 for linen service ($200 total).
    * Add one additional charge of $15 to change linens each day. ($215 total)
 
-<a href="https://forms.bd.psu.edu/keystone-dh-housing" target="_blank">Book your stay at Senat!</a>
+<a href="https://forms.bd.psu.edu/keystone-dh-housing" target="_blank">Book your stay at Senat!</a> <strong>Bookings are accepted through this form through Friday May 3.</strong>
 
 
 
 ### Cobblestone Hotel
 The Cobblestone Hotel in Harborcreek (across the road from the Penn State Behrend campus) has blocked off a limited number of rooms for an arrival of May 19, 2024, and departure date of May 22, 2024. These rooms are available to be reserved by conference presenters or attendees.
 
-The rate offered is <strong>$79.99 per room, per night</strong>. This rate is discounted for the event. The total will be <strong>$239.97 for 3 nights, excluding taxes & fees</strong>.
+The rate offered is <strong>$79.99 per room, per night</strong>. This rate is discounted for the event. The total will be <strong>$239.97 for 3 nights, excluding taxes & fees</strong>. <strong>Important! The special conference booking rate is only available through Monday April 22!</strong>
 
 <a href="https://be.synxis.com/?Hotel=68874&Chain=7721&arrive=2024-05-19&depart=2024-05-22&adult=1&child=0&group=KEYSTONE24" target="_blank">Book your stay at the Cobblestone Hotel!</a>
 
