@@ -14,7 +14,6 @@
       <change beforePath="$PROJECT_DIR$/_site/registration.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/registration.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_site/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/schedule.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/_src/_includes/outer-layout.njk" beforeDir="false" afterPath="$PROJECT_DIR$/_src/_includes/outer-layout.njk" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_src/abstracts.md" beforeDir="false" afterPath="$PROJECT_DIR$/_src/abstracts.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +40,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "Savannah",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/savan/Documents/github/keystone",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -120,7 +119,7 @@
       <workItem from="1711030701930" duration="26000" />
       <workItem from="1711082180149" duration="6124000" />
       <workItem from="1711465918478" duration="2677000" />
-      <workItem from="1712707084146" duration="10590000" />
+      <workItem from="1712707084146" duration="11515000" />
     </task>
     <servers />
   </component>
