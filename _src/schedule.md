@@ -91,11 +91,11 @@ title: "schedule"
 
 #### Panel: Building Games
 
-1. <a href="abstracts.html#IP-10"><q>Kart Racing at the Fall of the Berlin Wall: Game Jams as Scholarly Inquiry in the History Classroom</q></a>: R. C. Miessler (Gettysburg College) and Greg Lord (Northeastern University).
+1. <a href="abstracts.html#IP-10"><q>Kart Racing at the Fall of the Berlin Wall: Game Jams as Scholarly Inquiry in the History Classroom</q></a>: R. C. Miessler (Gettysburg College) and Greg Lord (Northeastern University)
 
 2. <a href="abstracts.html#IP-25">"<q>MonRiverGames</q></a>: Heather Cole (MonRiverGames and West Virginia University)
 
-3. <a href="abstracts.html#IP-11"><q>Cyber-Play: Interactive Digital Storytelling</q>: Sara Cantwell (SUNY Potsdam)</a>
+3. <a href="abstracts.html#IP-11"><q>Cyber-Play: Interactive Digital Storytelling</q></a>: Sara Cantwell (SUNY Potsdam)
 
 
 ### Keynote Part 1: (M 5/20) 10:45am - 12:15pm, McGarvey Commons
