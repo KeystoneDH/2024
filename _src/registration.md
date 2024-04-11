@@ -100,10 +100,6 @@ Lodging in campus dormitory suites in Senat Hall. For room information and layou
 <a href="https://forms.bd.psu.edu/keystone-dh-housing" target="_blank">Book your stay at Senat!</a> <strong>Bookings are accepted through this form through Friday May 3.</strong>
 
 
-<a href="https://forms.bd.psu.edu/keystone-dh-housing" target="_blank">Book your stay at Senat!</a>
-
-
-
 ### Cobblestone Hotel
 The Cobblestone Hotel in Harborcreek (across the road from the Penn State Behrend campus) has blocked off a limited number of rooms for an arrival of May 19, 2024, and departure date of May 22, 2024. These rooms are available to be reserved by conference presenters or attendees.
 
