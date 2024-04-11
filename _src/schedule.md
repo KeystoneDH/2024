@@ -3,5 +3,174 @@ layout: "layouts/other-top.html"
 permalink: "schedule.html"
 title: "schedule"
 ---
+## Monday, May 20, 2024
+
+### Session 1: (M 5/20) 9 - 10:30am
+
+#### Panel: Building Games
+
+
+### Keynote Part 1: (M 5/20) 10:45am - 12:15pm, McGarvey Commons
+
+### Lunch (M 5/20) 12:15 - 1:15pm, McGarvey Commons
+
+### Session 2: (M 5/20) 1:15 - 2:45pm
+
+#### Panel A: Digital Communities
+
+#### Panel B: Forms of Practice
+
+
+### Session 3: (M 5/20) 3 - 4:30pm
+
+#### Workshop: Data + Art Workshop
+
+### Snacks (Upstairs Reed)
+
+### Session 4: (M 5/20) 4:45 - 6:15pm
+
+#### Panel A: Digital Art and Virtual Modeling
+
+#### Panel B: Location-based Storytelling: Green Book Cleveland and Queer Cleveland
+
+<hr class="scheduleBar"/>
+
+## Tuesday, May 21, 2024
+
+### Session 5: (T 5/21) 9 - 10:30am
+
+#### Panel: Games/Simulations about the Human Body
+
+### Keynote Part 2: (T 5/21) 10:45am - 12:15pm, McGarvey Commons
+
+### Lunch (T 5/21) 12:15 - 1:15pm, McGarvey Commons
+
+### Session 6: (T 5/21) 1:15 - 2:45pm
+
+#### Panel: Digital Archives
+
+#### Workshop: Launching a 3D Printing Initiative
+
+### Session 7: (T 5/21) 3 - 4:30pm
+
+#### Panel A: Retro Games
+
+#### Panel B: Multilingual DH: Problems and Creative Possibilities
+
+### Snacks (Upstairs Reed)
+
+### Session 8: (T 5/21) 4:45 - 6:15pm
+
+### Panel: AI in DH / Education
+
+<hr class="scheduleBar"/>
+
+## Wednesday, May 22, 2024
+
+### Session 9: (W 5/22) 9 - 10:30am
+
+#### Panel A: Linguistic Analyses: Exploratory Methods
+
+#### Panel B: Game Analysis: Games as Literary / Cultural Objects
+
+
+### Session 10: (W 5/22) 10:45am - 12:15pm
+
+#### Panel A: Food Processing in DH
+
+#### Panel B: Games in Literature
+
+### Concluding Discussion and Lunch (W 5/22) 12:15 - 1:15pm, Reed 114
+
+<hr class="scheduleBar"/>
+<hr class="scheduleBar"/>
+
+## Monday, May 20, 2024
+
+### Session 1: (M 5/20) 9 - 10:30am
+
+#### Panel: Building Games
+
+1. <a href="abstracts.html#IP-10"><q>Kart Racing at the Fall of the Berlin Wall: Game Jams as Scholarly Inquiry in the History Classroom</q></a>: R. C. Miessler (Gettysburg College) and Greg Lord (Northeastern University).
+
+2. <a href="abstracts.html#IP-25">"<q>MonRiverGames</q></a>: Heather Cole (MonRiverGames and West Virginia University)
+
+3. <a href="abstracts.html#IP-11"><q>Cyber-Play: Interactive Digital Storytelling</q>: Sara Cantwell (SUNY Potsdam)</a>
+
+
+### Keynote Part 1: (M 5/20) 10:45am - 12:15pm, McGarvey Commons
+
+### Lunch (M 5/20) 12:15 - 1:15pm, McGarvey Commons
+
+### Session 2: (M 5/20) 1:15 - 2:45pm
+
+#### Panel A: Digital Communities
+
+#### Panel B: Forms of Practice
+
+
+### Session 3: (M 5/20) 3 - 4:30pm
+
+#### Workshop: Data + Art Workshop
+
+### Snacks (Upstairs Reed)
+
+### Session 4: (M 5/20) 4:45 - 6:15pm
+
+#### Panel A: Digital Art and Virtual Modeling
+
+#### Panel B: Location-based Storytelling: Green Book Cleveland and Queer Cleveland
+
+<hr class="scheduleBar"/>
+
+## Tuesday, May 21, 2024
+
+### Session 5: (T 5/21) 9 - 10:30am
+
+#### Panel: Games/Simulations about the Human Body
+
+### Keynote Part 2: (T 5/21) 10:45am - 12:15pm, McGarvey Commons
+
+### Lunch (T 5/21) 12:15 - 1:15pm, McGarvey Commons
+
+### Session 6: (T 5/21) 1:15 - 2:45pm
+
+#### Panel: Digital Archives
+
+#### Workshop: Launching a 3D Printing Initiative
+
+### Session 7: (T 5/21) 3 - 4:30pm
+
+#### Panel A: Retro Games
+
+#### Panel B: Multilingual DH: Problems and Creative Possibilities
+
+### Snacks (Upstairs Reed)
+
+### Session 8: (T 5/21) 4:45 - 6:15pm
+
+### Panel: AI in DH / Education
+
+<hr class="scheduleBar"/>
+
+## Wednesday, May 22, 2024
+
+### Session 9: (W 5/22) 9 - 10:30am
+
+#### Panel A: Linguistic Analyses: Exploratory Methods
+
+#### Panel B: Game Analysis: Games as Literary / Cultural Objects
+
+
+### Session 10: (W 5/22) 10:45am - 12:15pm
+
+#### Panel A: Food Processing in DH
+
+#### Panel B: Games in Literature
+
+### Concluding Discussion and Lunch (W 5/22) 12:15 - 1:15pm, Reed 114
+
+
+
 
 
