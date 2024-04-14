@@ -470,7 +470,6 @@ section h1{
     text-align: center;
     font-size: 2em;
 }
-
 #keynoteSect{
     display: flex;
     flex-direction: row;
@@ -585,10 +584,5 @@ p:has(.affil) {
 p:has(.affil, i.name) {
     margin: 0;
 }
-
-#abstracts, #registration div {
-    margin-bottom: 60px;
-}
-
 /*********************END Abstract Page**/
 
