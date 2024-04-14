@@ -440,7 +440,7 @@ figure.logo img#kdh-logo {
     max-width: 100px;
 }
 section h1{
-    font-family: var(--headFont);
+    font-family: var(--everythingFont);
     margin: 0;
     font-size:7vw;
     line-height: 1;
