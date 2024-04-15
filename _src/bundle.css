@@ -611,5 +611,8 @@ p:has(.affil, i.name) {
 .sessionCont {
  margin-left: 50px;
 }
+@media (max-width: 650px) {
+    .sessionCont{ margin-left: 20px;}
+}
 
 /*********************END Schedule Page**/

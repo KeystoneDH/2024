@@ -93,7 +93,7 @@ title: "schedule"
 
 ## Monday, May 20, 2024
 
-<strong> Breakfast (M 5/20) McGarvey Commons or Upstairs Reed </strong>
+<strong> BREAKFAST (M 5/20) McGarvey Commons or Upstairs Reed </strong>
 
 <strong> Session 1: (M 5/20) 9 - 10:30am </strong>
 
@@ -102,18 +102,18 @@ title: "schedule"
 <strong><i> Panel: Building Games, Reed 114 </i></strong>
 
 <ul>
-<li><a href="abstracts.html#IP-10"><q>Kart Racing at the Fall of the Berlin Wall: Game Jams as Scholarly Inquiry in the History Classroom</q></a>: R. C. Miessler (Gettysburg College) and Greg Lord (Northeastern University)</li>
+<li><a href="abstracts.html#IP-10"><q>Kart Racing at the Fall of the Berlin Wall: Game Jams as Scholarly Inquiry in the History Classroom</q></a> R. C. Miessler (Gettysburg College) and Greg Lord (Northeastern University)</li>
 
-<li><a href="abstracts.html#IP-25"><q>Community Devs: How an Appalachian Non-profit Supports Indie Game Makers</q></a>: Heather Cole (MonRiverGames and West Virginia University)</li>
+<li><a href="abstracts.html#IP-25"><q>Community Devs: How an Appalachian Non-profit Supports Indie Game Makers</q></a> Heather Cole (MonRiverGames and West Virginia University)</li>
 
-<li><a href="abstracts.html#IP-11"><q>Cyber-Play: Interactive Digital Storytelling</q></a>: Sara Cantwell (SUNY Potsdam)</li>
+<li><a href="abstracts.html#IP-11"><q>Cyber-Play: Interactive Digital Storytelling</q></a> Sara Cantwell (SUNY Potsdam)</li>
 </ul>
 
 </div>
 
 <strong> Keynote Part 1: (M 5/20) 10:45am - 12:15pm, McGarvey Commons </strong>
 
-<strong> Lunch (M 5/20) 12:15 - 1:15pm, McGarvey Commons </strong>
+<strong> LUNCH (M 5/20) 12:15 - 1:15pm, McGarvey Commons </strong>
 
 
 
@@ -124,25 +124,27 @@ title: "schedule"
 <strong><i> Panel A: Digital Communities, Reed 112</i></strong>
 
 <ul>
-<li><a href="abstracts.html#IP-12"><q>I Have NoSleep, and I Must Read: Re-Mediation and Hybrid Genres on Reddit’s r/NoSleep</q></a>:Caden Holbrook (University of Louisville)</li>
+<li><a href="abstracts.html#IP-12"><q>I Have NoSleep, and I Must Read: Re-Mediation and Hybrid Genres on Reddit’s r/NoSleep</q></a>Caden Holbrook (University of Louisville)</li>
 
 <li><a href="abstracts.html#IP-20"><q>Being an ‘ICHINA’ Online – Everyday Discursive (Re)production of Internet-Mediated Chinese National Identity in the Era of Consumerism and Fandom
-</q></a>: Zhiwei Wang (University of EdinBurgh)</li>
+</q></a> Zhiwei Wang (University of EdinBurgh)</li>
 
-<li><a href="abstracts.html#IWP-2"><q>Digital Iran Reloaded: Iranian Gamers vs the Islamic Republic of Iran</q></a>: Melinda Cohoon (University of Washington)</li>
+<li><a href="abstracts.html#IWP-2"><q>Digital Iran Reloaded: Iranian Gamers vs the Islamic Republic of Iran</q></a> Melinda Cohoon (University of Washington)</li>
 </ul>
 
 <strong><i> Panel B: Forms of Practice, Reed 113</i></strong>
 
 <ul>
-<li><a href="abstracts.html#IP-7"><q>NEED TITLE</q></a>: Zach Whalen (University of Mary Washington)</li>
+<li><a href="abstracts.html#IP-7"></a> Zach Whalen (University of Mary Washington)</li>
 
-<li><a href="abstracts.html#IP-19"><q>From Data to Discovery: Unraveling language patterns with Corpus Linguistics</q></a>: Massimo Verzella (Penn State Behrend)</li>
+<li><a href="abstracts.html#IP-19"><q>From Data to Discovery: Unraveling language patterns with Corpus Linguistics</q></a> Massimo Verzella (Penn State Behrend)</li>
 
-<li><a href="abstracts.html#IP-28"><q>Professionalization and Play: Digital Portfolio Design on Substack</q></a>: Maureen Gallagher (University of Pittsburgh)</li>
+<li><a href="abstracts.html#IP-28"><q>Professionalization and Play: Digital Portfolio Design on Substack</q></a> Maureen Gallagher (University of Pittsburgh)</li>
 </ul>
 
 </div>
+
+
 
 
 
@@ -153,12 +155,15 @@ title: "schedule"
 <strong> Workshop: Data + Art Workshop, Reed 114</strong>
 
 <ul>
-<li><a href="abstracts.html#OTHER-1"><q>Art + Data Workshop</q></a>: Chelsea Gunn (University of Pittsburgh)</li>
+<li><a href="abstracts.html#OTHER-1"><q>Art + Data Workshop</q></a> Chelsea Gunn (University of Pittsburgh)</li>
 </ul>
 
 </div>
 
-<strong> Snacks (Upstairs Reed)</strong>
+<strong> SNACKS (Upstairs Reed)</strong>
+
+
+
 
 
 
@@ -168,17 +173,17 @@ title: "schedule"
 <strong><i>Panel A: Digital Art and Virtual Modeling, Reed 112 </i></strong>
 
 <ul>
-<li><a href="abstracts.html#IWP-5"><q>Time Weaving</q></a>: Tommy Hartung (Penn State Behrend)</li>
+<li><a href="abstracts.html#IWP-5"><q>Time Weaving</q></a> Tommy Hartung (Penn State Behrend)</li>
 
-<li><a href="abstracts.html#OTHER-3"><q>Art from the Archives: Engaging Creativity With Historic Textual Descriptions of Art Works</q></a>: Jacob Gordon (Pennsylvania State University)</li>
+<li><a href="abstracts.html#OTHER-3"><q>Art from the Archives: Engaging Creativity With Historic Textual Descriptions of Art Works</q></a> Jacob Gordon (Pennsylvania State University)</li>
 
-<li><a href="abstracts.html#IP-22"><q>Making Space: Building Virtual Museums and Imagining Audiences in the Humanities Classroom</q></a>: Mariah Kupfner (Penn State Harrisburg)</li>
+<li><a href="abstracts.html#IP-22"><q>Making Space: Building Virtual Museums and Imagining Audiences in the Humanities Classroom</q></a> Mariah Kupfner (Penn State Harrisburg)</li>
 </ul>
 
 <strong><i> Panel B: Location-based Storytelling: Green Book Cleveland and Queer Cleveland, Reed 113</i></strong>
 
 <ul>
-<li><a href="abstracts.html#PANEL-1"><q>Location-based Storytelling with WordPress: Green Book Cleveland and Queer Cleveland</q></a>: J. Mark Souther (Cleveland State University)</li>
+<li><a href="abstracts.html#PANEL-1"><q>Location-based Storytelling with WordPress: Green Book Cleveland and Queer Cleveland</q></a> J. Mark Souther (Cleveland State University)</li>
 </ul>
 
 <hr class="scheduleBar"/>
@@ -187,25 +192,25 @@ title: "schedule"
 
 ## Tuesday, May 21, 2024
 
-<strong> Breakfast (T 5/21) McGarvey Commons or Upstairs Reed</strong>
+<strong> BREAKFAST (T 5/21) McGarvey Commons or Upstairs Reed</strong>
 
 <strong> Session 5: (T 5/21) 9 - 10:30am</strong>
 
 <div class="sessionCont">
 <strong><i> Panel: Games/Simulations about the Human Body, Reed 114 </i></strong>
 <ul>
-<li><a href="abstracts.html#IP-4"><q>Shaping sympathetic classroom communities: Interactive games about mental health</q></a>: Kristine Kelly (Case Western Reserve University)</li>
+<li><a href="abstracts.html#IP-4"><q>Shaping sympathetic classroom communities: Interactive games about mental health</q></a> Kristine Kelly (Case Western Reserve University)</li>
 
-<li><a href="abstracts.html#IP-21"><q>NEED TITLE</q></a>: Stephanie Kinzinger (University of North Carolina at Chapel Hill)</li>
+<li><a href="abstracts.html#IP-21"></a> Stephanie Kinzinger (University of North Carolina at Chapel Hill)</li>
 
-<li><a href="abstracts.html#IWP-4"><q>NEED TITLE</q></a>: Nathan Hammer: (Penn State Behrend)</li>
+<li><a href="abstracts.html#IWP-4"></a> Nathan Hammer (Penn State Behrend)</li>
 </ul>
 
 </div>
 
 <strong> Keynote Part 2: (T 5/21) 10:45am - 12:15pm, McGarvey Commons</strong>
 
-<strong> Lunch (T 5/21) 12:15 - 1:15pm, McGarvey Commons</strong>
+<strong> LUNCH (T 5/21) 12:15 - 1:15pm, McGarvey Commons</strong>
 
 
 
@@ -214,16 +219,16 @@ title: "schedule"
 <div class="sessionCont">
 <strong><i> Panel: Digital Archives, Reed 112 </i></strong>
 <ul>
-<li><a href="abstracts.html#IP-5"><q>NEED TITLE</q></a>: Binky Lush (Penn State University Libraries)</li>
+<li><a href="abstracts.html#IP-5"></a> Binky Lush (Penn State University Libraries)</li>
 
-<li><a href="abstracts.html#IP-3"><q>Discovery Research and Digital Archives in Teaching Renaissance Drama</q></a>: Maria Doyle (University of West Georgia)</li>
+<li><a href="abstracts.html#IP-3"><q>Discovery Research and Digital Archives in Teaching Renaissance Drama</q></a> Maria Doyle (University of West Georgia)</li>
 
-<li><a href="abstracts.html#IP-2"><q>The Locke Anthology 2.0 ???</q></a>: Zach Schleger (Penn State Behrend)</li>
+<li><a href="abstracts.html#IP-2"><q>Locke Anthology 2.0</q></a> Zach Schleger (Penn State Behrend)</li>
 </ul>
 
 <strong><i> Workshop: Launching a 3D Printing Initiative, Reed 114</i></strong>
 <ul>
-<li><a href="abstracts.html#OTHER-4"><q>NEED TITLE</q></a>: Dr. Mark Gallimore (Canisius University)</li>
+<li><a href="abstracts.html#OTHER-4"></a> Dr. Mark Gallimore (Canisius University)</li>
 </ul>
 
 </div>
@@ -235,25 +240,25 @@ title: "schedule"
 <div class="sessionCont">
 <strong><i> Panel A: Retro Games, Reed 112</i></strong>
 <ul>
-<li><a href="abstracts.html#IP-13"><q>MUD, Metroid, and Mortal Kombat: Pedagogical Approaches to Video Game History</q></a>: Lauren Liebe (Penn State Behrend)</li>
+<li><a href="abstracts.html#IP-13"><q>MUD, Metroid, and Mortal Kombat: Pedagogical Approaches to Video Game History</q></a> Lauren Liebe (Penn State Behrend)</li>
 
-<li><a href="abstracts.html#IWP-8"><q>Preserving Play: A Tale of Two SimCities</q></a>: Daniel Johnson (University of Notre Dame)</li>
+<li><a href="abstracts.html#IWP-8"><q>Preserving Play: A Tale of Two SimCities</q></a> Daniel Johnson (University of Notre Dame)</li>
 
-<li><a href="abstracts.html#OTHER-5"><q>Anything Not Saved Will Be Lost: Video Games as Archives in the Humanities Classroom</q></a>: R.C. Miessler (Gettysburg College)</li>
+<li><a href="abstracts.html#OTHER-5"><q>Anything Not Saved Will Be Lost: Video Games as Archives in the Humanities Classroom</q></a> R.C. Miessler (Gettysburg College)</li>
 </ul>
 
 <strong><i> Panel B: Multilingual DH: Problems and Creative Possibilities, Reed 113 </i></strong>
 <ul>
-<li></li>
+<li><a href="abstracts.html#IP-16"></a> Dmitriy Babichenko (University of Pittsburgh)</li>
 
-<li></li>
+<li><a href="abstracts.html#IWP-7"><q>Challenges in Exploratory Data Analysis: Space in Spanish-Language Literature Workshop</q></a> Jennifer Isasi and Joshua Ortiz Baco (Pennsylvania State University & University of Tennessee)</li>
 
-<li></li>
+<li><a href="abstracts.html#IP-29"><q>The Chilean Parlamentos: Using XML to Create a Translation-to-Public Workflow</q></a> Pilar Herr, Bill Campbell, and Sean DiLeonardi (University of Pittsburgh at Greensburg)</li>
 </ul>
 
 </div>
 
-<strong> Snacks (Upstairs Reed)</strong>
+<strong> SNACKS (Upstairs Reed)</strong>
 
 
 
@@ -263,11 +268,9 @@ title: "schedule"
 <strong><i> Panel: AI in DH / Education, Reed 114</i></strong>
 
 <ul>
-<li></li>
+<li><a href="abstracts.html#IP-26"><q>Generative AI in Digital Humanities Education</q></a> Natasha Johnson (Carnegie Mellon University)</li>
 
-<li></li>
-
-<li></li>
+<li><a href="abstracts.html#IWP-6"><q>There Will Be Doughnuts: Playing with Generative AI Tools to Build Community</q></a> Katherine Furlong (Bucknell University)</li>
 </ul>
 
 </div>
@@ -276,7 +279,7 @@ title: "schedule"
 
 ## Wednesday, May 22, 2024
 
-<strong> Breakfast (T 5/21) McGarvey Commons or Upstairs Reed</strong>
+<strong> BREAKFAST (T 5/21) McGarvey Commons or Upstairs Reed</strong>
 
 <strong> Session 9: (W 5/22) 9 - 10:30am</strong>
 
@@ -284,21 +287,21 @@ title: "schedule"
 <strong><i> Panel A: Linguistic Analyses: Exploratory Methods, Reed 112</i></strong>
 
 <ul>
-<li></li>
+<li><a href="abstracts.html#IP-24"><q>Language Games : What Artificial Languages can Teach Us</q></a> Patrick Juola (Duquesne University)</li>
 
-<li></li>
+<li><a href="abstracts.html#IWP-3"><q>Gaming Multilinguality with Student Teams: The Unfolding Story of Tower of Babel: HathiTrust Edition</q></a> Ali Bolcakan & Christi Merrill (University of Michigan)</li>
 
-<li></li>
+<li><a href="abstracts.html#IWP-1"><q>Kvasir's Algorithm: Developing an Algorithmic Model of Old Norse dróttkvætt Meters for Machine-Assisted Scansion</q></a> Jasper Sachsenmeier (Penn State Behrend)</li>
 </ul>
 
 <strong><i> Panel B: Game Analysis: Games as Literary / Cultural Objects, Reed 113</i></strong>
 
 <ul>
-<li></li>
+<li><a href="abstracts.html#IP-17"><q>The Universe Peoples: Interrogating Mediated Communication of a Symptomatic Deep Ecology via OReilly’s Everything</q></a> Jerald Lim (Univesity of Utah)</li>
 
-<li></li>
+<li><a href="abstracts.html#IP-1"><q>Teaching Ancient Chinese History Through Playing NationWar: Chronicles</q></a> Shu Wan (University at Buffalo)</li>
 
-<li></li>
+<li><a href="abstracts.html#IP-6"><q>Playing with/in Generative Narratives: Mapping Figures and Figura in Julio Cortázar’s Hopscotch</q></a> Justin Carpenter (University of Utah)</li>
 </ul>
 
 </div>
@@ -311,26 +314,25 @@ title: "schedule"
 <strong><i> Panel A: Food Processing in DH, Reed 112</i></strong>
 
 <ul>
-<li></li>
+<li><a href="abstracts.html#IP-8"><q>German cursive and the promise of AI: Transcribing culinary manuscripts and having fun recreating old
+recipes</q></a> Jason A. Reusher (Penn State Libraries)</li>
 
-<li></li>
-
-<li></li>
+<li><a href="abstracts.html#IP-27"><q>Preserving Palates, Cultivating Connections: Bridging Cultural, Culinary Heritages and Digital Pedagogies</q></a> Teresa Lobalsamo and Dellannia Segreti (University of Toronto Mississauga)</li>
 </ul>
 
 <strong><i> Panel B: Games in Literature, Reed 113</i></strong>
 
 <ul>
-<li></li>
+<li><a href="abstracts.html#IP-9"><q>Black Ludology: Theorizing Play in Black Literature</q></a> Austin Anderson (Howard University)</li>
 
-<li></li>
+<li><a href="abstracts.html#IP-23"><q>Virtual Reality in Narratives and Narratives as Virtual Reality in a LitRPG: Immersiveness and the Augmented Human in Ernest Cline’s Ready Player One</q></a> Manoj Singh Rana and Dr. Arnapurna Rath (Indian Institute of Technology Gandhinagar)</li>
 
-<li></li>
+<li><a href="abstracts.html#IP-18"><q>Environmental Ethics through a Game of Non-mastery in the novel 'The Overstory.'</q></a> Sayan Bhattacharyya (Yale University)</li>
 </ul>
 
 </div>
 
-<strong> Concluding Discussion and Lunch (W 5/22) 12:15 - 1:15pm, Reed 114</strong>
+<strong> Concluding Discussion and LUNCH (W 5/22) 12:15 - 1:15pm, Reed 114</strong>
 
 
 
