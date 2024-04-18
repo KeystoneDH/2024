@@ -45,7 +45,7 @@ title: "schedule"
 <li><a href="abstracts.html#IP-12"><q>I Have NoSleep, and I Must Read: Re-Mediation and Hybrid Genres on Reddit’s r/NoSleep</q></a><p class="auth"> Caden Holbrook (University of Louisville)</p></li>
 
 <li><a href="abstracts.html#IP-20"><q>Being an ‘ICHINA’ Online – Everyday Discursive (Re)production of Internet-Mediated Chinese National Identity in the Era of Consumerism and Fandom
-</q></a><p class="auth"> Zhiwei Wang (University of EdinBurgh)</p></li>
+</q></a><p class="auth"> Zhiwei Wang (University of Edinburgh)</p></li>
 
 <li><a href="abstracts.html#IWP-2"><q>Digital Iran Reloaded: Iranian Gamers vs the Islamic Republic of Iran</q></a><p class="auth"> Melinda Cohoon (University of Washington)</p></li>
 </ul>
