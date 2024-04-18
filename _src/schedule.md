@@ -70,7 +70,7 @@ title: "schedule"
 
 <div class="sessionCont">
 
-#### Workshop: Art + Data Workshop, Reed 114
+#### Workshop: Reed 114
 
 <ul>
 <li><a href="abstracts.html#OTHER-1"><q>Art + Data Workshop</q></a><p class="auth"> Chelsea Gunn and Liz Monk (University of Pittsburgh)</p></li>
@@ -148,7 +148,7 @@ title: "schedule"
 <li><a href="abstracts.html#IP-2"><q>Locke Anthology 2.0</q></a><p class="auth"> Zach Schleger (Penn State Behrend)</p></li>
 </ul>
 
-#### Workshop: Launching a 3D Printing Initiative, Reed 114
+#### Workshop: Reed 114
 <ul>
 <li><a href="abstracts.html#OTHER-4"><q>Launching a 3D Printing Initiative</q></a><p class="auth"> Dr. Mark Gallimore and Tyler Kron-Piatek (Canisius University)</p></li>
 </ul>
