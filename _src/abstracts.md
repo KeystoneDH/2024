@@ -80,9 +80,9 @@ Our team has collaborated with indigenous communities in Ecuador and with schola
 
 <div id="IP-5">
 
-### The Judy Chicago Research Portal
+### Playing Well with Others: Creating Sustainable Digital Projects through Collaborative Exploration
 
-<i class="name">Linda Ballinger and Binky Lush</i>
+<i class="name">Linda Ballinger, Binky Lush, Dominique Luster, and Forough Yazdanpanah</i>
 
 <i class="affil">Penn State University Libraries</i>
 
