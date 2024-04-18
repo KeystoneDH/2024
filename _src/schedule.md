@@ -7,20 +7,23 @@ title: "schedule"
 
 ## Monday, May 20, 2024
 
-<strong> BREAKFAST (M 5/20) McGarvey Commons or Upstairs Reed </strong>
+### BREAKFAST (M 5/20) McGarvey Commons or Upstairs Reed 
 
-<strong> Session 1: (M 5/20) 9 - 10:30am </strong>
+### Session 1: (M 5/20) 9 - 10:30am
 
 <div class="sessionCont">
 
-<strong><i> Panel: Building Games, Reed 114 </i></strong>
+#### Panel: Building Games, Reed 114 </i></strong>
 
 <ul>
-<li><a href="abstracts.html#IP-10"><q>Kart Racing at the Fall of the Berlin Wall: Game Jams as Scholarly Inquiry in the History Classroom</q></a> R. C. Miessler (Gettysburg College) and Greg Lord (Northeastern University)</li>
+<li><a href="abstracts.html#IP-10"><q>Kart Racing at the Fall of the Berlin Wall: Game Jams as Scholarly Inquiry in the History Classroom</q></a> 
+<p class="auth">R. C. Miessler (Gettysburg College) and Greg Lord (Northeastern University)</p></li>
 
-<li><a href="abstracts.html#IP-25"><q>Community Devs: How an Appalachian Non-profit Supports Indie Game Makers</q></a> Heather Cole (MonRiverGames and West Virginia University)</li>
+<li><a href="abstracts.html#IP-25"><q>Community Devs: How an Appalachian Non-profit Supports Indie Game Makers</q></a> 
+<p class="auth">Heather Cole (MonRiverGames and West Virginia University)</p></li>
 
-<li><a href="abstracts.html#IP-11"><q>Cyber-Play: Interactive Digital Storytelling</q></a> Sara Cantwell (SUNY Potsdam)</li>
+<li><a href="abstracts.html#IP-11"><q>Cyber-Play: Interactive Digital Storytelling</q></a> 
+<p class="auth">Sara Cantwell (SUNY Potsdam)</p></li>
 </ul>
 
 </div>
@@ -106,7 +109,7 @@ title: "schedule"
 
 ## Tuesday, May 21, 2024
 
-<strong> BREAKFAST (T 5/21) McGarvey Commons or Upstairs Reed</strong>
+### BREAKFAST (T 5/21) McGarvey Commons or Upstairs Reed
 
 <strong> Session 5: (T 5/21) 9 - 10:30am</strong>
 

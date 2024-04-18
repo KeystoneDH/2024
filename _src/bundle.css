@@ -606,7 +606,7 @@ p:has(.affil, i.name) {
 /*********************END Abstract Page**/
 
 /*********************Schedule Page**/
-
+h4 {font-style:italic}
 .sessionCont {
  margin-left: 50px;
 }
@@ -615,6 +615,11 @@ p:has(.affil, i.name) {
 }
 .schedule strong{
     font-weight: 900;
+}
+.auth {
+    font-size:.8em;
+    margin-top:0;
+    margin-bottom:0;
 }
 
 /*********************END Schedule Page**/
