@@ -105,9 +105,9 @@ title: "schedule"
 <li><a href="abstracts.html#PANEL-1"><q>Location-based Storytelling with WordPress: Green Book Cleveland and Queer Cleveland</q></a><p class="auth"> J. Mark Souther (Cleveland State University)</p></li>
 </ul>
 
-<hr class="scheduleBar"/>
-
 </div>
+
+<hr class="scheduleBar"/>
 
 ## Tuesday, May 21, 2024
 
