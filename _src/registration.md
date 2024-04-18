@@ -103,9 +103,9 @@ Lodging in campus dormitory suites in Senat Hall. For room information and layou
 ### Cobblestone Hotel
 The Cobblestone Hotel in Harborcreek (across the road from the Penn State Behrend campus) has blocked off a limited number of rooms for an arrival of May 19, 2024, and departure date of May 22, 2024. These rooms are available to be reserved by conference presenters or attendees.
 
-The rate offered is <strong>$79.99 per room, per night</strong>. This rate is discounted for the event. The total will be <strong>$239.97 for 3 nights, excluding taxes & fees</strong>. <strong>Important! The special conference booking rate is only available through Monday April 22!</strong>
+The rate offered is <strong>$79.99 per room, per night</strong>. This rate is discounted for the event. The total will be <strong>$239.97 for 3 nights, excluding taxes & fees</strong>. 
 
-<a href="https://be.synxis.com/?Hotel=68874&Chain=7721&arrive=2024-05-19&depart=2024-05-22&adult=1&child=0&group=KEYSTONE24" target="_blank">Book your stay at the Cobblestone Hotel!</a>
+<a href="https://be.synxis.com/?Hotel=68874&Chain=7721&arrive=2024-05-19&depart=2024-05-22&adult=1&child=0&group=KEYSTONE24" target="_blank">Book your stay at the Cobblestone Hotel!</a><strong> Important! The special conference booking rate is only available through Monday April 22!</strong>
 
 
 ### Parking on Campus

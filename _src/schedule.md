@@ -3,6 +3,7 @@ layout: "layouts/other-top.html"
 permalink: "schedule.html"
 title: "schedule"
 ---
+<div class="schedule">
 
 ## Monday, May 20, 2024
 
@@ -48,7 +49,7 @@ title: "schedule"
 <strong><i> Panel B: Forms of Practice, Reed 113</i></strong>
 
 <ul>
-<li><a href="abstracts.html#IP-7"></a> Zach Whalen (University of Mary Washington)</li>
+<li><a href="abstracts.html#IP-7"><q>Wilderness Walk: Computational Literary Approaches to the Digital Environmental Humanities</q></a> Zach Whalen (University of Mary Washington)</li>
 
 <li><a href="abstracts.html#IP-19"><q>From Data to Discovery: Unraveling language patterns with Corpus Linguistics</q></a> Massimo Verzella (Penn State Behrend)</li>
 
@@ -141,7 +142,7 @@ title: "schedule"
 
 <strong><i> Workshop: Launching a 3D Printing Initiative, Reed 114</i></strong>
 <ul>
-<li><a href="abstracts.html#OTHER-4"><q>Launching a 3D Printing Initiative</q></a> Dr. Mark Gallimore (Canisius University)</li>
+<li><a href="abstracts.html#OTHER-4"><q>Launching a 3D Printing Initiative</q></a> Dr. Mark Gallimore and Tyler Kron-Piatek (Canisius University)</li>
 </ul>
 
 </div>
@@ -228,7 +229,7 @@ title: "schedule"
 
 <ul>
 <li><a href="abstracts.html#IP-8"><q>German cursive and the promise of AI: Transcribing culinary manuscripts and having fun recreating old
-recipes</q></a> Jason A. Reusher (Penn State Libraries)</li>
+recipes</q></a> Jason A. Reuscher (Penn State Libraries)</li>
 
 <li><a href="abstracts.html#IP-27"><q>Preserving Palates, Cultivating Connections: Bridging Cultural, Culinary Heritages and Digital Pedagogies</q></a> Teresa Lobalsamo and Dellannia Segreti (University of Toronto Mississauga)</li>
 </ul>
@@ -248,4 +249,4 @@ recipes</q></a> Jason A. Reusher (Penn State Libraries)</li>
 <strong> Concluding Discussion and LUNCH (W 5/22) 12:15 - 1:15pm, Reed 114</strong>
 
 
-
+</div>
