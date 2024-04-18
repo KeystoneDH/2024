@@ -7,7 +7,7 @@ title: "schedule"
 
 ## Monday, May 20, 2024
 
-### BREAKFAST (M 5/20) McGarvey Commons or Upstairs Reed 
+### BREAKFAST McGarvey Commons or Upstairs Reed 
 
 ### Session 1: (M 5/20) 9 - 10:30am
 
@@ -30,7 +30,7 @@ title: "schedule"
 
 ### Keynote Part 1: (M 5/20) 10:45am - 12:15pm, McGarvey Commons 
 
-### LUNCH (M 5/20) 12:15 - 1:15pm, McGarvey Commons 
+### LUNCH 12:15 - 1:15pm, McGarvey Commons 
 
 
 
@@ -73,7 +73,7 @@ title: "schedule"
 #### Workshop: Art + Data Workshop, Reed 114
 
 <ul>
-<li><a href="abstracts.html#OTHER-1"><q>Art + Data Workshop</q></a><p class="auth"> Chelsea Gunn (University of Pittsburgh)</p></li>
+<li><a href="abstracts.html#OTHER-1"><q>Art + Data Workshop</q></a><p class="auth"> Chelsea Gunn and Liz Monk (University of Pittsburgh)</p></li>
 </ul>
 
 </div>
@@ -102,7 +102,8 @@ title: "schedule"
 #### Panel B: Location-based Storytelling: Green Book Cleveland and Queer Cleveland, Reed 113
 
 <ul>
-<li><a href="abstracts.html#PANEL-1"><q>Location-based Storytelling with WordPress: Green Book Cleveland and Queer Cleveland</q></a><p class="auth"> J. Mark Souther (Cleveland State University)</p></li>
+<li><a href="abstracts.html#PANEL-1"><q>Location-based Storytelling with WordPress: Green Book Cleveland and Queer Cleveland</q></a>
+<p class="auth"> J. Mark Souther, Erin J. Bell, Riley Habyl, Elena Solá, and Bali White (Cleveland State University)</p></li>
 </ul>
 
 </div>
@@ -111,7 +112,7 @@ title: "schedule"
 
 ## Tuesday, May 21, 2024
 
-### BREAKFAST (T 5/21) McGarvey Commons or Upstairs Reed
+### BREAKFAST McGarvey Commons or Upstairs Reed
 
 ### Session 5: (T 5/21) 9 - 10:30am
 
@@ -130,7 +131,7 @@ title: "schedule"
 
 ### Keynote Part 2: (T 5/21) 10:45am - 12:15pm, McGarvey Commons
 
-### LUNCH (T 5/21) 12:15 - 1:15pm, McGarvey Commons
+### LUNCH 12:15 - 1:15pm, McGarvey Commons
 
 
 
@@ -166,7 +167,7 @@ title: "schedule"
 
 <li><a href="abstracts.html#IWP-8"><q>Preserving Play: A Tale of Two SimCities</q></a><p class="auth"> Daniel Johnson (University of Notre Dame)</p></li>
 
-<li><a href="abstracts.html#OTHER-5"><q>Anything Not Saved Will Be Lost: Video Games as Archives in the Humanities Classroom</q></a><p class="auth"> R.C. Miessler (Gettysburg College)</p></li>
+<li><a href="abstracts.html#OTHER-5"><q>Anything Not Saved Will Be Lost: Video Games as Archives in the Humanities Classroom</q></a><p class="auth"> R.C. Miessler and Bill O’Hara (Gettysburg College)</p></li>
 </ul>
 
 #### Panel B: Multilingual DH: Problems and Creative Possibilities, Reed 113 
@@ -193,7 +194,7 @@ title: "schedule"
 <ul>
 <li><a href="abstracts.html#IP-26"><q>Generative AI in Digital Humanities Education</q></a><p class="auth"> Natasha Johnson (Carnegie Mellon University)</p></li>
 
-<li><a href="abstracts.html#IWP-6"><q>There Will Be Doughnuts: Playing with Generative AI Tools to Build Community</q></a><p class="auth"> Katherine Furlong (Bucknell University)</p></li>
+<li><a href="abstracts.html#IWP-6"><q>There Will Be Doughnuts: Playing with Generative AI Tools to Build Community</q></a><p class="auth"> Katherine Furlong and Kate Tuley (Bucknell University)</p></li>
 </ul>
 
 </div>
@@ -202,7 +203,7 @@ title: "schedule"
 
 ## Wednesday, May 22, 2024
 
-### BREAKFAST (T 5/21) McGarvey Commons or Upstairs Reed
+### BREAKFAST McGarvey Commons or Upstairs Reed
 
 ### Session 9: (W 5/22) 9 - 10:30am
 
@@ -257,7 +258,7 @@ recipes</q></a><p class="auth"> Jason A. Reuscher (Penn State Libraries)</p></li
 
 </div>
 
-### Concluding Discussion and LUNCH (W 5/22) 12:15 - 1:15pm, Reed 114
+### Concluding Discussion and LUNCH 12:15 - 1:15pm, Reed 114
 
 
 </div>
