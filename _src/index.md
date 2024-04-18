@@ -18,7 +18,7 @@ designers, developers, explorers experimenting with “digital humanities” are
 <!--- Used for Keynotes in main-top.html --->
 <div id="homeText">
 
-### Keynotes!
+## Keynotes!
 
 We are delighted to welcome our distinguished keynote presenters, **Micki Kaufman**, **Amanda Licastro**, and **Jasmine Clark**! 
 Kaufman, Licastro, and Clark will each lead a new immersive style of keynote event,
@@ -52,7 +52,7 @@ virtual world projected on monitors.
 
 
 
-### Accessing the conference
+## Accessing the conference
 
 Like last year's successful event, the 2024 conference will be **fully in person**. We ask all participants to join us on site at Penn State Behrend's campus.
 (In case of problems / disrupted travel, please be in touch with your
