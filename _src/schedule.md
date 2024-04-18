@@ -28,7 +28,12 @@ title: "schedule"
 
 </div>
 
-### Keynote Part 1: (M 5/20) 10:45am - 12:15pm, McGarvey Commons 
+### Keynote Panel Part 1: (M 5/20) 10:45am - 12:15pm, McGarvey Commons 
+<ul>
+<li>Micki Kaufman, <q>Quantifying Kissinger</q></li>
+<li>Amanda Licastro, <q>Embracing the Glitch</q></li>
+<li>Jasmine Clark, <q>Designing and Building a VR Game for Primary Source Literacy</q></li>
+</ul>
 
 ### LUNCH 12:15 - 1:15pm, McGarvey Commons 
 
@@ -130,6 +135,7 @@ title: "schedule"
 </div>
 
 ### Keynote Part 2: (T 5/21) 10:45am - 12:15pm, McGarvey Commons
+Following the structured orientation to their projects in Monday’s keynote panel, Kaufman, Licastro, and Clark lead discussion of participants' experiences of their projects.
 
 ### LUNCH 12:15 - 1:15pm, McGarvey Commons
 
