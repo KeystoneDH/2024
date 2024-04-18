@@ -3,93 +3,6 @@ layout: "layouts/other-top.html"
 permalink: "schedule.html"
 title: "schedule"
 ---
-## Monday, May 20, 2024
-
-### Session 1: (M 5/20) 9 - 10:30am
-
-#### Panel: Building Games, Reed 114
-
-
-### Keynote Part 1: (M 5/20) 10:45am - 12:15pm, McGarvey Commons
-
-### Lunch (M 5/20) 12:15 - 1:15pm, McGarvey Commons
-
-### Session 2: (M 5/20) 1:15 - 2:45pm
-
-#### Panel A: Digital Communities, Reed 112
-
-#### Panel B: Forms of Practice, Reed 113
-
-
-### Session 3: (M 5/20) 3 - 4:30pm
-
-#### Workshop: Data + Art Workshop, Reed 114
-
-### Snacks (Upstairs Reed)
-
-### Session 4: (M 5/20) 4:45 - 6:15pm
-
-#### Panel A: Digital Art and Virtual Modeling, Reed 112
-
-#### Panel B: Location-based Storytelling: Green Book Cleveland and Queer Cleveland, Reed 113
-
-<hr class="scheduleBar"/>
-
-## Tuesday, May 21, 2024
-
-### Session 5: (T 5/21) 9 - 10:30am
-
-#### Panel: Games/Simulations about the Human Body, Reed 114
-
-### Keynote Part 2: (T 5/21) 10:45am - 12:15pm, McGarvey Commons
-
-### Lunch (T 5/21) 12:15 - 1:15pm, McGarvey Commons
-
-### Session 6: (T 5/21) 1:15 - 2:45pm
-
-#### Panel: Digital Archives, Reed 112
-
-#### Workshop: Launching a 3D Printing Initiative, Reed 114
-
-### Session 7: (T 5/21) 3 - 4:30pm
-
-#### Panel A: Retro Games, Reed 112
-
-#### Panel B: Multilingual DH: Problems and Creative Possibilities, Reed 113
-
-### Snacks (Upstairs Reed)
-
-### Session 8: (T 5/21) 4:45 - 6:15pm
-
-### Panel: AI in DH / Education, Reed 114
-
-<hr class="scheduleBar"/>
-
-## Wednesday, May 22, 2024
-
-### Session 9: (W 5/22) 9 - 10:30am
-
-#### Panel A: Linguistic Analyses: Exploratory Methods, Reed 112
-
-#### Panel B: Game Analysis: Games as Literary / Cultural Objects, Reed 113
-
-
-### Session 10: (W 5/22) 10:45am - 12:15pm
-
-#### Panel A: Food Processing in DH, Reed 112
-
-#### Panel B: Games in Literature, Reed 113
-
-### Concluding Discussion and Lunch (W 5/22) 12:15 - 1:15pm, Reed 114
-
-<hr class="scheduleBar"/>
-<hr class="scheduleBar"/>
-<hr class="scheduleBar"/>
-<hr class="scheduleBar"/>
-<hr class="scheduleBar"/>
-
-
-
 
 ## Monday, May 20, 2024
 
@@ -124,7 +37,7 @@ title: "schedule"
 <strong><i> Panel A: Digital Communities, Reed 112</i></strong>
 
 <ul>
-<li><a href="abstracts.html#IP-12"><q>I Have NoSleep, and I Must Read: Re-Mediation and Hybrid Genres on Reddit’s r/NoSleep</q></a>Caden Holbrook (University of Louisville)</li>
+<li><a href="abstracts.html#IP-12"><q>I Have NoSleep, and I Must Read: Re-Mediation and Hybrid Genres on Reddit’s r/NoSleep</q></a> Caden Holbrook (University of Louisville)</li>
 
 <li><a href="abstracts.html#IP-20"><q>Being an ‘ICHINA’ Online – Everyday Discursive (Re)production of Internet-Mediated Chinese National Identity in the Era of Consumerism and Fandom
 </q></a> Zhiwei Wang (University of EdinBurgh)</li>
@@ -152,7 +65,7 @@ title: "schedule"
 
 <div class="sessionCont">
 
-<strong> Workshop: Data + Art Workshop, Reed 114</strong>
+<strong> Workshop: Art + Data Workshop, Reed 114</strong>
 
 <ul>
 <li><a href="abstracts.html#OTHER-1"><q>Art + Data Workshop</q></a> Chelsea Gunn (University of Pittsburgh)</li>
@@ -201,9 +114,9 @@ title: "schedule"
 <ul>
 <li><a href="abstracts.html#IP-4"><q>Shaping sympathetic classroom communities: Interactive games about mental health</q></a> Kristine Kelly (Case Western Reserve University)</li>
 
-<li><a href="abstracts.html#IP-21"></a> Stephanie Kinzinger (University of North Carolina at Chapel Hill)</li>
+<li><a href="abstracts.html#IP-21"><q>Medical Humanities: Surgery Simulations </q></a> Stephanie Kinzinger (University of North Carolina at Chapel Hill)</li>
 
-<li><a href="abstracts.html#IWP-4"></a> Nathan Hammer (Penn State Behrend)</li>
+<li><a href="abstracts.html#IWP-4"><q>Overdose: A Game in Development</q></a> Nathan Hammer (Penn State Behrend)</li>
 </ul>
 
 </div>
@@ -219,7 +132,7 @@ title: "schedule"
 <div class="sessionCont">
 <strong><i> Panel: Digital Archives, Reed 112 </i></strong>
 <ul>
-<li><a href="abstracts.html#IP-5"></a> Binky Lush (Penn State University Libraries)</li>
+<li><a href="abstracts.html#IP-5"><q>The Judy Chicago Research Portal</q></a> Linda Ballinger and Binky Lush (Penn State University Libraries)</li>
 
 <li><a href="abstracts.html#IP-3"><q>Discovery Research and Digital Archives in Teaching Renaissance Drama</q></a> Maria Doyle (University of West Georgia)</li>
 
@@ -228,7 +141,7 @@ title: "schedule"
 
 <strong><i> Workshop: Launching a 3D Printing Initiative, Reed 114</i></strong>
 <ul>
-<li><a href="abstracts.html#OTHER-4"></a> Dr. Mark Gallimore (Canisius University)</li>
+<li><a href="abstracts.html#OTHER-4"><q>Launching a 3D Printing Initiative</q></a> Dr. Mark Gallimore (Canisius University)</li>
 </ul>
 
 </div>
@@ -249,7 +162,7 @@ title: "schedule"
 
 <strong><i> Panel B: Multilingual DH: Problems and Creative Possibilities, Reed 113 </i></strong>
 <ul>
-<li><a href="abstracts.html#IP-16"></a> Dmitriy Babichenko (University of Pittsburgh)</li>
+<li><a href="abstracts.html#IP-16"><q>Developing StoryWorlds ITK (Indigenous Traditional Knowledge)</q></a> Dmitriy Babichenko (University of Pittsburgh)</li>
 
 <li><a href="abstracts.html#IWP-7"><q>Challenges in Exploratory Data Analysis: Space in Spanish-Language Literature Workshop</q></a> Jennifer Isasi and Joshua Ortiz Baco (Pennsylvania State University & University of Tennessee)</li>
 

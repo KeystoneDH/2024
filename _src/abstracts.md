@@ -17,7 +17,7 @@ title: "abstracts"
 
 ### Launching a 3D Printing Initiative
 
-<i class="name">Mark Gallimore and Tyler Kron-Piatek</i>
+<i class="name">Dr. Mark Gallimore and Tyler Kron-Piatek</i>
 
 <i class="affil">Canisius University</i>
 
