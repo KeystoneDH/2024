@@ -40,11 +40,12 @@ Traditional data education often includes computers, software, and/or spreadshee
 This workshop invites attendees to consider the humanistic, interpretive nature of data collection, analysis, and visualization.  Together, we will explore relevant data sources, including personal, civic, and humanities data, and spend time creating playful data visualizations.
 
 The hands-on workshop will include:  
-a humanistic exploration of <q>what is data</q>
-sharing data art inspiration
-exploring relevant sources
-spending time making our own physical data visualizations through playful exploration.
-
+<ul>
+<li>a humanistic exploration of <q>what is data</q></li>
+<li>sharing data art inspiration</li>
+<li>exploring relevant sources</li>
+<li>spending time making our own physical data visualizations through playful exploration.</li>
+</ul>
 We will conclude by sharing our OER zine, which workshop attendees may use to adapt materials for their own communities, and facilitating a conversation on creative approaches to data literacy education.
 
 </div>
@@ -239,13 +240,14 @@ As an instructor of Public and Professional Writing at the University of Pittsbu
 For the capstone project in Writing for the Public, an advanced composition course, I assign a digital portfolio on the Substack Newsletter platform. This digital portfolio connects student interests in both playful self-expression and professional development. I draw on the theory of Connected Learning, a pedagogical approach that builds on constructionism and extends the constructionist approach to the digital age. Connected Learning focuses on the affordances of digital technology to provide <q>engaging formats for interactivity and self-expression</q> (Ito, 2013, p. 6). Connected Learning is a socially embedded, interest-driven approach that <q>centers on an equity agenda</q> to channel new media-based learning opportunities in ways that translate into academic achievement for more students, including students from non-dominant groups (Ito, 2013, pp. 7-8).
 
 I argue that Connected Learning theory applies to digital portfolio development on the Substack platform because this assignment sequence fulfills key criteria for learning through play. Substack:
-o         is customizable
-o         fosters creativity
-o         encourages self-expression / personal writing
-o         is public-facing and therefore foregrounds the relationship between writer and readers
-o         integrates multimodal composition (visual / design elements, photos, hyperlinks)
-o         provides a learning context that bridges in-school and out-of-school learning and experiences
-
+<ul>         
+<li>is customizable</li>
+<li>fosters creativity</li>
+<li>encourages self-expression / personal writing</li>
+<li>is public-facing and therefore foregrounds the relationship between writer and readers</li>
+<li>integrates multimodal composition (visual / design elements, photos, hyperlinks)</li>
+<li>provides a learning context that bridges in-school and out-of-school learning and experiences</li>
+</ul>
 Source: Ito, M., et al. Connected Learning: An Agenda for Research and Design, 2013
 
 </div>
