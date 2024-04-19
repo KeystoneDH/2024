@@ -39,8 +39,8 @@ In our experience, Charlotte NC is the one American hub that sends people to Eri
 Looking for something more direct? You can also fly into Buffalo, Cleveland, or Pittsburgh international airports.
 
 * Buffalo is the closest (about 90-minutes drive away).
-* Cleveland is about 2 hours away, and Pittsburgh is like 2.5 hours by car.
-* Caution: There are not great transit options or shuttle from any of these, so if you want to plan one of these flights, be in touch with us conference organizers (by e-mail st [contact at keystonedh dot network](mailto:contact@keystonedh.network)) and we can try to arrange a carpool or rideshare with other attendees.
+* Cleveland is about 2 hours away, and Pittsburgh is about 2.5 hours by car.
+* Caution: There are not great transit options or shuttle from any of these, so if you want to plan one of these flights, be in touch with us conference organizers (e-mail [contact at keystonedh dot network](mailto:contact@keystonedh.network)) and we can try to arrange a carpool or share a ride with other attendees.
 * The campus directions also recommend car rental, though we do have some limited transit options.
 
 ### Public Transportation
