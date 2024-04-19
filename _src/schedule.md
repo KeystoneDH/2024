@@ -32,14 +32,14 @@ title: "schedule"
 ### Keynote Panel Part 1: (M 5/20) 10:45am - 12:15pm, McGarvey Commons 
 <div class="sessionCont">
 <ul>
-<li><q>Quantifying Kissinger</q>
-<p class="auth">Micki Kaufman (Graduate Center of the City University of New York)</p>
-</li>
 <li><q>Embracing the Glitch</q>
 <p class="auth">Amanda Licastro (Swarthmore College)</p>
 </li>
 <li><q>Designing and Building a VR Game for Primary Source Literacy</q>
 <p class="auth">Jasmine Clark (Temple University)</p>
+</li>
+<li><q>Quantifying Kissinger</q>
+<p class="auth">Micki Kaufman (Graduate Center of the City University of New York)</p>
 </li>
 </ul>
 </div>
@@ -145,7 +145,7 @@ title: "schedule"
 
 ### Keynote Part 2: (T 5/21) 10:45am - 12:15pm, McGarvey Commons
 <div class="sessionCont">
-Following the structured orientation to their projects in Monday’s keynote panel, Kaufman, Licastro, and Clark lead discussion of participants' experiences of their projects.
+Following the structured orientation to their projects in Monday’s keynote panel, Licastro, Clark, and Kaufman lead discussion of participants' experiences of their projects.
 </div>
 
 ### LUNCH 12:15 - 1:15pm, McGarvey Commons
