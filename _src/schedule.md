@@ -28,7 +28,9 @@ title: "schedule"
 
 </div>
 
+
 ### Keynote Panel Part 1: (M 5/20) 10:45am - 12:15pm, McGarvey Commons 
+<div class="sessionCont">
 <ul>
 <li><q>Quantifying Kissinger</q>
 <p class="auth">Micki Kaufman (Graduate Center of the City University of New York)</p>
@@ -40,6 +42,7 @@ title: "schedule"
 <p class="auth">Jasmine Clark (Temple University)</p>
 </li>
 </ul>
+</div>
 
 ### LUNCH 12:15 - 1:15pm, McGarvey Commons 
 
@@ -141,7 +144,9 @@ title: "schedule"
 </div>
 
 ### Keynote Part 2: (T 5/21) 10:45am - 12:15pm, McGarvey Commons
+<div class="sessionCont">
 Following the structured orientation to their projects in Monday’s keynote panel, Kaufman, Licastro, and Clark lead discussion of participants' experiences of their projects.
+</div>
 
 ### LUNCH 12:15 - 1:15pm, McGarvey Commons
 
