@@ -156,13 +156,14 @@ Following the structured orientation to their projects in Monday’s keynote pan
 
 <div class="sessionCont">
 
-#### Panel: Digital Archives, Reed 112 
+#### Panel: Linguistic Analyses: Exploratory Methods, Reed 112
+
 <ul>
-<li><a href="abstracts.html#IP-5"><q>Playing Well with Others: Creating Sustainable Digital Projects through Collaborative Exploration</q></a><p class="auth"> Linda Ballinger, Binky Lush, Dominique Luster, and Forough Yazdanpanah (Penn State University Libraries)</p></li>
+<li><a href="abstracts.html#IP-24"><q>Language Games : What Artificial Languages can Teach Us</q></a><p class="auth"> Patrick Juola (Duquesne University)</p></li>
 
-<li><a href="abstracts.html#IP-3"><q>Discovery Research and Digital Archives in Teaching Renaissance Drama</q></a><p class="auth"> Maria Doyle (University of West Georgia)</p></li>
+<li><a href="abstracts.html#IWP-3"><q>Gaming Multilinguality with Student Teams: The Unfolding Story of Tower of Babel: HathiTrust Edition</q></a><p class="auth"> Ali Bolcakan & Christi Merrill (University of Michigan)</p></li>
 
-<li><a href="abstracts.html#IP-2"><q>Locke Anthology 2.0</q></a><p class="auth"> Zach Schleger (Penn State Behrend)</p></li>
+<li><a href="abstracts.html#IWP-1"><q>Kvasir's Algorithm: Developing an Algorithmic Model of Old Norse dróttkvætt Meters for Machine-Assisted Scansion</q></a><p class="auth"> Jasper Sachsenmeier (Penn State Behrend)</p></li>
 </ul>
 
 #### Workshop: Reed 114
@@ -226,14 +227,13 @@ Following the structured orientation to their projects in Monday’s keynote pan
 
 <div class="sessionCont">
 
-#### Panel A: Linguistic Analyses: Exploratory Methods, Reed 112
-
+#### Panel A: Digital Archives, Reed 112
 <ul>
-<li><a href="abstracts.html#IP-24"><q>Language Games : What Artificial Languages can Teach Us</q></a><p class="auth"> Patrick Juola (Duquesne University)</p></li>
+<li><a href="abstracts.html#IP-5"><q>Playing Well with Others: Creating Sustainable Digital Projects through Collaborative Exploration</q></a><p class="auth"> Linda Ballinger, Binky Lush, Dominique Luster, and Forough Yazdanpanah (Penn State University Libraries)</p></li>
 
-<li><a href="abstracts.html#IWP-3"><q>Gaming Multilinguality with Student Teams: The Unfolding Story of Tower of Babel: HathiTrust Edition</q></a><p class="auth"> Ali Bolcakan & Christi Merrill (University of Michigan)</p></li>
+<li><a href="abstracts.html#IP-3"><q>Discovery Research and Digital Archives in Teaching Renaissance Drama</q></a><p class="auth"> Maria Doyle (University of West Georgia)</p></li>
 
-<li><a href="abstracts.html#IWP-1"><q>Kvasir's Algorithm: Developing an Algorithmic Model of Old Norse dróttkvætt Meters for Machine-Assisted Scansion</q></a><p class="auth"> Jasper Sachsenmeier (Penn State Behrend)</p></li>
+<li><a href="abstracts.html#IP-2"><q>Locke Anthology 2.0</q></a><p class="auth"> Zach Schleger (Penn State Behrend)</p></li>
 </ul>
 
 #### Panel B: Game Analysis: Games as Literary / Cultural Objects, Reed 113
