@@ -5,10 +5,71 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47e8e673-2925-4913-91b2-308fe74cad94" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/2024.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_site/schedule.html" beforeDir="false" afterPath="$PROJECT_DIR$/_site/schedule.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_src/bundle.css" beforeDir="false" afterPath="$PROJECT_DIR$/_src/bundle.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/_src/schedule.md" beforeDir="false" afterPath="$PROJECT_DIR$/_src/schedule.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/about/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/543px-Bluesky_Logo.svg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/AL_6648.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/AL_7029-2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/AL_headshot.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/BMC_black3-thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/Bluesky.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/DHRXAug2012.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/Erie-Bayfront-BicTower-May2023-edited.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/Erie-Bayfront-BicTower-May2023.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/Erie-and-Behrend.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/Group 1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/Group 1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/Group1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/JClark.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/Lauren_Klein_small.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/Mask group (1).jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/TDH_72dpi3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/UPenn_logo.svg.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/YellowErie.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/YellowErie2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/bayfrontKevinSoles.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/bayfrontPaulGibbens.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/bayfrontScottPeterman1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/bayfrontScottPeterman2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/bayfrontSeanPavone.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/bayfrontUnknown.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/bayfrontUnknown.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/behrend-campus-map.pdf" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/behrendCampus.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/chf.jpeg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/favicon.ico" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/github-mark.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/github-mark.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/haverford-college.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/keystonedh-2017.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/keystonedh-icon.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/keystonedh-keystone.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/keystonedh-text.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/logo-haverford.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/mastodon.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/mkaufman.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/niagaraRobertFrank.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/slant.svg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/swarthmore_logo_thumb.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/temple-logo.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/twitter.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/twitter_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/twitter_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/yellowErie3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/yellowErie4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/yellowErie5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/ icon _mastodon_.png" beforePathEscaped="$PROJECT_DIR$/_site/img/🦆 icon _mastodon_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/ icon _twitter_.jpg" beforePathEscaped="$PROJECT_DIR$/_site/img/🦆 icon _twitter_.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/img/ icon _twitter_.png" beforePathEscaped="$PROJECT_DIR$/_site/img/🦆 icon _twitter_.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/index" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/local/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/registration/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_site/schedule/index.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/_src/local.md" beforeDir="false" afterPath="$PROJECT_DIR$/_src/local.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,6 +179,8 @@
       <workItem from="1712752701596" duration="6213000" />
       <workItem from="1712961648478" duration="1528000" />
       <workItem from="1713452752971" duration="1112000" />
+      <workItem from="1713455320293" duration="299000" />
+      <workItem from="1713455639684" duration="1029000" />
     </task>
     <servers />
   </component>
