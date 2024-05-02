@@ -40,11 +40,12 @@ Traditional data education often includes computers, software, and/or spreadshee
 This workshop invites attendees to consider the humanistic, interpretive nature of data collection, analysis, and visualization.  Together, we will explore relevant data sources, including personal, civic, and humanities data, and spend time creating playful data visualizations.
 
 The hands-on workshop will include:  
-a humanistic exploration of <q>what is data</q>
-sharing data art inspiration
-exploring relevant sources
-spending time making our own physical data visualizations through playful exploration.
-
+<ul>
+<li>a humanistic exploration of <q>what is data</q></li>
+<li>sharing data art inspiration</li>
+<li>exploring relevant sources</li>
+<li>spending time making our own physical data visualizations through playful exploration.</li>
+</ul>
 We will conclude by sharing our OER zine, which workshop attendees may use to adapt materials for their own communities, and facilitating a conversation on creative approaches to data literacy education.
 
 </div>
@@ -80,9 +81,9 @@ Our team has collaborated with indigenous communities in Ecuador and with schola
 
 <div id="IP-5">
 
-### The Judy Chicago Research Portal
+### Playing Well with Others: Creating Sustainable Digital Projects through Collaborative Exploration
 
-<i class="name">Linda Ballinger and Binky Lush</i>
+<i class="name">Linda Ballinger, Binky Lush, Dominique Luster, and Forough Yazdanpanah</i>
 
 <i class="affil">Penn State University Libraries</i>
 
@@ -239,13 +240,14 @@ As an instructor of Public and Professional Writing at the University of Pittsbu
 For the capstone project in Writing for the Public, an advanced composition course, I assign a digital portfolio on the Substack Newsletter platform. This digital portfolio connects student interests in both playful self-expression and professional development. I draw on the theory of Connected Learning, a pedagogical approach that builds on constructionism and extends the constructionist approach to the digital age. Connected Learning focuses on the affordances of digital technology to provide <q>engaging formats for interactivity and self-expression</q> (Ito, 2013, p. 6). Connected Learning is a socially embedded, interest-driven approach that <q>centers on an equity agenda</q> to channel new media-based learning opportunities in ways that translate into academic achievement for more students, including students from non-dominant groups (Ito, 2013, pp. 7-8).
 
 I argue that Connected Learning theory applies to digital portfolio development on the Substack platform because this assignment sequence fulfills key criteria for learning through play. Substack:
-o         is customizable
-o         fosters creativity
-o         encourages self-expression / personal writing
-o         is public-facing and therefore foregrounds the relationship between writer and readers
-o         integrates multimodal composition (visual / design elements, photos, hyperlinks)
-o         provides a learning context that bridges in-school and out-of-school learning and experiences
-
+<ul>         
+<li>is customizable</li>
+<li>fosters creativity</li>
+<li>encourages self-expression / personal writing</li>
+<li>is public-facing and therefore foregrounds the relationship between writer and readers</li>
+<li>integrates multimodal composition (visual / design elements, photos, hyperlinks)</li>
+<li>provides a learning context that bridges in-school and out-of-school learning and experiences</li>
+</ul>
 Source: Ito, M., et al. Connected Learning: An Agenda for Research and Design, 2013
 
 </div>
@@ -536,7 +538,11 @@ In the final section, the paper deals with the exploration of the immersive envi
 
 <i class="affil">Penn State University Libraries</i>
 
-Over the course of my transcription scholarship, I realized that creating blog sites of the recipes could help immensely in exploring and organizing my glosses and digressions about individual recipes and their ingredients from two of my transcription projects. Each entry added to a fuller perspective on ideas about manuscript provenance, and the blog format allowed me some flexibility and fun in recreating some of the recipes. The following presentation will discuss both my blogs and the Transkribus platform as useful digital environments for transcription work.
+Years ago, the University of Pittsburgh’s Special Collections librarians reached out to the online world through Tumblr to solve a manuscript mystery that was confounding their attempts at providing more detailed cataloging. Unsure about the provenance or the specific contents of the tome, they knew two things: 1. that it was two manuscripts of recipes bound as one (and thus entitled, <i>Dieses Kochbuechs</i>, and 2. that it was probably written in Kurrentschrift, a cursive form of Fraktur letters prevalent in German-speaking lands from the early modern period to the beginning of the Second World War.
+
+Over the course of my transcription work, I realized that creating a blog site of the recipes could help immensely in exploring and organizing my glosses and digressions about these individual recipes and their ingredients. Each recipe, each gloss added to a fuller perspective on ideas about the provenance, and the blog format convinced me to create another blog for a separate project (also about recipes) from my hometown.
+
+Both blogs give me an online presence that is flexible for my use in presentations and discussions and an informal record of my scholarship. They have also allowed me to have a little fun in recreating some of the more palatable recipes. Until recently, transcription and translation work has been traditional (building syllabaries and glossaries), but new tools developed in the past few years have made this work easier than ever. Transcription apps or sites like [Transkribus](https://www.transkribus.org/) can help with translation, and AI models like [Claude3](https://claude.ai/chats) can provide some interesting and even playful ways to generate contemporary recipes.
 
 </div>
 
