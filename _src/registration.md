@@ -11,7 +11,7 @@ title: "register|travel"
 
 Registration for Keystone DH 2024 is now live!
 
-<a href="https://forms.bd.psu.edu/keystone-dh-registration" target="_blank">Register here</a> to attend the Keystone DH 2024 Conference May 20 - 22, 2024. Note: This involves filling out and clicking through multiple screens, and may pay for registration with a credit or debit card.
+<a href="https://forms.bd.psu.edu/keystone-dh-registration" target="_blank">Register here</a> to attend the Keystone DH 2024 Conference May 20 - 22, 2024. Note: This involves filling out and clicking through multiple screens, and you may pay for registration with a credit or debit card.
 
 <span id="price">Prices (NOT including housing)</span>
 <ul id="regPrice">
