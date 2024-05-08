@@ -47,7 +47,7 @@ Downtown Erie's prime destination for innovation, exhibition, education, and pre
 
 <strong>Hours:</strong>
 <ul>
-<li>Mon-Thu: Closed</li>
+<li>Wed. May 22 (after the conference): 2 - 4pm</li>
 <li>Fri: 5:00PM-8:00PM</li>
 <li>Sat-Sun: 12:00PM-5:00PM</li>
 </ul>
@@ -69,6 +69,20 @@ Check out [these 15 recommended activities at Presque Isle](https://uncoveringpa
 </figure>
 
 ## Food
+
+### <a href="https://eriefood.coop/home">Erie Food Co-op and Co-op Cafe</a>
+Community-owned grocery store and deli with sit-down cafe. (No membership required.) There are two locations in Erie, but the one with the cafe is on 26th street.
+
+<strong>Address and Hours:</strong>
+<ul>
+<li>1341 W. 26th Street, Erie, PA 16508</li>
+<li>Mon - Sat 8am - 8pm, Sun 10am - 8pm</li>
+</ul>
+
+<figure class="loc">
+<img src="https://eriefood.coop/site_files/static/img/pics/cafe0n.jpg" class="loc" alt="Cafe in the Erie Food Co-op"/>
+<figcaption>Cafe in the Erie Food Co-op</figcaption>
+</figure>
 
 ### <a href="https://sarasandsallys.com/">Saras</a>
 
