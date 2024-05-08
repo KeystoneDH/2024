@@ -235,12 +235,6 @@ nav {
     top: 0;*/
 }
 
-@media (min-width: 1000px){
-    nav{
-        width: 1000px
-    }
-
-}
 @media (max-width: 1246px){
     nav{
         margin: 75px 0 50px 0;
