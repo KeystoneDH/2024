@@ -70,14 +70,46 @@ Check out [these 15 recommended activities at Presque Isle](https://uncoveringpa
 
 ## Food
 
+### [Erie Brewing Company](https://www.eriebrewingco.com/knowledge-park-tap.html) and [John's Wildwood pub & pie](https://www.eriebrewingco.com/knowledge-park.html/#johns) (at Knowledge Park near campus)
+
+Located close to the Penn State Behrend campus, the Erie Brewing Company is a local favorite, with  some amazing beverages brewed on site, from craft sodas to ales, IPAs, to stouts. You can take a tour of the brewery, and also order  pizza, Buffalo wings, hoagies (all loved in this region) from John's Wildwood <q>pub & pie</q> restaurant next door / attached. This is where Behrend people (of age) go to celebrate surviving a tough week! 
+
+**Knowledge Park location**
+
+* 6008 Knowledge Pkwy, Erie, PA 16150
+* Hours:
+    * Monday - Thursday: 11:30am - 10pm 
+    * Friday - Saturday: 11:30am - 11pm 
+    * Sunday: 11:30am - 9:30pm
+  
+<figure class="loc">
+<img src="img/eriebc.jpg" class="loc" alt="Erie Brewing Company and Pub &amp; Pie"/>
+<figcaption>Erie Brewing Company and the Pub &amp; Pie</figcaption>
+</figure>
+
+### [The Brewerie](https://www.brewerie.com/index.html) (at Union Station, downtown Erie)
+
+Erie's first craft brew pub, located in our historic train station, visited on <q>whistle stop</q> tours by several presidents as well as sports icons Babe Ruth and Jack Dempsey! They say the station is haunted by the ghosts of past travelers, but we just love the food and craft beverages at the Brewerie as a fine experience of Erie. 
+
+* 123 W 14th Street, Erie, PA 16501-1717
+* Hours:
+    * Monday-Thursday 11:30-9pm
+    * Friday & Saturday 11:30-11pm 
+    * Closed Sundays & All Major Holidays
+
+<figure class="loc">
+<img src="img/brewerie.jpg" class="loc" alt="interior of Brewerie at Union Station, downtown Erie, PA"/>
+<figcaption>the spacious train station dining area of the Brewerie</figcaption>
+</figure>
+
 ### <a href="https://eriefood.coop/home">Erie Food Co-op and Co-op Cafe</a>
 Community-owned grocery store and deli with sit-down cafe. (No membership required.) There are two locations in Erie, but the one with the cafe is on 26th street.
 
-<strong>Address and Hours:</strong>
-<ul>
-<li>1341 W. 26th Street, Erie, PA 16508</li>
-<li>Mon - Sat 8am - 8pm, Sun 10am - 8pm</li>
-</ul>
+**Address and Hours**
+
+* 1341 W. 26th Street, Erie, PA 16508</li>
+* Mon - Sat 8am - 8pm, Sun 10am - 8pm</li>
+
 
 <figure class="loc">
 <img src="https://eriefood.coop/site_files/static/img/pics/cafe0n.jpg" class="loc" alt="Cafe in the Erie Food Co-op"/>
@@ -92,10 +124,10 @@ Community-owned grocery store and deli with sit-down cafe. (No membership requir
 
 <strong>Address:</strong> <a href="https://www.google.com/maps/place/Sara's+Restaurant/@42.1123065,-80.1555349,17z/data=!4m15!1m8!3m7!1s0x88327f6de5b42479:0xb638bbb8f5da29ec!2sSara's+Restaurant!8m2!3d42.112558!4d-80.155184!10e5!16s%2Fg%2F1v9t_kdb!3m5!1s0x88327f6de5b42479:0xb638bbb8f5da29ec!8m2!3d42.112558!4d-80.155184!16s%2Fg%2F1v9t_kdb?entry=ttu" target="_blank">25 Peninsula Dr, Erie, PA 16505</a>
 
-<strong>Hours:</strong>
-<ul>
-<li>Every Day: 11:00AM-8:00PM</li>
-</ul>
+**Hours**
+
+* Every Day: 11:00AM-8:00PM
+
 
 Hungry and looking for a place to eat? Try Sara's, located next to Presque Isle State Park. With lovely outdoor seating, you can enjoy the (hopefully) warm weather while trying on their tasty milkshakes or ice cream!
 
