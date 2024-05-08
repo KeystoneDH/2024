@@ -35,6 +35,31 @@ Erie's Art Museum is the perfect place to experience remarkable art pieces from 
 <figcaption>Inside the Erie Art Museum</figcaption>
 </figure>
 
+### <a href="https://blog.feed.art/" target="_blank">FEED Media Arts Center</a>
+
+Downtown Erie's prime destination for innovation, exhibition, education, and preservation of media art. Experience their collections, including Eclipsing Stars, Ether.exe, or Mirror Me!
+
+<strong>Website:</strong> <a href="https://blog.feed.art/" target="_blank">https://blog.feed.art/</a>
+
+<strong>Phone:</strong> +1 (814) 240-1080
+
+<strong>Address:</strong> <a href="https://www.google.com/maps/place/FEED+Media+Art+Center/@42.1224485,-80.0826709,17z/data=!4m15!1m8!3m7!1s0x882d7fe1eaa4e707:0xf80b079a57a93ca0!2s1307+State+St,+Erie,+PA+16501!3b1!8m2!3d42.1224485!4d-80.080096!16s%2Fg%2F11c11mc0hn!3m5!1s0x882d7fb445407deb:0x24abf7be8eb04761!8m2!3d42.1224484!4d-80.0800959!16s%2Fg%2F11pyc3nm1g?entry=ttu" target="_blank">1307 State St, Erie, PA 16501</a>
+
+<strong>Hours:</strong>
+<ul>
+<li>Wed. May 22 (after the conference): 2 - 4pm</li>
+<li>Fri: 5:00PM-8:00PM</li>
+<li>Sat-Sun: 12:00PM-5:00PM</li>
+</ul>
+
+<figure class="loc"><img src="img/FeedMedia1.jpg" alt="Feed Media Arts Center"/>
+<figcaption>FEED Media Arts Center</figcaption>
+</figure>
+<figure class="loc">
+<img src="img/FeedMedia2.jpg" alt="Eclipse Week"/>
+<figcaption>Eclipse Week at FEED</figcaption>
+</figure>
+
 ### The Waterfront and Presque Isle
 Visit the lakefront in downtown Erie, and make a trip out on the peninsula of Presque Isle! 
 Check out [these 15 recommended activities at Presque Isle](https://uncoveringpa.com/things-to-do-presque-isle-state-park-erie-pa) from travel site *Uncovering PA*.
@@ -44,6 +69,20 @@ Check out [these 15 recommended activities at Presque Isle](https://uncoveringpa
 </figure>
 
 ## Food
+
+### <a href="https://eriefood.coop/home">Erie Food Co-op and Co-op Cafe</a>
+Community-owned grocery store and deli with sit-down cafe. (No membership required.) There are two locations in Erie, but the one with the cafe is on 26th street.
+
+<strong>Address and Hours:</strong>
+<ul>
+<li>1341 W. 26th Street, Erie, PA 16508</li>
+<li>Mon - Sat 8am - 8pm, Sun 10am - 8pm</li>
+</ul>
+
+<figure class="loc">
+<img src="https://eriefood.coop/site_files/static/img/pics/cafe0n.jpg" class="loc" alt="Cafe in the Erie Food Co-op"/>
+<figcaption>Cafe in the Erie Food Co-op</figcaption>
+</figure>
 
 ### <a href="https://sarasandsallys.com/">Saras</a>
 

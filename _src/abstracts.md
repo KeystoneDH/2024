@@ -282,13 +282,18 @@ The game's visual style aims to be reminiscent of older games. Its mechanical sy
 
 <div id="IWP-5">
 
-### <q>Time Weaving</q>: A work in progress talk about algorithmic interpolation and generative animation
+### Temporal Weaving: Environmentalist Discourse, and Generative Cinematic Deconstruction in <q>The Chautauqua County Almanac</q>
 
 <i class="name">Tommy Hartung</i>
 
 <i class="affil">Penn State Erie, The Behrend College</i>
 
-My feature-length animation, <q>The New Testament,</q> currently in production, explores the evolution of lime plaster technology from ancient Levantine mortuary customs to its modern use in rural American farming. This theme emerged from the profound impact of the opioid epidemic on my rural community, where individuals vanish into refrigerated trucks after overdoses or undergo multiple resuscitations aided by Narcan. Millennia ago, lime plaster was utilized to reconstruct faces on the skulls of the deceased. My work intricately intertwines these narratives of death, nature, and technology across time, employing hallucinatory imagery and offering an alternative history of grief and transformation. <q>The New Testament</q> also employs generative production methods, including interpolation algorithms, photogrammetry, and visual programming, filmed within a meticulously crafted virtual world developed over the past five years through experimental processes. I am eager to present this work as a work-in-progress presentation, providing insights into the production methods and showcasing short clips from the film.
+<q>The Chautauqua County Almanac</q> is an animated science fiction counterpart to Aldo Leopold's environmentalist treatise, <q>The Sand County Almanac</q>. The film unfolds within the setting of my familial grape farm in western New York’s Chautauqua County.
+This experimental documentary features a filmmaker avatar resembling Aldo Leopold, dubbed the <q>author</q>. The narrator traces lime plasters’ historical journey from ancient Levantine mortuary rituals to their use in contemporary agrarian societies. Initially, the narrative structure mirrors an almanac, presenting agricultural materials, ecological speculation, and local folkloric tales.
+
+Unlike the pastoral romanticism of Lepold’s Land Ethics, encounters with local wildlife and agricultural observations lead to psychedelic transfigured visions—rural landscapes where individuals vanish into refrigerated trucks after overdoses or experience resurrections aided by Narcan. Temporal themes, ancient and dystopic, are woven into a hallucination of cultural memory and Anthropogenic interventions.
+
+The project incorporates outdoor lapse photography and three-dimensional landscape scans. Generative technologies deconstruct and reconstruct the film’s footage, causing a sense of temporal dislocation within the viewer’s experience. Cinema becomes a nonlinear fabric, with frames becoming threads woven into patterns. In the ethereal world of post-processing, sequences that begin with original footage and then gradually become iterated, creating a montage, Deja Vu.
 
 You can watch the project trailer here set YouTube Player to 4K:
 

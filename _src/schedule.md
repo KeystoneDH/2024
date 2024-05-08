@@ -106,7 +106,7 @@ title: "schedule"
 #### Panel A: Digital Art and Virtual Modeling, Reed 112 
 
 <ul>
-<li><a href="abstracts.html#IWP-5"><q>Time Weaving</q></a><p class="auth"> Tommy Hartung (Penn State Behrend)</p></li>
+<li><a href="abstracts.html#IWP-5">Temporal Weaving: Environmentalist Discourse, and Generative Cinematic Deconstruction in <q>The Chautauqua County Almanac</q></a><p class="auth"> Tommy Hartung (Penn State Behrend)</p></li>
 
 <li><a href="abstracts.html#OTHER-3"><q>Art from the Archives: Engaging Creativity With Historic Textual Descriptions of Art Works</q></a><p class="auth"> Jacob Gordon (Pennsylvania State University)</p></li>
 
