@@ -76,7 +76,7 @@ Located close to the Penn State Behrend campus, the Erie Brewing Company is a lo
 
 **Knowledge Park location**
 
-* 6008 Knowledge Pkwy, Erie, PA 16150
+* <a href="https://www.google.com/maps/place/Erie+Brewing+Co.+Knowledge+Park/@42.1187509,-79.9703122,17z/data=!3m1!4b1!4m6!3m5!1s0x88327feeefbaa9e9:0xc00e5c577a2476ae!8m2!3d42.1187469!4d-79.9677373!16s%2Fg%2F1tg2f423?entry=ttu">6008 Knowledge Pkwy, Erie, PA 16150</a>
 * Hours:
     * Monday - Thursday: 11:30am - 10pm 
     * Friday - Saturday: 11:30am - 11pm 
@@ -91,7 +91,9 @@ Located close to the Penn State Behrend campus, the Erie Brewing Company is a lo
 
 Erie's first craft brew pub, located in our historic train station, visited on <q>whistle stop</q> tours by several presidents as well as sports icons Babe Ruth and Jack Dempsey! They say the station is haunted by the ghosts of past travelers, but we just love the food and craft beverages at the Brewerie as a fine experience of Erie. 
 
-* 123 W 14th Street, Erie, PA 16501-1717
+**Address and Hours**
+
+* <a href="https://www.google.com/maps/place/The+Brewerie+at+Union+Station/@42.1208522,-80.0847016,16z/data=!3m1!4b1!4m6!3m5!1s0x8832801df02e232d:0x44c8541781e64571!8m2!3d42.1208482!4d-80.0821267!16s%2Fg%2F1tdm8zqn?entry=ttu">123 W 14th Street, Erie, PA 16501-1717</a>
 * Hours:
     * Monday-Thursday 11:30-9pm
     * Friday & Saturday 11:30-11pm 
@@ -107,7 +109,7 @@ Community-owned grocery store and deli with sit-down cafe. (No membership requir
 
 **Address and Hours**
 
-* 1341 W. 26th Street, Erie, PA 16508</li>
+* <a href="https://www.google.com/maps/place/Erie+Food+Co-op/@42.10109,-80.1040622,17z/data=!3m1!4b1!4m6!3m5!1s0x88327fde5738c805:0xe2cee82b6f0bf460!8m2!3d42.101086!4d-80.1014873!16s%2Fg%2F1tfp32xq?entry=ttu">1341 W. 26th Street, Erie, PA 16508</a></li>
 * Mon - Sat 8am - 8pm, Sun 10am - 8pm</li>
 
 <figure class="loc">
@@ -117,21 +119,25 @@ Community-owned grocery store and deli with sit-down cafe. (No membership requir
 
 ### [Flagship City Food Hall](https://www.flagshipcitydistrict.com/foodhall)
 
-There's such a multitude of small international foods served here! You can feast on Dominican empañadas, Asian fusion glass noodles and kimchi, shawarma, and so much more, and if you wander in here for dinner from 6 -8pm, you will likely hear some live entertainment! (Monday is Trivia Night and Tuesday is Karaoke Night!)
+Near Perry Square in the heart of downtown Erie, there's such a multitude of small international foods served at the Food Hall! You can feast on Dominican empañadas, Asian fusion glass noodles and kimchi, shawarma, and so much more, and if you wander in here for dinner from 6 -8pm, you will likely hear some live entertainment! (Monday is Trivia Night and Tuesday is Karaoke Night!)
 
-* Address: 22 N Park Row, Erie, PA 16501
-* Hours: open daily until 8pm
+**Address and Hours**
+
+* <a href="https://www.google.com/maps/place/Flagship+City+Food+Hall/@42.1299356,-80.0886928,17z/data=!3m1!4b1!4m6!3m5!1s0x882d7f3b609c3247:0x17e106d01da2f08e!8m2!3d42.1299317!4d-80.0861179!16s%2Fg%2F11rj5m4z15?entry=ttu">Address: 22 N Park Row, Erie, PA 16501</a>
+* Open daily until 8pm
 
 <figure class="loc">
 <img src="img/flagshipCityFoodHall-Nov22.jpg" class="loc" alt="Flagship City Food Hall, Erie PA"/>
-<figcaption>Flagship City Food Hall when it first opened on November 20, 2022, showing some characteristic Erie snowfall in the foreground! Image Credit: [Modern Mary](https://www.amodernmary.com/2022/03/erie-local-spotlight-flagship-city-food.html)</figcaption>
+<figcaption>Flagship City Food Hall when it first opened on November 20, 2022, showing some characteristic Erie snowfall in the foreground! Image Credit: <a href="https://www.amodernmary.com/2022/03/erie-local-spotlight-flagship-city-food.html">Modern Mary</a></figcaption>
 </figure>
 
 ### [Fine Restaurant & Bar](https://restaurantguru.com/Fine-Restaurant-and-Bar-Erie)
 
 Amazing Indian and Nepalese food—preferred by our colleagues! Their web presence is not the best, so you may want to verify the hours when you're here.
 
-* Address: 2330 E 38th St., Erie PA 16510
+**Address and Hours** 
+
+* <a href="https://www.google.com/maps/place/Fine+Restaurant+%26+Bar/@42.1213101,-80.0183819,17z/data=!3m1!4b1!4m6!3m5!1s0x882d7f3b93f2a73f:0xf234cd71ba0866c3!8m2!3d42.1213061!4d-80.015807!16s%2Fg%2F11qn9xws1d?entry=ttu">2330 E 38th St., Erie PA 16510</a>
 * (814) 520-5112
 * Hours (est.): 
     * Closed Monday
@@ -146,6 +152,9 @@ Amazing Indian and Nepalese food—preferred by our colleagues! Their web presen
 ### [Saigon Nights](https://www.saigonnightserie.com/)
 Authentic and absolutely delicious Vietnamese cuisine near the Lake. Feast yourself on marvelous pho! (It's not dining in view of the lake, but you'll find yourself near the waterfront there.) 
 
+**Address and Hours**
+
+* <a href="https://www.google.com/maps/place/Saigon+Nights/@42.1078697,-80.1405771,17z/data=!3m1!4b1!4m6!3m5!1s0x88327f73747475f9:0x94478315610213c7!8m2!3d42.1078657!4d-80.1380022!16s%2Fg%2F11jt7_wr_s?entry=ttu">2430 W. 8th St, Erie PA 16505</a>
 * Hours
     *  Sun & Mon:	11:00 AM - 9:30 PM 
     * Tue:	11:00 AM - 9:00 PM 
