@@ -235,12 +235,6 @@ nav {
     top: 0;*/
 }
 
-@media (min-width: 1000px){
-    nav{
-        width: 1000px
-    }
-
-}
 @media (max-width: 1246px){
     nav{
         margin: 75px 0 50px 0;
@@ -248,7 +242,7 @@ nav {
 
 }
 .dropbtn {
-    background-color: rgb(255, 227, 128);
+    background-color: #ffeeb3;
     color: black;
     padding: 16px;
     font-size: 2em;
@@ -275,7 +269,7 @@ nav {
 .dropdown img {max-width: 20px;
 padding-left: 10px;}
 
-@media (max-width: 767px){
+@media (max-width: 999px){
     .dropdown{
         display: inline-block;
     }
@@ -313,7 +307,7 @@ padding-left: 10px;}
     text-align: center;
     font-size: 1.2em;
 }
-.dropdown a:hover {background-color: rgb(255, 227, 128);}
+.dropdown a:hover {background-color: #ffeeb3;}
 
 .show {display: block;}
 
@@ -562,6 +556,7 @@ h2 {
 figure.loc {
     width:50%;
     padding:5px;
+    margin-left: 0;
 }
 
 figure.loc figcaption{
@@ -572,6 +567,20 @@ figure.loc figcaption{
 figure.loc img {
     max-width:80%;
     width:700px;
+}
+@media (max-width: 1077px){
+    figure.loc img {
+        max-width:100%;
+    }
+}
+@media (max-width: 570px){
+    figure.loc {
+        width:100%;
+        padding:5px;
+    }
+    figure.loc img {
+        max-width:100%;
+    }
 }
 
 
