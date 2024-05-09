@@ -110,10 +110,51 @@ Community-owned grocery store and deli with sit-down cafe. (No membership requir
 * 1341 W. 26th Street, Erie, PA 16508</li>
 * Mon - Sat 8am - 8pm, Sun 10am - 8pm</li>
 
-
 <figure class="loc">
 <img src="https://eriefood.coop/site_files/static/img/pics/cafe0n.jpg" class="loc" alt="Cafe in the Erie Food Co-op"/>
 <figcaption>Cafe in the Erie Food Co-op</figcaption>
+</figure>
+
+### [Flagship City Food Hall](https://www.flagshipcitydistrict.com/foodhall)
+
+There's such a multitude of small international foods served here! You can feast on Dominican empañadas, Asian fusion glass noodles and kimchi, shawarma, and so much more, and if you wander in here for dinner from 6 -8pm, you will likely hear some live entertainment! (Monday is Trivia Night and Tuesday is Karaoke Night!)
+
+* Address: 22 N Park Row, Erie, PA 16501
+* Hours: open daily until 8pm
+
+<figure class="loc">
+<img src="img/flagshipCityFoodHall-Nov22.jpg" class="loc" alt="Flagship City Food Hall, Erie PA"/>
+<figcaption>Flagship City Food Hall when it first opened on November 20, 2022, showing some characteristic Erie snowfall in the foreground! Image Credit: [Modern Mary](https://www.amodernmary.com/2022/03/erie-local-spotlight-flagship-city-food.html)</figcaption>
+</figure>
+
+### [Fine Restaurant & Bar](https://restaurantguru.com/Fine-Restaurant-and-Bar-Erie)
+
+Amazing Indian and Nepalese food—preferred by our colleagues! Their web presence is not the best, so you may want to verify the hours when you're here.
+
+* Address: 2330 E 38th St., Erie PA 16510
+* (814) 520-5112
+* Hours (est.): 
+    * Closed Monday
+    * Tues. - Sun. 11am - 2:30pm, 4:30 - 9:30pm
+  
+<figure class="loc">
+<img src="img/fineCuisine.jpg" class="loc" alt="Indian cuisine from the Fine Restaurant"/>
+<figcaption>Sampling of cuisine from the Fine Restaurant. Image Credit: Fine Restaurant on Facebook</figcaption>
+</figure>
+
+
+### [Saigon Nights](https://www.saigonnightserie.com/)
+Authentic and absolutely delicious Vietnamese cuisine near the Lake. Feast yourself on marvelous pho! (It's not dining in view of the lake, but you'll find yourself near the waterfront there.) 
+
+* Hours
+    *  Sun & Mon:	11:00 AM - 9:30 PM 
+    * Tue:	11:00 AM - 9:00 PM 
+    * Wed:	11:00 AM - 9:30 PM 
+    * Thu - Sat:	11:00 AM - 10:00 PM
+
+<figure class="loc">
+<img src="img/saigViet.jpg" class="loc" alt="Saigon Nights, Vietnamese restaurant in Erie, PA"/>
+<figcaption>Saigon Nights Restaurant. Image Credit: Saigon Nights on Facebook</figcaption>
 </figure>
 
 ### <a href="https://sarasandsallys.com/">Saras</a>
@@ -129,7 +170,7 @@ Community-owned grocery store and deli with sit-down cafe. (No membership requir
 * Every Day: 11:00AM-8:00PM
 
 
-Hungry and looking for a place to eat? Try Sara's, located next to Presque Isle State Park. With lovely outdoor seating, you can enjoy the (hopefully) warm weather while trying on their tasty milkshakes or ice cream!
+Looking for a place to eat Presque Isle State Park? Try Sara's! With lovely outdoor seating, you can enjoy the (hopefully) warm weather while trying their tasty milkshakes or ice cream!
 
 <figure class="loc">
 <img src="img/sarasExterior.jpg" class="loc" alt="Sara's outdoor seating"/>
