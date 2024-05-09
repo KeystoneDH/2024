@@ -192,7 +192,7 @@ Looking for a place to eat Presque Isle State Park? Try Sara's! With lovely outd
 
 ### <a href="https://www.stanganellis.com/">Stanganelli’s Italian Food</a>
 
-Ever heard of Erie's iconic Pepperoni Balls? Their claim to fame comes from Stanganelli's, a family owned Italian restaurant. Not a fan of pepperoni? Not a problem! They also have amazing calzones, meatballs, various pastas, sauces, and assorted breads.
+Ever heard of Erie's iconic Pepperoni Balls? Their claim to fame comes from Stanganelli's, a family-owned Italian restaurant. Not a fan of pepperoni? Not a problem! They also have amazing calzones, meatballs, various pastas, sauces, and assorted breads.
 
 <strong>Website:</strong> <a href="https://www.stanganellis.com/" target="_blank">https://www.stanganellis.com/</a>
 
