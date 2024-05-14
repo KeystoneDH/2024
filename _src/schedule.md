@@ -7,7 +7,7 @@ title: "schedule"
 
 ## Monday, May 20, 2024
 
-### BREAKFAST McGarvey Commons or Upstairs Reed 
+### BREAKFAST 8 - 9am, Bruno's (Upstairs Reed)
 
 ### Session 1: (M 5/20) 9 - 10:30am
 
@@ -44,9 +44,7 @@ title: "schedule"
 </ul>
 </div>
 
-### LUNCH 12:15 - 1:15pm, McGarvey Commons 
-
-
+### LUNCH 12:15 - 1:15pm, Bruno's (Upstairs Reed) 
 
 
 ### Session 2: (M 5/20) 1:15 - 2:45pm
@@ -76,10 +74,6 @@ title: "schedule"
 
 </div>
 
-
-
-
-
 ### Session 3: (M 5/20) 3 - 4:30pm
 
 <div class="sessionCont">
@@ -93,10 +87,6 @@ title: "schedule"
 </div>
 
 ### SNACKS (Upstairs Reed)
-
-
-
-
 
 
 ### Session 4: (M 5/20) 4:45 - 6:15pm
@@ -126,7 +116,7 @@ title: "schedule"
 
 ## Tuesday, May 21, 2024
 
-### BREAKFAST McGarvey Commons or Upstairs Reed
+### BREAKFAST 8 - 9am, Bruno's (Upstairs Reed)
 
 ### Session 5: (T 5/21) 9 - 10:30am
 
@@ -148,8 +138,7 @@ title: "schedule"
 Following the structured orientation to their projects in Monday’s keynote panel, Licastro, Clark, and Kaufman lead discussion of participants' experiences of their projects.
 </div>
 
-### LUNCH 12:15 - 1:15pm, McGarvey Commons
-
+### LUNCH 12:15 - 1:15pm, Bruno's (Upstairs Reed)
 
 
 ### Session 6: (T 5/21) 1:15 - 2:45pm
@@ -172,7 +161,6 @@ Following the structured orientation to their projects in Monday’s keynote pan
 </ul>
 
 </div>
-
 
 
 ### Session 7: (T 5/21) 3 - 4:30pm
@@ -221,7 +209,7 @@ Following the structured orientation to their projects in Monday’s keynote pan
 
 ## Wednesday, May 22, 2024
 
-### BREAKFAST McGarvey Commons or Upstairs Reed
+### BREAKFAST 8 - 9am, Bruno's (Upstairs Reed)
 
 ### Session 9: (W 5/22) 9 - 10:30am
 
@@ -275,7 +263,7 @@ recipes</q></a><p class="auth"> Jason A. Reuscher (Penn State Libraries)</p></li
 
 </div>
 
-### Concluding Discussion and LUNCH 12:15 - 1:15pm, Reed 114
+### Concluding Discussion and LUNCH 12:15 - 1:15pm: Bring lunch from Bruno's to Reed 114
 
 
 </div>
