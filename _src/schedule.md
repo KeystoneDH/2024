@@ -51,7 +51,7 @@ title: "schedule"
 
 <div class="sessionCont">
 
-#### Panel A: Digital Communities, Reed 112
+#### Panel A: Digital Communities, Reed 114
 
 <ul>
 <li><a href="abstracts.html#IP-12"><q>I Have NoSleep, and I Must Read: Re-Mediation and Hybrid Genres on Reddit’s r/NoSleep</q></a><p class="auth"> Caden Holbrook (University of Louisville)</p></li>
@@ -251,7 +251,7 @@ recipes</q></a><p class="auth"> Jason A. Reuscher (Penn State Libraries)</p></li
 <li><a href="abstracts.html#IP-27"><q>Preserving Palates, Cultivating Connections: Bridging Cultural, Culinary Heritages and Digital Pedagogies</q></a><p class="auth"> Teresa Lobalsamo and Dellannia Segreti (University of Toronto Mississauga)</p></li>
 </ul>
 
-#### Panel B: Games in Literature, Reed 113
+#### Panel B: Games in Literature, Reed 114
 
 <ul>
 <li><a href="abstracts.html#IP-9"><q>Black Ludology: Theorizing Play in Black Literature</q></a><p class="auth"> Austin Anderson (Howard University)</p></li>
