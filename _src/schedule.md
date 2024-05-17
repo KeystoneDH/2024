@@ -217,7 +217,7 @@ Following the structured orientation to their projects in Monday’s keynote pan
 
 #### Panel A: Digital Archives, Reed 112
 <ul>
-<li><a href="abstracts.html#IP-5"><q>Playing Well with Others: Creating Sustainable Digital Projects through Collaborative Exploration</q></a><p class="auth"> Linda Ballinger, Binky Lush, Dominique Luster, and Forough Yazdanpanah (Penn State University Libraries)</p></li>
+<li><s><a href="abstracts.html#IP-5"><q>Playing Well with Others: Creating Sustainable Digital Projects through Collaborative Exploration</q></a><p class="auth"> Linda Ballinger, Binky Lush, Dominique Luster, and Forough Yazdanpanah (Penn State University Libraries)</p></s></li>
 
 <li><a href="abstracts.html#IP-3"><q>Discovery Research and Digital Archives in Teaching Renaissance Drama</q></a><p class="auth"> Maria Doyle (University of West Georgia)</p></li>
 
