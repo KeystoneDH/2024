@@ -62,7 +62,7 @@ We work to make the Keystone DH Conference to be a welcoming, supportive, and co
 
 We will not tolerate harassment of conference participants in any form. Harassment includes offensive verbal comments related to race, ethnicity, sex, gender identity or expression, sexual orientation, country of origin, age, disability, physical appearance, body size, religion, veteran status or other protected class status; discriminatory or offensive images in public spaces; intimidation; stalking; harassing or unwanted photography or recording; sustained disruption of talks or other events; inappropriate physical contact; and unwelcome sexual attention. Participants violating the code of conduct may be warned or asked to leave by conference organizers.
 
-### Recording/Social Media Policy
+<h3 id="cod">Recording/Social Media Policy</h3>
 
 We see the conference as a place to share information, not only with other participants, but also with those who may not be able to attend. Sessions are, by default, considered open and can be written about on social media and photographed. Each session can decide to adopt different rules at the beginning of the session as long as it informs all participants who join the session.
 
