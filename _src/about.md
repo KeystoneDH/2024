@@ -21,7 +21,7 @@ We will not tolerate harassment of conference participants in any form. Harassme
 
 ### Recording/Social Media Policy
 
-We see the conference as a place to share information, not only with other participants, but also with those who may not be able to attend. Sessions are, by default, considered open and can be written about on social media and photographed. Each session's panelists can decide to adopt different rules at the beginning of the session as long as it informs all participants who join the session.
+We see the conference as a place to share information, not only with other participants, but also with those who may not be able to attend. Sessions are, by default, considered open and can be written about on social media and photographed. Each session's panelists can decide to adopt different rules at the beginning of the session as long as they inform all participants who join the session.
 
 Keystone DH 2024 is an in-peron conference, with a few presenters joining virtually for select panels. We are using Zoom as a platform for the hybrid aspects of our conference. Zoom’s privacy and security statements and information about removing your data from each of them are available on their website. <a href="https://explore.zoom.us/en/privacy/" target="_blank">Visit Zoom’s Privacy Statement</a> for more information. Because Keystone DH 2024 is primarily an in-person conference experience, _we are not intending to record presentations_. The conversations we have here are defined by the people coming together in the timeframe of the conference only. What we choose to share (on social media and on the conference website) after the event will be the deliberate choice of the conference presenters.
 
