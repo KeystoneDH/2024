@@ -234,7 +234,7 @@ Chair: Lauren Liebe
 #### Panel B: Game Analysis: Games as Literary / Cultural Objects, Reed 113
 Chair: Zach Whalen
 <ul>
-<li><a href="abstracts.html#IP-17"><q>The Universe Peoples: Interrogating Mediated Communication of a Symptomatic Deep Ecology via OReilly’s Everything</q></a><p class="auth"> Jerald Lim (Univesity of Utah)</p></li>
+<li><a href="abstracts.html#IP-17"><q>The Universe Peoples: Interrogating Mediated Communication of a Symptomatic Deep Ecology via OReilly’s Everything</q></a><p class="auth"> Jerald Lim (University of Utah)</p></li>
 
 <li><a href="abstracts.html#IP-1"><q>Teaching Ancient Chinese History Through Playing NationWar: Chronicles</q></a><p class="auth"> Shu Wan (University at Buffalo)</p></li>
 
