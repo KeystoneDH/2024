@@ -32,13 +32,13 @@ title: "schedule"
 ### Keynote Panel Part 1: (M 5/20) 10:45am - 12:15pm, McGarvey Commons 
 <div class="sessionCont">
 <ul>
-<li><q>Embracing the Glitch</q>
+<li><a href="abstracts.html#KEY-1"><q>Embracing the Glitch</q></a>
 <p class="auth">Amanda Licastro (Swarthmore College)</p>
 </li>
-<li><q>Designing and Building a VR Game for Primary Source Literacy</q>
+<li><a href="abstracts.html#KEY-2"><q>Designing and Building a VR Game for Primary Source Literacy</q></a>
 <p class="auth">Jasmine Clark (Temple University)</p>
 </li>
-<li><q>Quantifying Kissinger</q>
+<li><a href="abstracts.html#KEY-3"><q>Quantifying Kissinger</q></a>
 <p class="auth">Micki Kaufman (Graduate Center of the City University of New York)</p>
 </li>
 </ul>
@@ -126,7 +126,7 @@ title: "schedule"
 <ul>
 <li><a href="abstracts.html#IP-4"><q>Shaping sympathetic classroom communities: Interactive games about mental health</q></a><p class="auth"> Kristine Kelly (Case Western Reserve University)</p></li>
 
-<li><a href="abstracts.html#IP-21"><q>Medical Humanities: Surgery Simulations </q></a><p class="auth"> Stephanie Kinzinger (University of North Carolina at Chapel Hill)</p></li>
+<li><s><a href="abstracts.html#IP-21"><q>Medical Humanities: Surgery Simulations </q></a><p class="auth"> Stephanie Kinzinger (University of North Carolina at Chapel Hill)</p></s></li>
 
 <li><a href="abstracts.html#IWP-4"><q>Overdose: A Game in Development</q></a><p class="auth"> Nathan Hammer (Penn State Behrend)</p></li>
 </ul>

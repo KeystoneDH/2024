@@ -7,9 +7,49 @@ title: "abstracts"
 
 <div id="abstracts">
 <ul>
+<li><a href="#keynotes">Keynotes</a></li>
 <li><a href="#workshops">Workshops</a></li>
 <li><a href="#papers">Panel Presentations</a></li>
 </ul>
+
+<h2 id="keynotes">Keynotes</h2>
+
+<div id="KEY-1">
+
+### Embracing the Glitch
+
+<i class="name">Amanda Licastro</i>
+
+<i class="affil">Swarthmore College</i>
+
+Embracing the Glitch” examines how emerging technology is being used to cultivate community and interdisciplinarity in ethical and accessible ways. With a focus on scholarship, Dr. Amanda Licastro will demonstrate play-based methods of creating interest in the immersive world of Extended Reality.
+
+</div>
+
+<div id="KEY-2">
+
+### Designing and Building a VR Game for Primary Source Literacy
+
+<i class="name">Jasmine Clark</i>
+
+<i class="affil">Temple University</i>
+
+The Virtual Blocksonis a project that utilizes virtual reality (VR) to teach high school students primary source literacy using materials from the Charles L. Blockson Afro-American Collection (Blockson Collection) housed at the Temple University Libraries.The Blockson Collection, comprising over 700,000 items related to the African Diaspora, includes a multitude of materials types such as books, sheet music, manuscripts, photographs, sculptures, and films. This rich variety of materials, covering a broad range of topics and time periods, is suited to gamification via a multi-modal medium like VR. In addition to the VR game itself, accompanying teaching guides, onboarding materials for teachers and players, and stand alone 3D models will be created to situate the game within a broader social studies curriculum. The completion of the game, in tandem with accompanying teaching materials, will allow students to meet the learning objectives laid out in the Guidelines for Primary Source Literacy developed by a joint task force on behalf of the Association of College and Research Libraries Rare Books and Manuscripts Section (ACRL/RBMS) and the Society of American Archivists (SAA).
+</div>
+
+<div id="KEY-3">
+
+### Quantifying Kissinger
+
+<i class="name">Micki Kaufman</i>
+
+<i class="affil">Graduate Center of the City University of New York</i>
+
+Exhaustive efforts by historians at approaching vast troves of information have often employed a traditional ‘close-reading’ methodology in which each author’s thesis is illustrated by hand-picked, ostensibly representative samples, presented as valid proof of the underlying argument. Ensuring such examples are indeed representative for historical interpretation is increasingly difficult as the size of the archive increases. As larger and larger archives of human cultural output are accumulated, historians are beginning to employ other tools and methods — including those developed in other fields, including computational biology and linguistics — to overcome ‘information overload’ and facilitate new historical interpretations. This project is an application of ‘big data’ computational text analysis techniques to research the Digital National Security Archive (DNSA)’s recently released Kissinger Collections, comprising approximately 17500 meeting memoranda (‘memcons’) and teleconference transcripts (‘telcons’) detailing Kissinger’s correspondence during the period 1969-1977: it is a first effort at ‘Diplonomics’.
+
+The declassification of the Kissinger material by the State Department and the hosting of that material on the DNSA’s Kissinger Collection web site therefore presents an opportunity and a challenge for historians. While having this large volume of information online for researchers is valuable, the restriction to a web-based ‘search’ interface can render it of limited use to researchers. The application of more sophisticated computational techniques permits a comprehensive analysis of the historical records of the Kissinger collection at the DNSA, and facilitates meaningful historical interpretations. While this new way of looking at history is based on data, unlike other methods of historical analysis (eg ‘cliometrics’) it is the variations of the content of the text itself, rather than economic data, that is measured.
+
+</div>
 
 <h2 id="workshops">Workshops</h2>
 
