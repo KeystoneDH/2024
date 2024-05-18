@@ -40,7 +40,7 @@ body{
 }
 
 /*STRIKETHROUGH text in <s> */
-s {text-decoration:line-through; text-decoration-thickness:3px;}
+s {text-decoration:line-through; text-decoration-thickness:2px;}
 
 /*.trapezoid !*MAKE SET SIZE FOR SMALLER SCREENS*!*/
 /*{   z-index: -1;*/
