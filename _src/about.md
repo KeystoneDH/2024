@@ -60,8 +60,7 @@ We encourage the following supportive behaviors:
 - Consider your diverse audience: Colloquialisms, specific cultural references, and humor may prevent someone else from understanding the conveyed message.
 - Accept critique graciously and offer it kindly and constructively. 
 - Encourage and yield the floor to those whose viewpoints may be under-represented in a group.
-- Negotiate differences respectfully: We expect disagreements of many kinds (philosophical, technical, etc) at a conference. The fruits of these disagreements could yield new ways of seeing and thinking. The strength of our community comes from its diversity. Not being unable to understand why someone holds a viewpoint does not mean that they are wrong. Help each other to resolve issues, find common ground, and learn from mistakes.
-- 
+- Negotiate differences respectfully: We expect disagreements of many kinds (philosophical, technical, etc) at a conference. The fruits of these disagreements could yield new ways of seeing and thinking. The strength of our community comes from its diversity. Help each other to resolve issues, find common ground, and learn from mistakes.
 - Be ethical: Give credit where it is due. Be sure to properly acknowledge and credit contributions of others to your work. 
 
 We will not tolerate harassment of conference participants in any form. Harassment includes offensive verbal comments related to race, ethnicity, sex, gender identity or expression, sexual orientation, country of origin, age, disability, physical appearance, body size, religion, veteran status or other protected class status; discriminatory or offensive images in public spaces; intimidation; stalking; harassing or unwanted photography or recording; sustained disruption of talks or other events; inappropriate physical contact; and unwelcome sexual attention. Participants violating the code of conduct may be warned or asked to leave by conference organizers.
