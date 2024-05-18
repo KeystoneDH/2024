@@ -14,7 +14,7 @@ title: "schedule"
 <div class="sessionCont">
 
 #### Panel: Building Games, Reed 114
-
+Chair: Melinda Cohoon
 <ul>
 <li><a href="abstracts.html#IP-10"><q>Kart Racing at the Fall of the Berlin Wall: Game Jams as Scholarly Inquiry in the History Classroom</q></a>
 <p class="auth">R. C. Miessler (Gettysburg College) and Greg Lord (Northeastern University)</p></li>
@@ -30,6 +30,7 @@ title: "schedule"
 
 
 ### Keynote Panel Part 1: (M 5/20) 10:45am - 12:15pm, McGarvey Commons 
+Chairs: Elisa Beshero-Bondar, Lauren Liebe, Joel Hunt
 <div class="sessionCont">
 <ul>
 <li><a href="abstracts.html#KEY-1"><q>Embracing the Glitch</q></a>
@@ -52,7 +53,7 @@ title: "schedule"
 <div class="sessionCont">
 
 #### Panel A: Digital Communities, Reed 114
-
+Chair: Joel Hunt
 <ul>
 <li><a href="abstracts.html#IP-12"><q>I Have NoSleep, and I Must Read: Re-Mediation and Hybrid Genres on Reddit’s r/NoSleep</q></a><p class="auth"> Caden Holbrook (University of Louisville)</p></li>
 
@@ -63,7 +64,7 @@ title: "schedule"
 </ul>
 
 #### Panel B: Forms of Practice, Reed 113
-
+Chair: Maria Doyle
 <ul>
 <li><a href="abstracts.html#IP-7"><q>Wilderness Walk: Computational Literary Approaches to the Digital Environmental Humanities</q></a><p class="auth"> Zach Whalen (University of Mary Washington)</p></li>
 
@@ -79,7 +80,7 @@ title: "schedule"
 <div class="sessionCont">
 
 #### Workshop: Reed 114
-
+Chair: Chandni Naidu
 <ul>
 <li><a href="abstracts.html#OTHER-1"><q>Art + Data Workshop</q></a><p class="auth"> Chelsea Gunn and Liz Monk (University of Pittsburgh)</p></li>
 </ul>
@@ -94,7 +95,7 @@ title: "schedule"
 <div class="sessionCont">
 
 #### Panel A: Digital Art and Virtual Modeling, Reed 112 
-
+Chair: Amanda Licastro
 <ul>
 <li><a href="abstracts.html#IWP-5">Temporal Weaving: Environmentalist Discourse, and Generative Cinematic Deconstruction in <q>The Chautauqua County Almanac</q></a><p class="auth"> Tommy Hartung (Penn State Behrend)</p></li>
 
@@ -104,7 +105,7 @@ title: "schedule"
 </ul>
 
 #### Panel B: Location-based Storytelling: Green Book Cleveland and Queer Cleveland, Reed 113
-
+Chair: Chandni Naidu
 <ul>
 <li><a href="abstracts.html#PANEL-1"><q>Location-based Storytelling with WordPress: Green Book Cleveland and Queer Cleveland</q></a>
 <p class="auth"> J. Mark Souther, Erin J. Bell, Riley Habyl, Elena Solá, and Bali White (Cleveland State University)</p></li>
@@ -123,6 +124,7 @@ title: "schedule"
 <div class="sessionCont">
 
 #### Panel: Games/Simulations about the Human Body, Reed 114 
+Chair: Melinda Cohoon
 <ul>
 <li><a href="abstracts.html#IP-4"><q>Shaping sympathetic classroom communities: Interactive games about mental health</q></a><p class="auth"> Kristine Kelly (Case Western Reserve University)</p></li>
 
@@ -134,6 +136,7 @@ title: "schedule"
 </div>
 
 ### Keynote Part 2: (T 5/21) 10:45am - 12:15pm, McGarvey Commons
+Chair: Lauren Liebe
 <div class="sessionCont">
 Following the structured orientation to their projects in Monday’s keynote panel, Licastro, Clark, and Kaufman lead discussion of participants' experiences of their projects.
 </div>
@@ -146,7 +149,7 @@ Following the structured orientation to their projects in Monday’s keynote pan
 <div class="sessionCont">
 
 #### Panel: Linguistic Analyses: Exploratory Methods, Reed 112
-
+Chair: Manoj Singh Rana
 <ul>
 <li><a href="abstracts.html#IP-24"><q>Language Games : What Artificial Languages can Teach Us</q></a><p class="auth"> Patrick Juola (Duquesne University)</p></li>
 
@@ -156,6 +159,7 @@ Following the structured orientation to their projects in Monday’s keynote pan
 </ul>
 
 #### Workshop: Reed 114
+Chair: Tommy Hartung
 <ul>
 <li><a href="abstracts.html#OTHER-4"><q>Launching a 3D Printing Initiative</q></a><p class="auth"> Dr. Mark Gallimore and Tyler Kron-Piatek (Canisius University)</p></li>
 </ul>
@@ -168,6 +172,7 @@ Following the structured orientation to their projects in Monday’s keynote pan
 <div class="sessionCont">
 
 #### Panel A: Retro Games, Reed 112
+Chair: Melinda Cohoon
 <ul>
 <li><a href="abstracts.html#IP-13"><q>MUD, Metroid, and Mortal Kombat: Pedagogical Approaches to Video Game History</q></a><p class="auth"> Lauren Liebe (Penn State Behrend)</p></li>
 
@@ -177,6 +182,7 @@ Following the structured orientation to their projects in Monday’s keynote pan
 </ul>
 
 #### Panel B: Multilingual DH: Problems and Creative Possibilities, Reed 113 
+Chair: Elisa Beshero-Bondar
 <ul>
 <li><a href="abstracts.html#IP-16"><q>Developing StoryWorlds ITK (Indigenous Traditional Knowledge)</q></a><p class="auth"> Dmitriy Babichenko (University of Pittsburgh)</p></li>
 
@@ -196,7 +202,7 @@ Following the structured orientation to their projects in Monday’s keynote pan
 <div class="sessionCont">
 
 #### Panel: AI in DH / Education, Reed 114
-
+Chair: Manoj Singh Rana
 <ul>
 <li><a href="abstracts.html#IP-26"><q>Generative AI in Digital Humanities Education</q></a><p class="auth"> Natasha Johnson (Carnegie Mellon University)</p></li>
 
@@ -216,6 +222,7 @@ Following the structured orientation to their projects in Monday’s keynote pan
 <div class="sessionCont">
 
 #### Panel A: Digital Archives, Reed 112
+Chair: Lauren Liebe
 <ul>
 <li><s><a href="abstracts.html#IP-5"><q>Playing Well with Others: Creating Sustainable Digital Projects through Collaborative Exploration</q></a><p class="auth"> Linda Ballinger, Binky Lush, Dominique Luster, and Forough Yazdanpanah (Penn State University Libraries)</p></s></li>
 
@@ -225,7 +232,7 @@ Following the structured orientation to their projects in Monday’s keynote pan
 </ul>
 
 #### Panel B: Game Analysis: Games as Literary / Cultural Objects, Reed 113
-
+Chair: Zach Whalen
 <ul>
 <li><a href="abstracts.html#IP-17"><q>The Universe Peoples: Interrogating Mediated Communication of a Symptomatic Deep Ecology via OReilly’s Everything</q></a><p class="auth"> Jerald Lim (Univesity of Utah)</p></li>
 
@@ -243,7 +250,7 @@ Following the structured orientation to their projects in Monday’s keynote pan
 <div class="sessionCont">
 
 #### Panel A: Food Processing in DH, Reed 112
-
+Chair: Elisa Beshero-Bondar
 <ul>
 <li><a href="abstracts.html#IP-8"><q>German cursive and the promise of AI: Transcribing culinary manuscripts and having fun recreating old
 recipes</q></a><p class="auth"> Jason A. Reuscher (Penn State Libraries)</p></li>
@@ -252,7 +259,7 @@ recipes</q></a><p class="auth"> Jason A. Reuscher (Penn State Libraries)</p></li
 </ul>
 
 #### Panel B: Games in Literature, Reed 114
-
+Chair: Kris Kelly
 <ul>
 <li><a href="abstracts.html#IP-9"><q>Black Ludology: Theorizing Play in Black Literature</q></a><p class="auth"> Austin Anderson (Howard University)</p></li>
 
