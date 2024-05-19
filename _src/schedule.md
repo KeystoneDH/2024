@@ -159,7 +159,7 @@ Chair: Manoj Singh Rana
 </ul>
 
 #### Workshop: Reed 114
-Chair: Tommy Hartung
+
 <ul>
 <li><a href="abstracts.html#OTHER-4"><q>Launching a 3D Printing Initiative</q></a><p class="auth"> Dr. Mark Gallimore and Tyler Kron-Piatek (Canisius University)</p></li>
 </ul>
