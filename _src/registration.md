@@ -110,10 +110,10 @@ The rate offered is <strong>$79.99 per room, per night</strong>. This rate is di
 
 ### Parking on Campus
 
-We will be providing Event Parking Passes at the entrance to the conference that will be valid for all days of the conference.
+Parking will be free for our conference attendees, and the <strong>Reed Lot</strong> is reserved for us through the conference. When there is no parking available in Reed Lot, the second-closest lot is <strong>Erie Lot</strong>. 
 
-The parking lot closest to the Reed Union Building is the <strong>Reed Lot</strong>. When there is no parking available in Reed Lot, the second-closest lot is <strong>Erie Lot</strong>. Further lots are <strong>Prischak, Benson, Nick, Jordan Road, and Junker Lot</strong>. Check out the map above for a visual layout of the campus. 
+For those staying overnight on campus in Senat Hall, you can park either in Reed Lot or up the hill in Tiffany Lot. When you arrive to campus, you will be able to go up Jordan Road to Ambrosia Drive and drive past Perry Hall to a small circle in front of Senat Hall to unload. That is convenient as a drop-off point but not a parking area—so we recommend moving the car down to Reed Lot or up to Tiffany Lot. 
 
-
+Here is [a detailed campus map](https://behrend.psu.edu/map) for a visual layout of the campus and parking lots. 
 
 </div>
