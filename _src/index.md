@@ -52,7 +52,7 @@ virtual world projected on monitors.
 
 
 
-## Who Will Be Here
+## Where we came from, and when we're scheduled!
 
 <iframe src="https://timemapper.okfnlabs.org/anon/ywh9nt-keystone-dh?embed=1" frameborder="0" style="border: none;" width="100%" height="780px"></iframe>
 </div>
