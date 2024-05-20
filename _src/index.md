@@ -52,13 +52,7 @@ virtual world projected on monitors.
 
 
 
-## Accessing the conference
+## Where we came from, and when we're scheduled!
 
-Like last year's successful event, the 2024 conference will be **fully in person**. We ask all participants to join us on site at Penn State Behrend's campus.
-(In case of problems / disrupted travel, please be in touch with your
-session chair / co-panelists who may be able to facilitate a virtual connection on site.)
-* We plan to provide low-cost accommodations on Behrend campus, in easy walking range of conference events.
-* Hotels are available near campus or on the waterfront in Erie, but most will require transit or be easier with car transport. We'll provide travel guidance on this site!
-* Please [write to the organizers](mailto:contact@keystonedh.network) with questions about access.
-
+<iframe src="https://timemapper.okfnlabs.org/anon/ywh9nt-keystone-dh?embed=1" frameborder="0" style="border: none;" width="100%" height="780px"></iframe>
 </div>
