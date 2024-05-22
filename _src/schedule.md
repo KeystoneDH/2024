@@ -231,7 +231,7 @@ Chair: Lauren Liebe
 <li><a href="abstracts.html#IP-2"><q>Locke Anthology 2.0</q></a><p class="auth"> Zach Schleger (Penn State Behrend)</p></li>
 </ul>
 
-#### Panel B: Game Analysis: Games as Literary / Cultural Objects, Reed 113
+#### Panel B: Game Analysis: Games as Literary / Cultural Objects, Reed 114
 Chair: Zach Whalen
 <ul>
 <li><a href="abstracts.html#IP-17"><q>The Universe Peoples: Interrogating Mediated Communication of a Symptomatic Deep Ecology via OReilly’s Everything</q></a><p class="auth"> Jerald Lim (University of Utah)</p></li>
@@ -270,7 +270,7 @@ Chair: Kris Kelly
 
 </div>
 
-### Concluding Discussion and LUNCH 12:15 - 1:15pm: Bring lunch from Bruno's to Reed 114
+### Concluding Discussion and LUNCH 12:15 - 1:15pm: Bruno's 
 
 
 </div>
