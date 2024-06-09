@@ -41,7 +41,7 @@ digital humanities projects designed and developed in virtual / augmented realit
 </div>
 
 * Kaufman will present her <q>Quantifying Kissinger</q> project: a scholarly archive designed for 3D abstract interactive immersion via game engine technology.
-* Licastro's presentation, <q>Embracing the Glitch</q>, will address supporting Extended Reality (XR) across the curriculum, and will feature student work from her course
+* Licastro's presentation, <q><a href="https://docs.google.com/presentation/d/1HGRyqmRKL7vDmX5BWvgRG45AM2GWn-61yhiPx98Z7wc/edit#slide=id.p" target="_blank">Embracing the Glitch</a></q>, will address supporting Extended Reality (XR) across the curriculum, and will feature student work from her course
   (Virtual Bodies, Virtual Worlds).
 * Clark will present <q>Designing and Building a VR Game for Primary Source Literacy</q>, building on her work with the Virtual Bloxson project. 
 

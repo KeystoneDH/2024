@@ -29,7 +29,7 @@ In this 90-minute workshop, we will discuss the essentials for starting a 3D pri
 
 <div id="OTHER-1">
 
-### Art + Data Workshop
+### <a href="https://docs.google.com/presentation/d/10HYcgC3s_MR2k8AVSBMOmbD83ebmLZudHWVSSBILq44/edit#slide=id.g292776485db_0_0" target="_blank">Art + Data Workshop</a>
 
 <i class="name">Chelsea Gunn and Liz Monk</i>
 
@@ -254,7 +254,7 @@ Source: Ito, M., et al. Connected Learning: An Agenda for Research and Design, 2
 
 <div id="OTHER-3">
 
-### Art from the Archives: Engaging Creativity With Historic Textual Descriptions of Art Works
+### <a href="https://docs.google.com/presentation/d/1-iHvVQ4hgWvC7B_HJJtQ1iQoFG2cMPymGfmzWG-t8uA/edit#slide=id.g5f543ab34964f13b_2" target="_blank">Art from the Archives: Engaging Creativity With Historic Textual Descriptions of Art Works</a>
 
 <i class="name">Jacob Gordon</i>
 
@@ -496,7 +496,7 @@ In addition to providing a space for public recognition, the open FOODWAYS platf
 
 <div id="IP-10">
 
-### Kart Racing at the Fall of the Berlin Wall: Game Jams as Scholarly Inquiry in the History Classroom
+### <a href="https://docs.google.com/presentation/d/1UksXL7pzBy9Umd6gJEYLkPoR_bo1tT9UofQTfvrKAHw/edit#slide=id.g2dca5444e68_0_0" target="_blank">Kart Racing at the Fall of the Berlin Wall: Game Jams as Scholarly Inquiry in the History Classroom</a>
 
 <i class="name">R.C. Miessler and Greg Lord</i>
 
@@ -508,7 +508,7 @@ Game jams, such as Ludum Dare, are improvisational attempts to build a game from
 
 <div id="OTHER-5">
 
-### Anything Not Saved Will Be Lost: Video Games as Archives in the Humanities Classroom
+### <a href="https://docs.google.com/presentation/d/1llJhVxNAgUbLWKhlyNsVmQ3T3Un4P5huRG4ww5reNK4/edit#slide=id.g2cc8becbbe8_0_1" target="_blank">Anything Not Saved Will Be Lost: Video Games as Archives in the Humanities Classroom</a>
 
 <i class="name">R.C. Miessler and Bill O'Hara</i>
 
@@ -537,7 +537,7 @@ In the final section, the paper deals with the exploration of the immersive envi
 
 <div id="IP-8">
 
-### German cursive and the promise of AI: Transcribing culinary manuscripts and having fun recreating old recipes
+### <a href="https://sites.psu.edu/dieseskochbuechs1768/project-origins/" target="_blank">German cursive and the promise of AI: Transcribing culinary manuscripts and having fun recreating old recipes</a>
 
 <i class="name">Jason A. Reuscher</i>
 
